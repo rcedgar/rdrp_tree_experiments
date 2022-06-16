@@ -3,7 +3,7 @@ Code, data and results of Muscle5 ensemble experiments on RdRp genus and phylum 
 
 ## Installation
 
-Clone the repository. Add `rdrp_tree_experiments/binaries` to your path. Download the megacc binary from the MEGA web site: [https://www.megasoftware.net/](https://www.megasoftware.net/).
+Clone the repository. Add `rdrp_tree_experiments/binaries` to your path. Download the `megacc` binary from the MEGA web site: [https://www.megasoftware.net/](https://www.megasoftware.net/) and copy to the `binaries/` directory.
 
 ## Running the analyses
 
