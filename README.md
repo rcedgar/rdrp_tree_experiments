@@ -5,6 +5,10 @@ Code, data and results of Muscle5 ensemble experiments on RdRp genus and phylum 
 
 Clone the repository. Add `rdrp_tree_experiments/binaries` to your path. Download the `megacc` binary from the MEGA web site: [https://www.megasoftware.net/](https://www.megasoftware.net/) and copy to the `binaries/` directory.
 
+## Dependencies
+
+Python v3 is required.
+
 ## Running the analyses
 
 The scripts `phylum/scripts/run` and `genus/scripts/run` re-run the analyses from scratch. This will take a few days on a typical multi-core server.
