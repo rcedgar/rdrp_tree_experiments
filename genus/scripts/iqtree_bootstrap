@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-iqtree=`readlink -f ../bin/iqtree`
+iqtree=iqtree
 
 DIR=`readlink -f ..`
 

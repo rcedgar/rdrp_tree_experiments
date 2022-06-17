@@ -5,7 +5,7 @@ if [ $# != 1 ] ; then
 	exit 1
 fi
 
-newick=../bin/newick
+newick=newick
 
 algo=$1
 

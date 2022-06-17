@@ -2,7 +2,7 @@
 
 echo $* >> ../log/args.log
 
-fasttree=`readlink -f ../bin/fasttree`
+fasttree=fasttree
 
 DIR=`readlink -f ..`
 

@@ -9,7 +9,7 @@ fi
 
 algo=$1
 
-newick=../bin/newick
+newick=newick
 
 ./cat_resampled $algo
 

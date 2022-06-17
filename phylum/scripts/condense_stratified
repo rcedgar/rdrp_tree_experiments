@@ -7,7 +7,7 @@ fi
 
 algo=$1
 
-newick=../bin/newick
+newick=newick
 
 intree=../cat_trees_stratified/$algo.newick
 torotree=../cat_trees_stratified/$algo.condensed_withtoro.newick

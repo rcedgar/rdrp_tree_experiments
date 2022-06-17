@@ -2,7 +2,7 @@
 
 echo $* >> ../log/args.log
 
-phyml=`readlink -f ../bin/phyml`
+phyml=phyml
 
 DIR=`readlink -f ..`
 

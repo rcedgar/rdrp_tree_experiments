@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-newick=../bin/newick
+newick=newick
 
 rm -rf ../final_condensed
 mkdir -p ../final_condensed

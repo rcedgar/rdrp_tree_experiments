@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-phyml=`readlink -f ../bin/phyml`
+phyml=phyml
 
 DIR=`readlink -f ..`
 

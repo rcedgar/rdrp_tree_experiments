@@ -2,7 +2,7 @@
 
 echo $* >> ../log/args.log
 
-megacc=`readlink -f ../bin/megacc`
+megacc=megacc
 
 DIR=`readlink -f ..`
 

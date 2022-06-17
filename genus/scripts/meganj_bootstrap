@@ -1,6 +1,6 @@
 #!/bin/bash
 
-megacc=`readlink -f ../bin/megacc`
+megacc=megacc
 
 DIR=`readlink -f ..`
 

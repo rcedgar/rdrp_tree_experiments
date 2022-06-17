@@ -1,6 +1,6 @@
 #!/bin/bash
 
-raxml=`readlink -f ../bin/raxml`
+raxml=raxml
 
 DIR=`readlink -f ..`
 

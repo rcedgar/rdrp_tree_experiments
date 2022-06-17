@@ -7,7 +7,7 @@ fi
 
 algo=$1
 
-newick=../bin/newick
+newick=newick
 
 intree=../trees_bootstrap/$algo/none.0.newick
 roottree=../trees_none.0/$algo.none.0.rooted.newick

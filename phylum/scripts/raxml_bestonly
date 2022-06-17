@@ -2,7 +2,7 @@
 
 echo $* >> ../log/args.log
 
-raxml=`readlink -f ../bin/raxml`
+raxml=raxml
 
 DIR=`readlink -f ..`
 

@@ -1,4 +1,0 @@
-#!/bin/bash -e
-
-./final_condensed
-./topo_counts_all

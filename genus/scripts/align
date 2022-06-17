@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-muscle=../bin/muscle
+muscle=muscle
 
 mkdir -p ../ensembles
 mkdir -p ../alns

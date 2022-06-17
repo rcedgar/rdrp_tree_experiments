@@ -2,7 +2,7 @@
 
 echo $* >> ../log/args.log
 
-iqtree=`readlink -f ../bin/iqtree`
+iqtree=iqtree
 
 DIR=`readlink -f ..`
 
