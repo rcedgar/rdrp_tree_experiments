@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+for dir in `cat ../info/cleandirs.txt`
+do
+	if [ x$dir != x ] ; then
+		echo $dir
+		rm -rf ../$dir
+	fi
+done

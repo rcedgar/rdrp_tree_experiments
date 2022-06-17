@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+for perm in none abc acb bca
+do
+	for pert in 0 1 2 3
+	do
+		$1 $perm.$pert
+	done
+done

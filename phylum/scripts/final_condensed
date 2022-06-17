@@ -1,0 +1,18 @@
+#!/bin/bash -e
+
+newick=../bin/newick
+
+rm -rf ../final_condensed
+mkdir -p ../final_condensed
+cd ../final_condensed
+
+for algo in iqtree raxml fasttree phyml meganj megame megaml
+do
+	cat ../cat_trees_stratified/$algo.condensed_withtoro.newick \
+	  > $algo.stratified.condensed.newick
+done
+
+cat ../cat_trees_stratified/raxmlx.condensed_withtoro.newick \
+  > raxmlx.stratified.condensed.newick
+
+ls -lh

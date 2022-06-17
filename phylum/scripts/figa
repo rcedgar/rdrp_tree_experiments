@@ -1,0 +1,20 @@
+#!/bin/bash -e
+
+mkdir -p ../figs
+
+$newick -drawfsp ../info/figa_filenames.txt \
+  -features ../info/genus_genus.tsv \
+  -colors ../info/genus_color.tsv \
+  -accs \
+  -strokewidth 5 \
+  -trees_per_row 4 \
+  -tree_width 300 \
+  -tree_height 300 \
+  -triangles 80+30 \
+  -draw_internal_labels \
+  -unitlengths \
+  -label_font_size 30 \
+  -title_font_size 30 \
+  -titles ../info/figa_titles.txt \
+  -legend ../figs/figa_legend.svg \
+  -svg ../figs/figa.svg

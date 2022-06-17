@@ -1,0 +1,16 @@
+../final_condensed/fasttree.none.0.condensed.newick
+../final_condensed/fasttree.maxcc.condensed.newick
+../final_condensed/fasttree.ensboot_fels.condensed.newick
+../final_condensed/fasttree.ensboot_xfer.condensed.newick
+../final_condensed/iqtree.none.0.condensed.newick
+../final_condensed/iqtree.maxcc.condensed.newick
+../final_condensed/iqtree.ensboot_fels.condensed.newick
+../final_condensed/iqtree.ensboot_xfer.condensed.newick
+../final_condensed/phyml.none.0.condensed.newick
+../final_condensed/phyml.maxcc.condensed.newick
+../final_condensed/phyml.ensboot_fels.condensed.newick
+../final_condensed/phyml.ensboot_xfer.condensed.newick
+../final_condensed/raxml.none.0.condensed.newick
+../final_condensed/raxml.maxcc.condensed.newick
+../final_condensed/raxml.ensboot_fels.condensed.newick
+../final_condensed/raxml.ensboot_xfer.condensed.newick

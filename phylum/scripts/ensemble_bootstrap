@@ -1,0 +1,59 @@
+#!/bin/bash -e
+
+echo $* >> ../log/args.log
+
+if [ $# != 1 ] ; then
+	echo $0: Bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+newick=../bin/newick
+
+./cat_resampled $algo
+
+ref_tree=../trees_bestonly/$algo/maxcc.newick
+test_trees=../cat_trees_resampled/$algo.newick
+
+tree_fels=../trees_ensemble_bootstrap/$algo.ensboot_fels.newick
+tree_xfer=../trees_ensemble_bootstrap/$algo.ensboot_xfer.newick
+
+rooted_tree_fels=../trees_ensemble_bootstrap/$algo.ensboot_fels.rooted.newick
+rooted_tree_xfer=../trees_ensemble_bootstrap/$algo.ensboot_xfer.rooted.newick
+
+toro_tree_fels=../trees_ensemble_bootstrap/$algo.ensboot_fels.condensed_withtoro.newick
+toro_tree_xfer=../trees_ensemble_bootstrap/$algo.ensboot_xfer.condensed_withtoro.newick
+
+cond_tree_fels=../final_condensed/$algo.ensboot_fels.condensed.newick
+cond_tree_xfer=../final_condensed/$algo.ensboot_xfer.condensed.newick
+
+mkdir -p ../trees_ensemble_bootstrap
+mkdir -p ../final_condensed
+
+./calc_felsboot $ref_tree $test_trees $tree_fels
+./calc_xferboot $ref_tree $test_trees $tree_xfer
+
+$newick -rootbyoutgroup $tree_fels \
+  -labels ../info/labels_ltr.txt \
+  -output $rooted_tree_fels
+
+$newick -rootbyoutgroup $tree_xfer \
+  -labels ../info/labels_ltr.txt \
+  -output $rooted_tree_xfer
+
+$newick -condense $rooted_tree_fels \
+  -ff _2 \
+  -output $toro_tree_fels
+
+$newick -condense $rooted_tree_xfer \
+  -ff _2 \
+  -output $toro_tree_xfer
+
+$newick -deleteleaves $toro_tree_fels \
+  -label LTR \
+  -output $cond_tree_fels
+
+$newick -deleteleaves $toro_tree_xfer \
+  -label LTR \
+  -output $cond_tree_xfer

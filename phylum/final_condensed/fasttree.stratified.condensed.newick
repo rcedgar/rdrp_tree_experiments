@@ -1,0 +1,16 @@
+((((Duplornaviricota:1.539,Negarnaviricota:1.071)0.900:0.8003,(Kitrinoviricota:1.169,Pisuviricota:0.1265)0.427:0.5408)0.884:0.8497,Lenarviricota:0.4723)0.987:0.4755,RT:0.4755)none.0;
+(((((Duplornaviricota:0.5512,Negarnaviricota:1.284)1.000:1.138,Pisuviricota:0.3577)0.501:0.08948,Kitrinoviricota:1.62)0.761:0.9745,Lenarviricota:0.9256)0.988:0.3379,RT:0.3379)none.1;
+(((((Kitrinoviricota:0.9914,Pisuviricota:0.1435)0.893:0.3256,Duplornaviricota:1.363)0.468:0.3592,Negarnaviricota:0.1918)0.867:0.4106,Lenarviricota:1.529)0.898:0.3952,RT:0.3952)none.2;
+((((Duplornaviricota:1.923,Pisuviricota:0.3602)0.838:0.2975,Lenarviricota:1.129)0.822:0.3244,(Kitrinoviricota:0.2011,Negarnaviricota:0.6889)0.890:0.6249)0.806:0.4096,RT:0.4096)none.3;
+((((Duplornaviricota:1.511,Negarnaviricota:0.9322)0.996:0.9345,(Kitrinoviricota:1.396,Pisuviricota:0.2384)0.895:0.7491)0.928:0.4373,Lenarviricota:0.9348)0.898:0.3226,RT:0.3226)abc.0;
+((((Duplornaviricota:0.6974,Negarnaviricota:1.11)0.914:0.7026,(Kitrinoviricota:1.214,Pisuviricota:0.4016)0.354:0.3266)0.823:0.6312,Lenarviricota:0.6295)0.967:0.3817,RT:0.3817)abc.1;
+(((((Kitrinoviricota:0.8825,Pisuviricota:0.05994)0.459:0.4492,Duplornaviricota:1.056)0.962:0.1104,Negarnaviricota:0.8912)0.156:0.7467,Lenarviricota:0.6309)0.988:0.2656,RT:0.2656)abc.2;
+(((((Kitrinoviricota:0.6744,Negarnaviricota:0.9195)0.966:0.5825,Pisuviricota:0.405)0.957:0.05469,Duplornaviricota:1.539)0.482:0.624,Lenarviricota:1.004)0.971:0.4807,RT:0.1548)abc.3;
+((((Duplornaviricota:1.542,Negarnaviricota:0.4737)0.990:0.8441,(Kitrinoviricota:1.321,Pisuviricota:0.09839):0.5284)0.835:0.9435,Lenarviricota:0.4534)0.990:0.4351,RT:0.4351)acb.0;
+((((Duplornaviricota:0.6925,Negarnaviricota:1.223)0.967:0.845,(Kitrinoviricota:1.274,Pisuviricota:0.1553)0.772:0.5298)0.912:0.4433,Lenarviricota:0.775)0.884:0.4536,RT:0.4536)acb.1;
+(((((Kitrinoviricota:0.9528,Pisuviricota:0.3004)0.933:0.3534,Duplornaviricota:1.366)0.904:0.294,Negarnaviricota:1.373)0.859:0.4511,Lenarviricota:0.5047)0.926:0.3782,RT:0.3782)acb.2;
+((((Duplornaviricota:1.843,Pisuviricota:0.2897)0.831:0.3106,(Kitrinoviricota:0.52,Negarnaviricota:0.8768)0.868:0.7134):0.4933,Lenarviricota:0.9746)0.793:0.5063,RT:0.1728)acb.3;
+((((Duplornaviricota:1.578,Negarnaviricota:0.7618)0.917:0.5862,(Kitrinoviricota:1.206,Pisuviricota:0.1601)0.604:0.7707)0.968:0.7351,Lenarviricota:0.6017)0.984:0.3697,RT:0.3697)bca.0;
+(((((Duplornaviricota:0.5512,Negarnaviricota:1.284)1.000:1.138,Pisuviricota:0.3577)0.501:0.08948,Kitrinoviricota:1.62)0.761:0.9745,Lenarviricota:0.9256)0.988:0.3379,RT:0.3379)bca.1;
+(((((Kitrinoviricota:0.8925,Pisuviricota:0.00632)0.042:0.4628,Duplornaviricota:1.384)0.900:0.4926,Negarnaviricota:1.2)0.956:0.5934,Lenarviricota:0.4345)0.966:0.3604,RT:0.3604)bca.2;
+(((((Kitrinoviricota:0.06418,Negarnaviricota:0.7404)0.911:0.9701,Duplornaviricota:1.812)0.619:0.1755,Pisuviricota:0.332)0.879:0.794,Lenarviricota:1.023)0.991:0.5984,RT:0.1708)bca.3;

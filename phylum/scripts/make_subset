@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+mkdir -p ../data
+
+python3 $py/wolf18_fasta_phylum_subset.py \
+  > ../data/subset.fa

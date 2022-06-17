@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+outdir=../raxml_modeltest
+
+rm -rf $outdir
+mkdir -p $outdir
+cd $outdir
+../bin/modeltest -i ../alns/maxcc -d aa | tee modeltest.txt

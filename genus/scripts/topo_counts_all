@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+cd ../cat_trees_diversified
+
+mkdir -p ../topo_counts
+
+sort *.topo*.newick \
+  | uniq -c \
+  | sort -nr \
+  | sed "-es/^  *//" \
+  | sed "-es/ / /" \
+  | tee ../topo_counts/all

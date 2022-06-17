@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+mkdir -p ../log
+
+./run > ../log/stdout.txt 2> ../log/stderr.txt

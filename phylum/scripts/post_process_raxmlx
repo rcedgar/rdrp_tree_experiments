@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+./root_bootstrap raxmlx
+./cat_stratified raxmlx
+./condense_stratified raxmlx

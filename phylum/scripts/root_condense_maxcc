@@ -1,0 +1,37 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+newick=../bin/newick
+
+intree=../trees_bootstrap/$algo/maxcc.newick
+roottree=../trees_maxcc/$algo.maxcc.rooted.newick
+covtree=../trees_maxcc/$algo.maxcc.cov.newick
+condtree=../final_condensed/$algo.maxcc.condensed.newick
+
+if [ ! -s $intree ] ; then
+	echo $0: Not found intree=$intree >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p ../trees_maxcc
+mkdir -p ../final_condensed
+
+$newick -rootbyoutgroup $intree \
+  -labels ../info/labels_ltr.txt \
+  -output $roottree
+
+$newick -condense $roottree \
+  -ff _2 \
+  -output $covtree
+
+$newick -deleteleaves $covtree \
+  -label LTR \
+  -output $condtree
+
+ls -lh $condtree

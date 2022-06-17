@@ -1,0 +1,3 @@
+91 (((Alpha,Beta),Gamma),Delta);
+6 (((Delta,Gamma),Alpha),Beta);
+3 ((Beta,Delta),Gamma);

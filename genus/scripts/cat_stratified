@@ -1,0 +1,39 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+outdir=../cat_trees_stratified
+outtree=$outdir/$algo.newick
+
+indir=../trees_bootstrap_rooted/$algo
+
+if [ ! -d $indir ] ; then
+	echo $0: Not found indir=$indir >> /dev/stderr
+	exit 1
+fi
+
+rm -f $outtree
+mkdir -p $outdir
+
+for perm in none abc acb bca
+do
+	for pert in 0 1 2 3
+	do
+		name=$perm.$pert
+		tree=$indir/$name.newick
+		if [ ! -s $tree ] ; then
+			echo $0: Not found tree=$tree >> /dev/stderr
+			exit 1
+		fi
+		echo $tree
+		cat $tree \
+		  >> $outtree
+	done
+done
+
+ls -lh $outtree

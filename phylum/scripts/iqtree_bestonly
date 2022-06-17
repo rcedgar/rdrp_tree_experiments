@@ -1,0 +1,32 @@
+#!/bin/bash -e
+
+echo $* >> ../log/args.log
+
+iqtree=`readlink -f ../bin/iqtree`
+
+DIR=`readlink -f ..`
+
+aln=$DIR/alns/$1
+workdir=$DIR/workdirs/iqtree_bestonly/$1
+outdir=$DIR/trees_bestonly/iqtree
+outtree=$outdir/$1.newick
+
+if [ ! -s $aln ] ; then
+	echo $0: Not found aln=$aln >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p $workdir
+mkdir -p $outdir
+
+cd $workdir
+
+rm -f *aln*
+
+cat $aln > aln
+
+$iqtree -s aln -nt 1 -seed 1 -m Blosum62+F+I+G4
+
+cat aln.treefile > $outtree
+
+ls -lh $outtree

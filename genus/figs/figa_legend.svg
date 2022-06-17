@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" >
+<rect x="50" y="50" width="25" height="8" stroke-width="1" stroke="crimson" fill="crimson" />
+<text x="80" y="58" font-family="Arial" font-size="10" font-weight="normal" fill="black" text-anchor="start">Alpha</text>
+<rect x="50" y="70" width="25" height="8" stroke-width="1" stroke="green" fill="green" />
+<text x="80" y="78" font-family="Arial" font-size="10" font-weight="normal" fill="black" text-anchor="start">Beta</text>
+<rect x="50" y="90" width="25" height="8" stroke-width="1" stroke="orange" fill="orange" />
+<text x="80" y="98" font-family="Arial" font-size="10" font-weight="normal" fill="black" text-anchor="start">Gamma</text>
+<rect x="50" y="110" width="25" height="8" stroke-width="1" stroke="dodgerblue" fill="dodgerblue" />
+<text x="80" y="118" font-family="Arial" font-size="10" font-weight="normal" fill="black" text-anchor="start">Delta</text>
+<rect x="50" y="130" width="25" height="8" stroke-width="1" stroke="purple" fill="purple" />
+<text x="80" y="138" font-family="Arial" font-size="10" font-weight="normal" fill="black" text-anchor="start">Toro</text>
+</svg>

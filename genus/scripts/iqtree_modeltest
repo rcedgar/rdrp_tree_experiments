@@ -1,0 +1,11 @@
+#!/bin/bash -e
+
+outdir=../iqtree_modeltest
+
+rm -rf $outdir
+mkdir -p $outdir
+cd $outdir
+
+cp ../alns/maxcc .
+
+../bin/iqtree -s maxcc -m TESTONLY | tee modeltest.txt

@@ -1,0 +1,6 @@
+551 (((Alpha,Beta),Gamma),Delta);
+77 (((Delta,Gamma),Beta),Alpha);
+35 (((Delta,Gamma),Alpha),Beta);
+33 (((Beta,Gamma),Alpha),Delta);
+3 ((Beta,Delta),Gamma);
+1 ((Alpha,Beta),(Delta,Gamma));

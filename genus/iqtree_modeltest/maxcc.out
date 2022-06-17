@@ -1,0 +1,177 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        ../alns/maxcc
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            26
+  #sites:           580
+  #patterns:        493
+  Max. thread mem:  29 MB
+
+Output:
+  Log:           ../alns/maxcc.log
+  Starting tree: ../alns/maxcc.tree
+  Results:       ../alns/maxcc.out
+
+Selection options:
+  # protein matrices: 19
+  # protein models:   152
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: false
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/10
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+G4+F           20    -12623.1912     25685.4313         0.0000    0.9688
+       2  LG+I+G4+F         21    -12623.4503     25692.3126         6.8813    0.0310
+       3  LG+G4              1    -12692.7058     25703.5631        18.1317    0.0001
+       4  LG+I+G4            2    -12692.9593     25710.4330        25.0016    0.0000
+       5  RTREV+G4+F        20    -12658.6298     25756.3086        70.8772    0.0000
+       6  RTREV+I+G4+F      21    -12659.0179     25763.4478        78.0164    0.0000
+       7  WAG+G4+F          20    -12704.2071     25847.4631       162.0317    0.0000
+       8  WAG+I+G4+F        21    -12704.4954     25854.4027       168.9714    0.0000
+       9  WAG+I+G4           2    -12777.6573     25879.8290       194.3977    0.0000
+      10  VT+G4+F           20    -12747.5441     25934.1371       248.7058    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              LG+G4+F
+lnL:                -12623.1912
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647
+Inv. sites prop:    -
+Gamma shape:        0.6241
+Score:              25685.4313
+Weight:             0.9688
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.9690
+Gamma-Inv:          0.0310
+Frequencies:        0.9999
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.1353
+Alpha:              0.6241
+Alpha-P.Inv:        0.6632
+P.Inv-Alpha:        0.0220
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647 
+
+Commands:
+  > phyml  -i ../alns/maxcc -d aa -m LG -f e -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../alns/maxcc -m PROTGAMMALGF -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../alns/maxcc --model LG+G4+F
+  > paup -s ../alns/maxcc
+  > iqtree -s ../alns/maxcc -m LG+G4+F
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+G4+F           20    -12623.1912     25384.3824         0.0000    0.7789
+       2  LG+I+G4+F         21    -12623.4503     25386.9007         2.5183    0.2211
+       3  RTREV+G4+F        20    -12658.6298     25455.2596        70.8772    0.0000
+       4  RTREV+I+G4+F      21    -12659.0179     25458.0358        73.6534    0.0000
+       5  LG+G4              1    -12692.7058     25485.4117       101.0293    0.0000
+       6  LG+I+G4            2    -12692.9593     25487.9185       103.5361    0.0000
+       7  WAG+G4+F          20    -12704.2071     25546.4141       162.0317    0.0000
+       8  WAG+I+G4+F        21    -12704.4954     25548.9908       164.6084    0.0000
+       9  VT+G4+F           20    -12747.5441     25633.0882       248.7058    0.0000
+      10  VT+I+G4+F         21    -12747.9004     25635.8008       251.4183    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              LG+G4+F
+lnL:                -12623.1912
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647
+Inv. sites prop:    -
+Gamma shape:        0.6241
+Score:              25384.3824
+Weight:             0.7789
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.7789
+Gamma-Inv:          0.2211
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.1353
+Alpha:              0.6241
+Alpha-P.Inv:        0.6632
+P.Inv-Alpha:        0.0220
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647 
+
+Commands:
+  > phyml  -i ../alns/maxcc -d aa -m LG -f e -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../alns/maxcc -m PROTGAMMALGF -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../alns/maxcc --model LG+G4+F
+  > paup -s ../alns/maxcc
+  > iqtree -s ../alns/maxcc -m LG+G4+F
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+G4+F           20    -12623.1912     25402.3824         0.0000    0.8531
+       2  LG+I+G4+F         21    -12623.4503     25405.9007         3.5183    0.1469
+       3  RTREV+G4+F        20    -12658.6298     25473.2596        70.8772    0.0000
+       4  RTREV+I+G4+F      21    -12659.0179     25477.0358        74.6534    0.0000
+       5  LG+G4              1    -12692.7058     25494.4117        92.0293    0.0000
+       6  LG+I+G4            2    -12692.9593     25497.9185        95.5361    0.0000
+       7  WAG+G4+F          20    -12704.2071     25564.4141       162.0317    0.0000
+       8  WAG+I+G4+F        21    -12704.4954     25567.9908       165.6084    0.0000
+       9  VT+G4+F           20    -12747.5441     25651.0882       248.7058    0.0000
+      10  VT+I+G4+F         21    -12747.9004     25654.8008       252.4183    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              LG+G4+F
+lnL:                -12623.1912
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647
+Inv. sites prop:    -
+Gamma shape:        0.6241
+Score:              25402.3824
+Weight:             0.8531
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.8531
+Gamma-Inv:          0.1469
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.1353
+Alpha:              0.6241
+Alpha-P.Inv:        0.6632
+P.Inv-Alpha:        0.0220
+Frequencies:        0.0871 0.0409 0.0404 0.0469 0.0335 0.0383 0.0495 0.0886 0.0336 0.0369 0.0854 0.0805 0.0148 0.0398 0.0507 0.0696 0.0585 0.0105 0.0299 0.0647 
+
+Commands:
+  > phyml  -i ../alns/maxcc -d aa -m LG -f e -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../alns/maxcc -m PROTGAMMALGF -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../alns/maxcc --model LG+G4+F
+  > paup -s ../alns/maxcc
+  > iqtree -s ../alns/maxcc -m LG+G4+F
+Done

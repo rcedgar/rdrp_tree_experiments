@@ -1,0 +1,31 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+newick=../bin/newick
+
+intree=../cat_trees_stratified/$algo.newick
+torotree=../cat_trees_stratified/$algo.condensed_withtoro.newick
+condtree=../final_condensed/$algo.stratified.condensed.newick
+
+if [ ! -s $intree ] ; then
+	echo $0: Not found intree=$intree >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p ../final_condensed
+
+$newick -condense $intree \
+  -ff _2 \
+  -output $torotree
+
+$newick -deleteleaves $torotree \
+  -label LTR \
+  -output $condtree
+
+ls -lh $condtree

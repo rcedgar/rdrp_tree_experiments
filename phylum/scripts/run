@@ -1,0 +1,20 @@
+#!/bin/bash -e
+
+for algo in iqtree raxml fasttree phyml meganj megame
+do
+	./${algo}_bestonly maxcc &
+	./${algo}_bootstrap maxcc &
+done
+
+for algo in iqtree raxml fasttree phyml meganj megame
+do
+	./parallel_for_stratified ./${algo}_bootstrap
+	./parallel_for_resampled ./${algo}_bestonly
+	./parallel_for_diversified ./${algo}_bestonly
+	./post_process $algo
+done
+
+./post_process_raxmlx
+
+./final_condensed
+./topo_counts_all

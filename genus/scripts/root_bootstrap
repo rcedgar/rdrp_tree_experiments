@@ -1,0 +1,32 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+newick=../bin/newick
+
+algo=$1
+
+indir=../trees_bootstrap/$algo
+outdir=../trees_bootstrap_rooted/$algo
+
+if [ ! -d $indir ] ; then
+	echo $0: Not found indir=$indir >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p $outdir
+
+for path in `ls $indir`
+do
+	name=`basename $path`
+	intree=$indir/$name
+	outtree=$outdir/$name
+	shortname=`echo $name | sed "-es/.newick//"`
+	$newick -rootbyoutgroup $intree \
+	  -outgroup P0C6V7_Toro \
+	  -root_label $shortname \
+	  -output $outtree
+done

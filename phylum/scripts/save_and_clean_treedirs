@@ -1,0 +1,10 @@
+#!/bin/bash -e
+
+bakdir=$res/bak_cov_genus_trees
+rm -rf $bakdir
+mkdir -p $bakdir
+
+for dir in `cat ../info/treedirs.txt`
+do
+	mv -v ../$dir $bakdir
+done

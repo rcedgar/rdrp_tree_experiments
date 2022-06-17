@@ -1,0 +1,37 @@
+#!/bin/bash
+
+megacc=`readlink -f ../bin/megacc`
+
+DIR=`readlink -f ..`
+
+mao=`readlink -f ../mao/infer_NJ_amino_acid.mao`
+aln=$DIR/alns/$1
+workdir=$DIR/workdirs/meganj_bootstrap/$1
+outdir=$DIR/trees_bootstrap/meganj
+outtree=$outdir/$1.newick
+
+if [ ! -s $aln ] ; then
+	echo $0: Not found aln=$aln >> /dev/stderr
+	exit 1
+fi
+
+rm -rf $workdir
+mkdir -p $workdir
+mkdir -p $outdir
+
+cd $workdir
+
+rm -f *meganj*
+
+python3 $DIR/py/fasta2meg.py $aln > aln.meg
+
+$megacc -a $mao \
+  -d aln.meg \
+  -o $workdir/mega
+
+ls -lh $workdir
+
+cat $workdir/mega.nwk > $outtree
+
+echo outtree:
+ls -lh $outtree

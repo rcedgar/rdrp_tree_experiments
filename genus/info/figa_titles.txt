@@ -1,0 +1,16 @@
+fasttree-0
+fasttree-M*
+fasttree-EF
+fasttree-ET
+iqtree-0
+iqtree-M*
+iqtree-EF
+iqtree-ET
+phyml-0
+phyml-M*
+phyml-EF
+phyml-ET
+raxml-0
+raxml-M*
+raxml-EF
+raxml-ET

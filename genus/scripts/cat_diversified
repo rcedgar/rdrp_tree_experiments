@@ -1,0 +1,29 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+outdir=../cat_trees_diversified
+outtree=$outdir/$algo.newick
+
+indir=../trees_bestonly_rooted/$algo
+
+if [ ! -d $indir ] ; then
+	echo $0: Not found indir=$indir >> /dev/stderr
+	exit 1
+fi
+
+rm -f $outtree
+mkdir -p $outdir
+
+for path in `ls $indir/diversified.*.newick`
+do
+	echo $path
+	cat $path >> $outtree
+done
+
+ls -lh $outtree

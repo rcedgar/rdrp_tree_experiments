@@ -1,0 +1,35 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: Bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+newick=../bin/newick
+
+intree=../cat_trees_diversified/$algo.newick
+condtree=../cat_trees_diversified/$algo.condensed.newick
+covonlytree=../cat_trees_diversified/$algo.covonly.newick
+topotree=../cat_trees_diversified/$algo.topo.newick
+
+$newick -condense $intree \
+  -ff _2 \
+  -output $condtree
+
+$newick -deleteleaves $condtree \
+  -label Toro \
+  -output $covonlytree
+
+$newick -topo $covonlytree \
+  -output $topotree
+
+mkdir -p ../topo_counts/
+
+sort $topotree \
+  | uniq -c \
+  | sort -nr \
+  | sed "-es/^  *//" \
+  | sed "-es/ / /" \
+  > ../topo_counts/$algo

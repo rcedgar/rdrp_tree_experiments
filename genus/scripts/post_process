@@ -1,0 +1,18 @@
+#!/bin/bash -e
+
+if [ $# != 1 ] ; then
+	echo $0: Bad nr args >> /dev/stderr
+	exit 1
+fi
+
+algo=$1
+
+./root_bestonly $algo
+./root_bootstrap $algo
+./cat_diversified $algo
+./cat_stratified $algo
+./cat_resampled $algo
+./condense_stratified $algo
+./ensemble_bootstrap $algo
+./condense_topo_diversified $algo
+./root_condense_maxcc $algo

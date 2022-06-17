@@ -1,0 +1,27 @@
+#!/bin/bash -e
+
+muscle=../bin/muscle
+
+mkdir -p ../ensembles
+mkdir -p ../alns
+
+$muscle -align ../data/cov.fa \
+  -stratified \
+  -output ../ensembles/stratified
+
+$muscle -align ../data/cov.fa \
+  -diversified \
+  -output ../ensembles/diversified
+
+$muscle -resample ../ensembles/diversified \
+  -minconf 0 \
+  -output ../alns/resampled@
+
+$muscle -maxcc ../ensembles/diversified \
+  -output ../alns/maxcc
+
+$muscle -efa_explode ../ensembles/stratified \
+  -prefix ../alns/
+
+$muscle -efa_explode ../ensembles/diversified \
+  -prefix ../alns/diversified.

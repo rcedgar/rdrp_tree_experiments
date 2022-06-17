@@ -1,0 +1,36 @@
+#!/bin/bash -e
+
+muscle=../bin/muscle
+
+infa=../data/subset.fa
+
+mkdir -p ../ensembles
+mkdir -p ../alns_gappy
+mkdir -p ../alns
+
+$muscle -align $infa \
+  -stratified \
+  -output ../ensembles/stratified
+
+$muscle -align $infa \
+  -diversified \
+  -output ../ensembles/diversified
+
+$muscle -resample ../ensembles/diversified \
+  -minconf 0 \
+  -output ../alns_gappy/resampled@
+
+$muscle -maxcc ../ensembles/diversified \
+  -output ../alns_gappy/maxcc
+
+$muscle -efa_explode ../ensembles/stratified \
+  -prefix ../alns_gappy/
+
+$muscle -efa_explode ../ensembles/diversified \
+  -prefix ../alns_gappy/diversified.
+
+for x in `ls ../alns_gappy`
+do
+	$muscle -strip_gappy_cols ../alns_gappy/$x \
+	  -output ../alns/$x
+done

@@ -1,0 +1,45 @@
+#!/bin/bash
+
+raxml=`readlink -f ../bin/raxml`
+
+DIR=`readlink -f ..`
+
+aln=$DIR/alns/$1
+workdir=$DIR/workdirs/raxml_bootstrap/$1
+outdir_bootstrap=$DIR/trees_bootstrap/raxml
+outdir_xfer=$DIR/trees_bootstrap/raxmlx
+
+outtree_bootstrap=$outdir_bootstrap/$1.newick
+outtree_xfer=$outdir_xfer/$1.newick
+
+if [ ! -s $aln ] ; then
+	echo $0: Not found aln=$aln >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p $workdir
+mkdir -p $outdir_bootstrap
+mkdir -p $outdir_xfer
+
+cd $workdir
+
+rm -f *raxml*
+
+cat $aln > aln
+
+$raxml --all \
+  --msa aln \
+  --model LG+G4+F \
+  --threads 1 \
+  --seed 1 \
+  --bs-trees 100 \
+  --bs-metric fbp
+
+$raxml --support \
+  --tree aln.raxml.bestTree \
+  --bs-trees aln.raxml.bootstraps \
+  --bs-metric tbe \
+  --prefix xfer 
+
+cat aln.raxml.support > $outtree_bootstrap
+cat xfer.raxml.support > $outtree_xfer

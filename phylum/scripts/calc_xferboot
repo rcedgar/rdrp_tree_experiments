@@ -1,0 +1,44 @@
+#!/bin/bash -e
+
+if [ $# != 3 ] ; then
+	echo $0: bad nr args >> /dev/stderr
+	exit 1
+fi
+
+ref_tree=$1
+test_trees=$2
+out_tree=`readlink -f $3`
+
+if [ ! -s $ref_tree ] ; then
+	echo $0: Not found ref_tree=$ref_tree >> /dev/stderr
+	exit 1
+fi
+
+if [ ! -s $test_tree ] ; then
+	echo $0: Not found test_tree=$test_tree >> /dev/stderr
+	exit 1
+fi
+
+tmpdir=../tmp.$$.$RANDOM
+if [ -d $tmpdir ] ; then
+	echo $0: Already exists tmpdir=$tmpdir >> /dev/stderr
+	exit 1
+fi
+
+currdir=$PWD
+
+mkdir -p $tmpdir
+cd $tmpdir
+
+$raxml --support \
+  --tree $ref_tree \
+  --bs-trees $test_trees \
+  --bs-metric tbe \
+  --prefix tb
+
+cat tb.raxml.support > $out_tree
+
+cd $currdir
+rm -rf $tmpdir
+
+ls -lh $out_tree

@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+for aln in `cd ../alns ; ls diversified.*`
+do
+	$1 $aln
+done

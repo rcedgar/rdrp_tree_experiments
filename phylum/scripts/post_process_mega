@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+for algo in meganj megame meganl
+do
+	./root_bestonly $algo
+	./cat_diversified $algo
+	./condense_topo_diversified $algo
+done

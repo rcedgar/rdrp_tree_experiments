@@ -1,0 +1,34 @@
+#!/bin/bash
+
+echo $* >> ../log/args.log
+
+raxml=`readlink -f ../bin/raxml`
+
+DIR=`readlink -f ..`
+
+aln=$DIR/alns/$1
+workdir=$DIR/workdirs/raxml_bestonly/$1
+outdir=$DIR/trees_bestonly/raxml
+outtree=$outdir/$1.newick
+
+if [ ! -s $aln ] ; then
+	echo $0: Not found aln=$aln >> /dev/stderr
+	exit 1
+fi
+
+mkdir -p $workdir
+mkdir -p $outdir
+
+cd $workdir
+
+rm -f *raxml*
+
+cat $aln > aln
+
+$raxml --search \
+  --msa aln \
+  --model VT+I+G4+F \
+  --threads 1 \
+  --seed 1
+
+cat aln.raxml.bestTree > $outtree

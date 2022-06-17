@@ -1,0 +1,9 @@
+alns
+alns_gappy
+condensed
+ensembles
+trees_bestonly
+trees_bootstrap
+trees_condensed
+trees_rooted
+workdirs
