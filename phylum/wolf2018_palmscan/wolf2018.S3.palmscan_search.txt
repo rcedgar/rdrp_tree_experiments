@@ -1,0 +1,1400 @@
+
+>YP_009336688.1|Sanxia_water_strider_virus_13
+   A:182-193(19.1)      B:242-255(19.8)      C:273-280(7.9)
+   VSCDLTAASDYL    <48> MGTPLAWPILSICH  <17> IVGDDGLL  [99]
+   +| |||||||+|         ||.|+ ||+||+.|       | ||| + 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 56.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG77168.1|Shahe_narna_like_virus_4
+   A:192-203(17.8)      B:254-267(22.6)      C:289-296(12.9)
+   LSSDLTAASDLL    <50> MGAPPTWCLLSLIH  <21> IFGDDLVA  [105]
+   .| ||||||| |         |||| || ||||||       |+|||+|.
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 63.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQM49944.1|Agaricus_bisporus_virus_14
+   A:156-167(13.4)      B:214-227(19.7)      C:261-268(14.4)
+   CSGDGKACTDYF    <46> MGSDFSFPILCLLS  <33> VNGDDIVS  [113]
+   .||| +| ||+|         ||| ||||+|||.        ||||||| 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 57.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337386.1|Wenzhou_narna_like_virus_7
+   A:185-196(20.0)      B:248-261(24.3)      C:318-325(13.5)
+   LSGDFSAATDNI    <51> MGSLLSFPILCLSN  <56> INGDDLAI  [141]
+   .||| |||||+|         |||.+|||+|||.|       |||||+ |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 62.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.BC-dist-penalty.
+
+>APG77272.1|Wenling_narna_like_virus_6
+   A:201-212(13.3)      B:273-286(15.9)      C:323-330(8.9)
+   LNLDYKQATDYI    <60> MGTPMSFLTLNLYN  <36> IVGDDVQC  [130]
+   . +||+ |||+|         ||.|.||  | | |       | |||+ |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 48.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336767.1|Hubei_narna_like_virus_23
+   A:185-196(21.8)      B:242-255(17.1)      C:275-282(14.2)
+   FSYDLKSATDRF    <45> MGLAYSFSLFHLTH  <19> VLGDDVLI  [98]
+   +|.||+||||||         || .+|| || |||       |||||++|
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 63.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ALM62241.1|Soybean_leaf_associated_mitovirus_1
+   A:186-197(24.1)      B:242-255(26.1)      C:276-283(12.5)
+   YSFDLSAATDRL    <44> MGAYSSWAMLAITH  <20> VLGDDFVI  [98]
+   ||+|||||||||         |||||||+||++||       ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 72.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_004564622.1|Tuber_aestivum_mitovirus
+   A:189-200(23.2)      B:265-278(25.9)      C:300-307(16.5)
+   FSFDLSAATDRL    <64> MGALSSWAMLALTH  <21> VLGDDIVI  [119]
+   +|+|||||||||         |||.|||+||+|||       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 75.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_005352912.1|Clitocybe_odora_virus
+   A:190-201(23.0)      B:250-263(25.0)      C:287-294(16.5)
+   YSMDLSSATDRL    <48> MGALSSWAMLAMTH  <23> VLGDDIVI  [105]
+   || |||||||||         |||.|||+||++||       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 74.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009259483.1|Cronartium_ribicola_mitovirus_4
+   A:186-197(22.9)      B:243-256(13.9)      C:278-285(14.9)
+   WSYDLKAATDRF    <45> IGKLSSWAVFAYTH  <21> ILGDDVVI  [100]
+   ||.||+||||||          | .|||++|+ ||       |||||+||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 61.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG77195.1|Hubei_levi_like_virus_14
+   A:192-203(11.8)      B:249-262(20.4)      C:286-293(14.0)
+   ATLDKSSASNLV    <45> MGNGTTFCVETLVF  <23> VYGDDVAI  [102]
+   ||+| ||||  .         ||||.|| +|||.|       |||||+ |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 46.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>ACN90651.1|Enterobacterio_phage_MS2
+   A:187-198(22.3)      B:238-251(23.7)      C:270-277(16.5)
+   ATIDLSSASDSI    <39> MGNGFTFELESMIF  <18> IYGDDIIC  [91]
+   ||||||||||||         |||||||||||+||       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 72.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG77231.1|Hubei_levi_like_virus_7
+   A:186-197(18.8)      B:237-250(24.2)      C:269-276(12.8)
+   CTVDFSSASDSI    <39> MGNGYTFELESLIF  <18> VFGDDVIL  [91]
+   .|.| |||||||         ||||+|||||||||       |+|||+| 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 65.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG77034.1|Beihai_levi_like_virus_2
+   A:181-192(16.2)      B:236-249(19.7)      C:279-286(16.4)
+   STIDLSDASDLV    <43> MGSALCFPIEAMVF  <29> VYGDDIIV  [106]
+    ||||| ||| .         |||.+.||+|++.|       |||||||+
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 62.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AMQ23536.1|unidentified_ssRNA_virus
+   A:192-203(18.6)      B:244-257(4.3)      C:286-293(12.4)
+   ATIDKSSASDSI    <40> SGDPICFILEGCLF <28> VFGDDIIT  [102]
+   |||| |||||||          | | .| ||  .|      |+||||| 
+   aSgDLSaATDrl         MGsgsSFplLtLih      vlGDDIvi
+Score 45.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337083.1|Changjiang_sobemo_like_virus_1
+   A:154-165(12.3)      B:223-236(11.8)      C:250-257(8.4)
+   ATSDVSAWDWSV    <57> SGDYNTTTTNGRIR  <13> SAGDDNIS  [104]
+    . | |.||||+         || |.||  |  +          ||||| 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009330107.1|Hubei_sobemo_like_virus_42
+   A:166-177(12.1)      B:234-247(17.1)      C:268-275(9.4)
+   FGSDKTAWDWTA    <56> SGCVNTISINSRCQ  <20> AVGDDTLQ  [110]
+   +. | +.||||          ||| .|  ||| |+       | |||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336705.1|Beihai_sobemo_like_virus_16
+   A:42-53(17.2)      B:107-120(13.4)      C:135-142(12.4)
+   LCTDKSSFDWTV  <53> SGWKLTILVNSILQ  <14> AMGDDTIQ  [101]
+   .|.| |+||||+       ||  +| ..||| +       |||||.|.
+   iagDySkFDssl       SGsplTsidNSivN       vyGDDnii
+Score 53.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336857.1|Sanxia_sobemo_like_virus_4
+   A:184-195(14.8)      B:253-266(15.0)      C:286-293(12.5)
+   MALDKKCWDWTV    <57> SGCVLTIGDNSIGQ  <19> CMGDDTLQ  [110]
+   +|.| + ||||+         ||| +|  |||| +       |||||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009330005.1|Hubei_sobemo_like_virus_7
+   A:47-58(13.2)      B:117-130(7.7)      C:155-162(11.6)
+   YAIDKKLWDWTM  <58> SGSLLTLSMNGASQ <24> AMGDDTLA  [116]
+   +| | + |||||       ||| +|   |   +      |||||.| 
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 42.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336500.1|Hubei_tetragnatha_maxillosa_virus_7
+   A:179-190(10.5)      B:246-259(15.5)      C:295-302(10.3)
+   TEIDFTGFDLRI    <55> SGHAATCSLNSWVH  <35> ILGDDAVI  [124]
+    . ||++|| ++         |||. |  +||.||       ..||| ||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 46.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009344970.1|Xinzhou_toro_like_virus
+   A:196-207(11.3)      B:259-272(24.1)      C:328-335(7.3)
+   FGSDYTKCDRSY    <51> SGDATTAFGNTLYN  <55> FLSDDSFI  [140]
+   |.+|||| | |          |||+||.+||||.|       |  ||| |
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 47.8, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.BC-dist-penalty.
+
+>YP_002308505.1|Munia_coronavirus_HKU13_3514
+   A:193-204(14.0)      B:259-272(15.9)      C:334-341(7.2)
+   VGWDYPKCDRSM    <54> SGDATTAYANSVFN  <61> ILSDDGVA  [149]
+   +.+|| |.|.||         || . |.. ||..|       .. ||.| 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.2, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.BC-dist-penalty.
+
+>YP_009336483.1|Lucheng_Rn_rat_coronavirus
+   A:195-206(10.8)      B:262-275(17.2)      C:337-344(7.9)
+   MGWDYPKCDRAL    <55> SGDASTAYANSVFN  <61> ILSDDGVV  [150]
+   +.+|| |.|. |         || .+|.. ||..|       .. ||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 40.9, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.BC-dist-penalty.
+
+>ANW72253.1|Ofaie_virus
+   A:196-207(8.9)      B:270-283(11.8)      C:349-356(9.3)
+   GGKDFPKWDRRI   <62> SGNSRTADGNSLLH  <65> VLSDDGLI  [161]
+    . || |||.++        ||++ |.  ||| |       |. ||.||
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 29.9, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.segment-length-penalty2.BC-dist-penalty.
+
+>AHH54035.1|Kibale_red_colobus_virus_2
+   A:173-184(9.1)      B:233-246(17.3)      C:287-294(7.1)
+   LETDLASCDRST   <48> SGDPVTSTSNTVYS  <40> VYSDDLVL  [122]
+   .|.| +  | |         ||||.|| .||..        |  || |.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 43.5, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.
+
+>YP_009337742.1|Hubei_permutotetra_like_virus_5
+   C:212-219(12.4)      A:230-241(8.8)      B:303-316(9.2)
+   CYGDDTCL        <10> VDPDFQQMDGSI   <61> TGIPGTTLFDTVKS  [105]
+   |||||. .             +| || + |+|+         | |+||.++|.  
+   vyGDDnii             iagDySkFDssl        SGsplTsidNSivN
+Score 20.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.permuted-penalty.
+
+>AKH67337.1|Drosophila_A_virus
+   C:214-221(12.4)      A:232-243(11.2)      B:306-319(8.6)
+   CYGDDACI        <10> VDPDFKQMDGSI    <62> TGVPGTTLFDTVKS  [106]
+   |||||  |             +| ||++ |+|+          | |+||.++|.  
+   vyGDDnii             iagDySkFDssl         SGsplTsidNSivN
+Score 22.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.permuted-penalty.
+
+>YP_009182196.1|Daeseongdong_virus_2
+   C:211-218(10.8)      A:229-240(11.2)      B:303-316(9.2)
+   CYGDDARI        <10> VDPDFKQMDGSI    <62> TGIPGTTLFDTVKS  [106]
+   |||||  |             +| ||++ |+|+          | |+||.++|.  
+   vyGDDnii             iagDySkFDssl         SGsplTsidNSivN
+Score 21.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.permuted-penalty.
+
+>YP_009047147.1|Rosellinia_necatrix_fusarivirus_1
+   A:195-206(14.9)      B:264-277(15.1)      C:304-311(11.8)
+   YGLDFKEFDSTL    <57> TGHSSTSMDNSIGT  <26> CFGDDHVL  [117]
+   +..||+ |||||          ||++||+||||         |.|||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 51.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ALD89094.1|Macrophomina_phaseolina_single_stranded_RNA_virus_1
+   A:196-207(18.6)      B:265-278(14.4)      C:305-312(11.8)
+   VEGDFSQFDSTI    <57> TGHSSTSMDNSVGL  <26> CFGDDHVL  [117]
+   +.||||+||||+          ||++||+|||.         |.|||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 54.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78302.1|Hubei_picobirna_like_virus_3
+   A:192-203(4.4)      B:255-268(10.7)      C:288-295(6.4)
+   QASDFTKTDEHF   <51> SGSTWTNFIETVFD  <19> AIGDDMSW  [104]
+    | ||+| | +.        ||| +|+ | |..        | |||  .
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 31.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AIW53311.1|Picobirnavirus_HK_2014
+   A:106-117(17.6)      B:171-184(13.3)      C:205-212(11.7)
+   VCTDFSKFDQHF    <53> SGSGGTNCDETLAH  <20> CLGDDGVL  [107]
+   +|.||||||++.         ||| +|+ | ||.|       |.|||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AHZ46150.1|Picobirnavirus_GI_PBV_turkey_USA_MN_1_2011
+   A:199-210(15.8)      B:263-276(16.2)      C:297-304(11.8)
+   VCTDFTAFDQHI    <52> SGSGGTNADETIMH  <20> CLGDDGLL  [106]
+   +|.||+.||+++         ||| +|+ | ||||       |.|||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 53.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78271.1|Shahe_picobirna_like_virus_1
+   A:181-192(15.6)      B:243-256(15.6)      C:273-280(10.4)
+   LSIDFSQYDATV    <50> SGSTFTNEVDSIVQ  <16> IQGDDGVY  [100]
+   .. |||+||.|+         ||| +|+ .+|||+       ..|||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 51.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78315.1|Hubei_picobirna_like_virus_1
+   A:199-210(16.2)      B:269-282(10.5)      C:314-321(11.7)
+   FNLDWSGFDMSV    <58> SGNGKTNVYGGMMN  <31> VMGDDALV  [123]
+   + .|||+|| |+         ||+  |+|   |||       ||||| |+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ANN12897.1|Zygosaccharomyces_bailii_virus_Z
+   A:205-216(19.9)      B:271-284(20.4)      C:306-313(14.2)
+   IEADYSKFDSSV    <54> SGSGFTSIIGSICN  <21> VYGDDCLI  [109]
+   +.+||||||||+         ||| +|||| ||||       |||||.||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 64.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_007985675.1|Cryphonectria_parasitica_bipartite_mycovirus_1
+   A:204-215(11.0)      B:271-284(7.6)      C:312-319(11.9)
+   YCFDARKFDSFI    <55> SGHSHNTLLQSIIT <27> SLGDDNVM  [116]
+   +|+|  |||| +         |||+  |.+ ||+        .|||||+
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 40.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009154711.1|Beauveria_bassiana_RNA_virus_1
+   A:208-219(13.4)      B:273-286(15.4)      C:305-312(12.0)
+   CFIDFKKFDQRV    <53> SGDPWTSLAGSYAN  <18> TFGDDSVV  [105]
+   |  ||+|||+++         || |+||.  | .|       |.|||+|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 50.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>BAA25883.1|Bryopsis_mitochondria_associated_dsRNA
+   A:203-214(6.6)      B:268-281(20.9)      C:306-313(5.4)
+   INNDWRHFDALL   <53> SGHPFVTIINSIVN  <24> SSGDDGQI  [111]
+   +  ||  ||. |        ||||+ ||||||||         |||. |
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 42.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009052470.1|Cladosporium_cladosporioides_virus_1
+   A:220-231(9.3)      B:292-305(16.8)      C:342-349(7.2)
+   IMSDIAKWDANM   <60> SGSFYTSCVNTIGN  <36> SYGDNQLI  [130]
+   +  |  |||. |        |||+ || .||| |        |||  ||
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 33.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>APG78218.1|Hubei_partiti_like_virus_48
+   A:190-201(16.7)      B:266-279(21.2)      C:299-306(11.6)
+   LGLDWSAFDSRV    <64> SGSYFTSLIDSVCN  <19> VLGDDCLV  [117]
+   ...|||.|||++         ||||+||.|+|.||       |.|||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 59.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78213.1|Shuangao_partiti_like_virus_1
+   A:201-212(10.8)      B:276-289(18.8)      C:310-317(12.4)
+   TGLDFSKFDKMT    <63> SGSYFTQLVGSVCN  <20> VLGDDSIF  [117]
+    ..||||||+           ||||+|+.. |.||       |.|||+|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78307.1|Hubei_partiti_like_virus_8
+   A:204-215(17.3)      B:283-296(19.4)      C:317-324(10.9)
+   IVGDWSKFDKSI    <67> SGSMWTNLIDSMVN  <20> YLGDDSVV  [121]
+   + |||||||+|+         ||| +|+.|+||||        .|||+|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 57.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78279.1|Wuhan_spider_virus_10
+   A:183-194(13.1)      B:264-277(14.6)      C:293-300(11.2)
+   KSYDFKNFDSSV    <69> SGSTFTNLVDTIVS  <15> TYGDDCHV  [118]
+    . ||+|||||+         ||| +|+..+|||        |||||. +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AIF33767.1|Heterobasidion_partitivirus_17
+   A:222-233(15.5)      B:304-317(15.5)      C:339-346(12.7)
+   ITIDWSRFDKRA    <70> SGLFITQLMDSWVN  <21> VQGDDSII  [125]
+   +. |||+||++          || + |+. +|.||       |.|||+||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 53.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_001468087.1|Wheat_eqlid_mosaic_virus
+   A:192-203(18.4)      B:257-270(21.2)      C:295-302(13.0)
+   IDADGSQFDSSI    <53> SGQPGTVVDNTLCL  <24> CNGDDLLI  [111]
+   +|+|.|+||||+         ||||+||||||||        |+|||.||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 62.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APL98256.1|Cyrtanthus_elatus_virus_A
+   A:190-201(19.3)      B:255-268(23.4)      C:294-301(12.8)
+   CDADGSRFDSSL    <53> SGQPSTVVDNTLMV  <25> CNGDDLIL  [112]
+   ||+|.|+|||||         ||||+||||||||.       |+|||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 65.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AGY36218.1|Zucchini_tigre_mosaic_virus
+   A:190-201(19.3)      B:255-268(23.4)      C:294-301(10.1)
+   CDADGSQFDSSL    <53> SGQPSTVVDNTLMV  <25> INGDDLCI  [112]
+   ||+|.|+|||||         ||||+||||||||.       .+|||. |
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 62.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_004376199.1|Celery_mosaic_virus
+   A:190-201(19.0)      B:255-268(23.4)      C:294-301(11.2)
+   YDADGSQFDSSL    <53> SGQPSTVVDNTLMV  <25> INGDDLLV  [112]
+   +|+|.|+|||||         ||||+||||||||.       .+|||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 63.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333212.1|Beihai_astro_like_virus
+   A:134-145(15.3)      B:199-212(22.3)      C:244-251(11.1)
+   LELDWTRYDGTI    <53> SGQFSTSVDNCMVQ  <31> SYGDDRLT  [118]
+   ...||++||+|+         |||++||||||||+        |||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 58.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009252304.1|Tobacco_mosqueado_virus
+   A:190-201(19.3)      B:255-268(24.1)      C:294-301(12.5)
+   CDADGSQFDSSL    <53> SGQPSTVVDNSLMV  <25> VNGDDLVI  [112]
+   ||+|.|+|||||         ||||+||||||||.       |+|||.||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 65.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>BAS29598.1|Bovine_astrovirus
+   A:185-196(17.1)      B:252-265(21.1)      C:293-300(12.2)
+   IEFDWTRFDGTI    <55> SGQISTTMDNNMVN  <27> VYGDDRLT  [116]
+   +.+||++||+|+         ||| +||+||.|||       ||||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 60.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>BAX00186.1|Porcine_astrovirus_2
+   A:185-196(17.1)      B:252-265(21.1)      C:293-300(12.2)
+   IEFDWTRFDGTI    <55> SGQISTTMDNNMVN  <27> VYGDDRLS  [116]
+   +.+||++||+|+         ||| +||+||.|||       ||||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 60.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ACF75858.1|Bat_astrovirus_1
+   A:188-199(16.2)      B:256-269(20.6)      C:300-307(11.2)
+   IEFDWTRYDGTI    <56> SGQISTTMDNNLVN  <30> IYGDDRLS  [120]
+   +.+||++||+|+         ||| +||+||.|||       .|||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 58.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_003193667.1|Phytophthora_infestans_RNA_virus_1
+   A:206-217(10.0)      B:276-289(15.6)      C:309-316(11.1)
+   MTLDVAEWDSSV    <58> SGWIMTANDNTLMH  <19> LYGDDNLS  [111]
+   +..|   ||||+         ||  .|. ||||||        |||||| 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 46.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AHA86924.1|Micalovirus_SF1
+   A:210-221(2.8)      B:274-287(12.5)      C:314-321(10.9)
+   LAGDLKRQEVST   <52> SGHTLTALFNCFHV  <26> VLGDDSLG  [112]
+   .||| ++   |         ||| +|..+||. .       |.|||+| 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 26.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009337710.1|Hubei_picorna_like_virus_7
+   A:212-223(8.2)      B:278-291(10.7)      C:349-356(9.6)
+   LDADTKKMDLSF   <54> SGNNLTVTYNNISG  <57> SIGDDSLM  [145]
+   .|+| +| | |.        ||+ +||  |.|           |||+|+
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 33.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.BC-dist-penalty.
+
+>APG78547.1|Wenzhou_picorna_like_virus_30
+   A:206-217(5.0)      B:269-282(2.2)      C:310-317(6.7)
+   FSGDLEKCDTSI   <51> SGNTLTFFITMTWV <27> VSGDDSRV  [112]
+   +. | . +|+|.        || ..| ||   |       + |||  .
+   lmlDysdFNsqH        SGeRaTtfiNsvlN      hvGDDvll
+Score 23.9, high-confidence-RdRP: reward-DDGGDD.good-segment-length.
+
+>YP_009336787.1|Wenzhou_picorna_like_virus_46
+   A:208-219(13.6)      B:272-285(13.0)      C:316-323(6.7)
+   YDLDASAFDLTV    <52> SGICCTSFVDSIVI  <30> STGDDTTI  [116]
+   +|.| |.|| |+         || .+|| .+|||          |||. |
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 43.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78612.1|Beihai_picorna_like_virus_109
+   A:202-213(10.3)      B:264-277(13.1)      C:304-311(9.7)
+   ASLDVSAYDHSL    <50> SGAYGTSYIDSIGF  <26> ICGDDCIF  [110]
+    ..| |.|| ||         || |+||.|+||         . |||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 43.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG77465.1|Sanxia_atyid_shrimp_virus_2
+   A:210-221(8.2)      B:276-289(8.3)      C:349-356(9.6)
+   LDADTKKMDLSF   <54> SGNKLTITQNNIAG <59> SIGDDSLM  [147]
+   .|+| +| | |.        ||+ +|   |.|.         |||+|+
+   iagDySkFDssl        SGsplTsidNSivN      vyGDDnii
+Score 31.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.BC-dist-penalty.
+
+>YP_009337351.1|Hubei_picorna_like_virus_65
+   A:202-213(14.2)      B:269-282(8.7)      C:309-316(7.9)
+   ICLDVSGFDHSL    <55> SGIYGTSIVDDVSW <26> LVGDDLIM  [115]
+   +|.| |+|| ||         || |+|||.+ .          |||.|+
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 40.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333460.1|Beihai_picorna_like_virus_110
+   A:198-209(12.1)      B:266-279(8.8)      C:309-316(9.0)
+   VSLDVSSYDHSL    <56> SGCWGTSLIDAAAW <29> FVGDDAII  [119]
+   +..| |+|| ||         |||.+||.|+  .       . ||| ||
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 39.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333501.1|Beihai_picorna_like_virus_108
+   A:210-221(4.7)      B:284-297(15.6)      C:325-332(8.1)
+   FAFDVEKNDNTA   <62> SGKYNTSMDDAIMN  <27> ALGDDMCG  [123]
+   +|+|  | | |         || |.||+|+ |||       |.|||   
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 38.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333524.1|Beihai_picorna_like_virus_90
+   A:211-222(20.6)      B:275-288(23.2)      C:320-327(13.6)
+   IAGDFSNFDGSL    <52> SGNPLTTLINCMYN  <31> YYGDDSLI  [117]
+   +||||||||+||         ||+|+||.||||+|        ||||+||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 67.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333511.1|Beihai_picorna_like_virus_93
+   A:211-222(20.6)      B:273-286(23.6)      C:318-325(12.9)
+   IAGDFSNFDGSL    <50> SGNPLTTMINCIYN  <31> FYGDDSIC  [115]
+   +||||||||+||         ||+|+||+||||+|       .||||+| 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 67.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336781.1|Changjiang_picorna_like_virus_13
+   A:209-220(17.1)      B:274-287(24.5)      C:319-326(12.8)
+   TAGDYSKFDARI    <53> SGQPMTSIFNSIAN  <31> VFGDDNVI  [118]
+    ||||||||.++         ||||.|||+|||.|       |.||||||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 64.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQP31140.1|Bat_felisavirus
+   A:205-216(12.5)      B:267-280(18.8)      C:309-316(14.0)
+   IAGDMSGWDRKA    <50> SGCYLTTPFNSLAL  <28> IYGDDHII  [112]
+   +||| |+||.           ||||+|| +|||.        .||||.||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 55.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336741.1|Shahe_picorna_like_virus_12
+   A:195-206(14.0)      B:259-272(21.6)      C:300-307(11.2)
+   IAADIKKFDGGM    <52> SGCYLTAIMNSMVQ  <27> VYGDDKLC  [113]
+   +|+| +|||+ |         ||||+|.| ||||+       ||||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ADZ55760.1|Radish_mosaic_virus
+   A:215-226(16.6)      B:279-292(21.7)      C:325-332(14.8)
+   LCCDYSSFDGLL    <52> SGFPLTVICNSIFN  <32> VYGDDNLL  [118]
+   .|.|||+||+ |         || |+||| |||.|       |||||||.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 63.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333541.1|Beihai_picorna_like_virus_105
+   A:209-220(5.9)      B:296-309(12.7)      C:349-356(9.8)
+   FDGDFETLDGKE   <75> SGHLLTSVFNSGTT  <39> AFGDDFVA  [148]
+   +||||   |+          ||| +|||+||          |.||| | 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 38.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ACN94442.1|Nasonia_vitripennis_virus
+   A:217-228(12.4)      B:292-305(18.7)      C:338-345(11.7)
+   LTADYSAYGPRL    <63> SGNAGTVITNSECN  <32> SNGDDLIM  [129]
+   ..+|||.|  +|         ||+.+||| || ||        +|||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AOY34458.1|Rolda_virus
+   A:205-216(15.7)      B:272-285(22.7)      C:316-323(12.8)
+   VTGDYSNFGPTL    <55> SGNPFTAPFNSLVN  <30> VYGDDFIA  [119]
+   +.||||||  ||         ||+|+|. +|||||       ||||| | 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 51.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009351892.1|Pityohyphantes_rubrofasciatus_iflavirus
+   A:210-221(13.0)      B:277-290(17.0)      C:317-324(12.1)
+   IAGDHSNFGPRM    <55> SGSLFTAVFNSLCD  <26> TYGDDNFG  [115]
+   +||| |||  +|         ||| +|.|+||||        ||||||  
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AII82236.1|Fesavirus_3
+   A:95-106(11.9)      B:157-170(14.2)      C:197-204(13.9)
+   VGPDFSGYDTSH   <50> SGSQITSQINCVYT  <26> CYGDDTVL  [110]
+   +. |||+|| |.        |||  || |||.+        |||||.|.
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 50.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337420.1|Wenzhou_picorna_like_virus_53
+   A:208-219(16.1)      B:275-288(21.9)      C:318-325(10.6)
+   GDGDFSSFDTSI    <55> SGHPLTVVINGLCN  <29> TYGDDQFF  [118]
+    |||||+|| |+         ||||+||||| |||       |||||  .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 58.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009230120.1|Marine_RNA_virus_PAL156
+   A:207-218(17.8)      B:275-288(22.7)      C:328-335(10.1)
+   IAGDYSKYDLRM    <56> SGQNLTVYINSIVN  <39> TYGDDAKG  [129]
+   +|||||||| +|         ||| +||.||||||       |||||   
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 60.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009333424.1|Beihai_picorna_like_virus_60
+   A:215-226(13.4)      B:282-295(14.9)      C:320-327(9.0)
+   MEGDFGGFDVSM    <55> SGKYATAEDNSLRN  <24> TYGDDFGA  [113]
+   +.||| +|| ||         || | |. |||| |       |||||   
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 47.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQP31136.1|Bat_posalivirus
+   A:211-222(15.6)      B:274-287(19.5)      C:312-319(11.8)
+   IAGDFKNYDTSY    <51> SGLVLTTIINCFVN  <24> ILGDDHII  [109]
+   +||||+||| |          ||  +||||||.||       ..|||.||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337104.1|Hubei_picorna_like_virus_69
+   A:211-222(14.8)      B:280-293(23.0)      C:326-333(12.0)
+   VAMDYKGWDFTV    <57> SGIPSTSYDNSLIN  <32> CYGDDFFM  [123]
+   +|.||++|| |+         || |+||.||||+|       |||||  +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 59.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009345021.1|Wuhan_spider_virus_4
+   A:213-224(12.2)      B:282-295(17.0)      C:328-335(7.3)
+   MDLDFKDWDFSH    <57> SGYPGTSIDGSNIN  <32> VYSDDWYI  [123]
+   +|.||+ || |.         || |+|||| | +|       || ||  |
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 46.5, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.
+
+>YP_009336576.1|Hubei_picorna_like_virus_70
+   A:207-218(9.2)      B:276-289(19.8)      C:322-329(11.1)
+   LAEDFKGWDFSP   <57> SGYPGTSPDNSVLN  <32> DYGDDVIQ  [123]
+   .| ||++|| |         || |+|| |||. |        ||||+|.
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 50.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336655.1|Hubei_picorna_like_virus_76
+   A:209-220(18.1)      B:282-295(20.0)      C:326-333(12.4)
+   FDLDFKNFDSTV    <61> SGQPATSTDNCFVH  <30> VYGDDGCY  [125]
+   +|.||+|||||+         |||| || |||.||       |||||. +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 60.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336623.1|Hubei_picorna_like_virus_73
+   A:210-221(12.1)      B:279-292(18.2)      C:326-333(8.0)
+   FDGDYGDFDAKH    <57> SGKPSTTDDNSYIN  <33> IFGDDNEV  [124]
+   +||||  ||. .         || |+|| ||| +|       ..|||| +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336543.1|Hubei_picorna_like_virus_56
+   A:209-220(13.0)      B:275-288(12.9)      C:324-331(6.2)
+   LNTDFRAFDKTL    <54> SGTFVTTLLNCVCA  <35> ILGDDTTR  [123]
+   . .|| .||+||         || + ||.+||.|        ..|||.  
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009342048.1|Wuhan_coneheads_virus_2
+   A:71-82(14.1)      B:132-145(20.8)      C:178-185(10.1)
+   FVIDFKRWDKTL  <49> SGSAGTAVTNSLYN  <32> FYGDDQFI  [115]
+   +  ||++||+||       |||.+|.| |||+|       .||||  |
+   iagDySkFDssl       SGsplTsidNSivN       vyGDDnii
+Score 54.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009342325.1|Wuhan_house_centipede_virus_3
+   A:210-221(7.0)      B:283-296(14.2)      C:324-331(12.4)
+   FAGDINRHDKRV   <61> SGTAVTAPMNSLIV  <27> TLGDDHIV  [122]
+   +|||  + |+++        || . |.  |||+.       |.|||.|+
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 43.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG78365.1|Hubei_picorna_like_virus_54
+   A:209-220(12.4)      B:277-290(15.5)      C:320-327(11.7)
+   ICYDVSRWDKNT    <56> SGTYVTALMNTCLN  <29> FMGDDGVV  [119]
+   +.+| |||||           ||  .|.| || .|       | |||.||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 49.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AFV48050.1|Norovirus_Rn_GV_HKU_KT_HKG_2012
+   A:199-210(16.4)      B:260-273(18.8)      C:300-307(11.9)
+   SDADFSRWDSTQ    <49> SGFPCTAQVNSLAH  <26> FYGDDEIV  [109]
+    |+|||+||||.         || |+|. .|||.|       .|||| |+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 57.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ADG03646.1|Sapovirus_Hu_GI_Sapporo_MT_2010_1982
+   A:200-211(19.6)      B:261-274(21.5)      C:305-312(12.6)
+   YCLDYSKWDSTQ    <49> SGMPFTSVVNSINH  <30> TYGDDCMY  [113]
+   +|.||||||||.         ||.|+|||.||| |       |||||. +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 63.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AII73761.1|Norovirus_GII_Hu_JP_2011_GII_Yuzawa_Gira2HS
+   A:200-211(19.7)      B:261-274(16.9)      C:301-308(11.9)
+   YDADYSRWDSTQ    <49> SGVPCTSQWNSISH  <26> FYGDDEIV  [109]
+   +|+|||+||||.         || |+||  ||| |       .|||| |+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 58.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AGV98672.2|Rabbit_hemorrhagic_disease_virus
+   A:201-212(20.4)      B:262-275(23.8)      C:305-312(14.0)
+   LCLDYSKWDSTM    <49> SGMPFTSVINSICH  <29> TYGDDGVY  [112]
+   .|.|||||||||         ||.|+|||||||||       |||||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 68.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ACK37438.1|Human_rhinovirus_A76
+   A:195-206(18.0)      B:251-264(24.0)      C:288-295(14.5)
+   MAFDYTNYDGSI    <44> SGCSGTSIFNTMIN  <23> AYGDDVIF  [101]
+   +|+||+|||+|+         |||++|||+|||+|       |||||+|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 66.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337064.1|Hubei_picorna_like_virus_67
+   A:209-220(8.4)      B:279-292(10.2)      C:325-332(5.5)
+   LDLDSKNHDASI   <58> SGEWFTSWRGSYAN  <32> NYSDDSAN  [124]
+   .|.| +| |.|+        || .+||   | .|        | ||+  
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 34.1, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.
+
+>YP_009337287.1|Wenzhou_picorna_like_virus_51
+   A:207-218(8.4)      B:278-291(13.8)      C:322-329(8.0)
+   FDADVNAWDKIM   <59> SGFVMTLPMNSAMN  <30> ALGDDSQT  [123]
+   +|+|  .||+ |        ||  .|   || ||       |.|||+  
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 40.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009272910.1|Fusarium_poae_mycovirus_2
+   A:199-210(8.8)      B:272-285(13.9)      C:310-317(9.3)
+   YGTDYSFQDLRM   <61> SGMFNTASVNTTNH  <24> QYGDDNLK  [119]
+   +..|||  | +|        ||.+.|. .||  |        |||||| 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 42.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ANR02697.1|Rhizoctonia_solani_mycovirus_1
+   A:115-126(8.1)      B:183-196(5.3)      C:218-225(6.6)
+   NAVDFSKQDRYM   <56> TGLYLGAEGNTLNH <21> QYGDDWLR  [111]
+    | |||| |. |         | |+ .  ||| |       |||| | 
+   iagDySkFDssl        SGsplTsidNSivN      vyGDDnii
+Score 30.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009182156.1|Penicillium_aurantiogriseum_foetidus_like_virus
+   A:201-212(10.3)      B:269-282(8.9)      C:304-311(6.3)
+   VAVDYSSQDVKM    <56> SGLYLGAEGNTINH <21> RYGDDWLR  [111]
+   +| |||+ |  |         || |+ .  ||| |       |||| | 
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 35.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>BAT50982.1|Rosellinia_necatrix_mycovirus_2_W1032_S6
+   A:200-211(11.1)      B:268-281(9.2)      C:308-315(8.3)
+   YATDYSSQDVKL    <56> SGLYFGAEGNTINH <26> HYGDDFLR  [116]
+   +|.|||+ |  |         || |+ .  ||| |       |||| | 
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 38.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CCD33025.1|Aspergillus_foetidus_slow_virus_2
+   A:201-212(10.3)      B:269-282(8.6)      C:304-311(6.3)
+   LAVDYSKQDIKM    <56> SGLYLGAEGNTLNH <21> RYGDDWLR  [111]
+   .| |||| |  |         || |+ .  ||| |       |||| | 
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 35.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337250.1|Beihai_weivirus_like_virus_9
+   A:224-235(15.2)      B:299-312(16.3)      C:349-356(12.5)
+   FEGDGSAWDTTC    <63> SGHRGTSCLNWWTN  <36> FEGDDSIL  [133]
+   || | |+||+|.         ||  .||..| +||       | ||||..
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 54.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336973.1|Beihai_weivirus_like_virus_3
+   A:206-217(14.9)      B:281-294(14.3)      C:331-338(8.9)
+   VEGDGSAWDTTC    <63> SGHRGTSVLNWWIN  <36> YEGDDSGA  [133]
+   +| | |+||+|.         ||  .|| .| ++|       + |||| .
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337143.1|Wenzhou_picorna_like_virus_54
+   A:227-238(4.7)      B:315-328(13.2)      C:371-378(8.6)
+   FAADVSDQEKRI   <76> SGCYLTSMISTYYT  <42> ACGDDQIA  [152]
+   +|+| |   +++        ||||+||+| | +        | ||| | 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 21.5, high-confidence-RdRP: high-PSSM-score.segment-length-penalty2.
+
+>YP_009337047.1|Beihai_weivirus_like_virus_7
+   A:201-212(14.6)      B:277-290(15.5)      C:327-334(10.0)
+   LEGDGSAWDTTC    <64> SGHRGTSCLNWWIN  <36> FEGDDSGL  [134]
+   .| | |+||+|.         ||  .||..| ++|       | |||| .
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 50.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337101.1|Beihai_weivirus_like_virus_13
+   A:211-222(13.0)      B:302-315(13.3)      C:353-360(12.5)
+   VENDGSAWDACM    <79> SGCRGTSCLNFLAN  <37> FEGDDSIL  [150]
+   +||| |+||.           ||  .||..| |.|       | ||||..
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337226.1|Beihai_weivirus_like_virus_20
+   A:197-208(6.6)      B:275-288(14.7)      C:334-341(9.0)
+   CENDLTAFEFGI   <66> SGDRLTSSGNFLQN  <45> FEGDDTLG  [145]
+    ||| |+|   +        |||  || || | |       | ||| | 
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 30.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009028573.1|Soybean_cyst_nematode_virus_5
+   A:226-237(15.4)      B:290-303(22.2)      C:349-356(8.7)
+   ASGDFSKWDGTV    <52> SGDQFTSFGNTLLN  <45> CDGDDNLH  [131]
+    + ||||||.||         |||  ||+||||.|       ..|||.| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 56.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009169331.1|Paraiso_Escondido_virus
+   A:199-210(13.8)      B:269-282(22.2)      C:330-337(12.4)
+   YADDTAGWDTKI    <58> SGQVVTYALNTFTN  <47> VSGDDQVV  [139]
+   |++||+.||+ +         |||+.||..||.||       ||||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 53.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.BC-dist-penalty.
+
+>ACB45490.1|Hepatitis_C_virus
+   A:191-202(17.8)      B:256-269(22.8)      C:289-296(13.2)
+   FSYDTRCFDSTV    <53> SGVYTTSFGNTLTC  <19> VNGDDLVV  [106]
+   |++||.||||||         ||. |||+||||||       |+||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 63.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>T08839|Marmoset_hepatitis_GB_virus_A
+   A:183-194(16.1)      B:244-257(18.7)      C:277-284(13.7)
+   ITVDATCFDSSI    <49> SGVLTTSSANSITC  <19> IAGDDCLI  [102]
+   +..|.||||||+         ||. |||  |+|||       .+||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 58.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG76081.1|Changjiang_Jingmen_like_virus
+   A:184-195(11.4)      B:255-268(11.8)      C:300-307(14.0)
+   MSDDIAGWDTKV    <59> SGSIITYGMNTISR  <31> ISGDDCVL  [124]
+    ++|.+.||+ |         ||+  ||  |||         .||||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 47.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336793.1|Beihai_tombus_like_virus_17
+   A:203-214(8.4)      B:270-283(17.0)      C:308-315(7.8)
+   TVSDYSSYEASF   <55> SGDFDTSLSNWFDN  <24> CEGDDNIT  [113]
+   + +||| | .|         |||.+|||.| . |       . |||.. 
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 33.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009336952.1|Beihai_tombus_like_virus_18
+   A:181-192(6.0)      B:247-260(14.1)      C:284-291(8.9)
+   TIGDYTSYEASF   <54> SGESDTALSNALDN  <23> VEGDDNAS  [111]
+   +  ||| | .|         ||| +|.|.| | |       | |||.  
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 29.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009337040.1|Changjiang_tombus_like_virus_21
+   A:36-47(5.9)      B:101-114(23.6)      C:134-141(10.8)
+   SVTDHSQFEAHF <53> SGEMNTSLGNGLTN  <19> VEGDDGLF  [106]
+     .|.|.| .|       |||||||||| |||       | |||.| 
+   lenDyskFDksq      SGdanTslGNTltn       vsGDDsvv
+Score 40.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009344965.1|Jingmen_tombus_like_virus_2
+   A:185-196(11.4)      B:248-261(20.1)      C:281-288(10.3)
+   METDYSSFEGSF    <51> SGDMWTSLANGFTN  <19> VEGDDAII  [104]
+    |.||| | .|          ||||.||| | .||       | ||| .|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 41.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009337712.1|Hubei_tombus_like_virus_36
+   A:153-164(12.4)      B:219-232(20.5)      C:252-259(10.8)
+   YATDYTAFEAHF    <54> SGEMNTSLGNGFSN  <19> VEGDDGLF  [107]
+   |+.|||+| .|          |||||||||| . |       | |||.| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 43.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AIE44664.1|Eggplant_mosaic_virus
+   A:209-220(20.3)      B:265-278(18.7)      C:295-302(13.6)
+   IANDYTAFDQSQ    <44> TGEPGTYDDNSDYN  <16> ISGDDSVL  [94]
+   ++||||+|||||         ||||.||+ |+ .|       .||||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 62.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009224952.1|Elderberry_carlavirus_E
+   A:210-221(19.3)      B:266-279(23.1)      C:297-304(13.5)
+   TESDYEAFDASQ    <44> SGEASTFLFNTMAN  <17> FAGDDMCA  [95]
+   +|+||.+||.||         |||+.|||+|||.|       |+|||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 65.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AII01815.1|Tick_borne_tetravirus_like_virus
+   A:204-215(14.8)      B:265-278(22.3)      C:296-303(13.5)
+   LNMDFSQFDASQ    <49> SGEPGTLLFNTILN  <17> FKGDDSCI  [100]
+   .  |||.||.||         ||||.| |+|||.|       | ||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 60.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009305414.1|Psophocarpus_tetragonolobus_endornavirus
+   A:213-224(7.7)      B:273-286(21.9)      C:306-313(10.6)
+   LENDLVQQDRQT   <48> TGQATTAIGNCLTN  <19> VLGDDGLM  [101]
+   .|||  ..| .         |||+||..||||||       | |||.|.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 50.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336553.1|Hubei_virga_like_virus_9
+   A:217-228(18.6)      B:279-292(20.8)      C:310-317(14.7)
+   LEVDISKYDKSQ    <50> SGDASTFFGNTMFL  <17> FAGDDSLI  [101]
+   .|.|.|||||||         |||+.||+||||         |+||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 64.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336758.1|Beihai_tombus_like_virus_14
+   A:194-205(13.6)      B:258-271(20.2)      C:290-297(9.1)
+   FMSDVSSWDGSL    <52> SGDLWTSLFNSMIN  <18> ILGDDSTV  [104]
+   +  | |+||+||         ||  +||.+|||+|       ..|||+ +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337052.1|Changjiang_tombus_like_virus_19
+   A:185-196(11.4)      B:249-262(16.7)      C:294-301(8.6)
+   CENDFSQCESSI    <52> SGDRDTSSLNGFVN  <31> LKGDDNVM  [117]
+    |||||.  ||+         ||| +|| .| .+|         |||.|.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 36.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009333161.1|Hubei_tombus_like_virus_32
+   A:196-207(16.1)      B:259-272(19.3)      C:305-312(6.5)
+   FENDMSKYEASQ    <51> SGDMDTGLGNGVLN  <32> LKGDDSYG  [117]
+   ||||.||| .||         ||||+| ||| ..|         ||||  
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 41.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009336573.1|Hubei_tombus_like_virus_33
+   A:218-229(16.9)      B:285-298(22.8)      C:328-335(7.1)
+   MEDDFSSYDSTQ    <55> SGDQNTSIGNTVIN  <29> GLGDDNLM  [118]
+    |+||| |||||         ||| |||.|||.+|         |||.|.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 56.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337407.1|Changjiang_tombus_like_virus_20
+   A:203-214(18.9)      B:265-278(22.0)      C:299-306(6.5)
+   VEVDFSAYDSTQ    <50> SGDPNTSCGNSLLT  <20> VMGDDNTS  [104]
+   +|.|||+|||||         |||||||.||+|.+       | |||.  
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 57.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AGG23390.1|Citrus_yellow_vein_associated_virus
+   A:213-224(14.5)      B:276-289(21.1)      C:308-315(10.7)
+   VSLDASRFDLHV    <51> SGDMDTALGNCVIM  <18> DNGDDCLF  [103]
+   ++.|.|||| ||         ||||+|.||||.+|        +||||| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 56.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_008378651.1|Calibrachoa_mottle_virus
+   A:208-219(17.5)      B:272-285(21.2)      C:301-308(13.8)
+   VGFDMSRFDQHV    <52> SGDMNTALGNCILA  <15> NNGDDCVL  [101]
+   +..|.|||||||         ||||||.|||||.        ++|||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 62.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337370.1|Changjiang_tombus_like_virus_2
+   A:186-197(17.6)      B:249-262(21.2)      C:281-288(14.2)
+   VGLDASRFDQHV    <51> SGDMNTSLGNKLLM  <18> NNGDDCLV  [103]
+   +..|.|||||||         |||||||||| |.|       ++||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 63.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>NP_813789.1|Barley_yellow_dwarf_virus_GAV
+   A:206-217(17.6)      B:269-282(19.4)      C:301-308(14.6)
+   IGVDASRFDQHV    <51> SGDINTSMGNKLIM  <18> NNGDDCVI  [103]
+   +..|.|||||||         ||| |||+|| |+|       ++||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 61.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009342299.1|Wenzhou_tombus_like_virus_14
+   A:122-133(13.7)      B:187-200(12.8)      C:215-222(13.9)
+   LCLDHSKWDGHF    <53> SGEWTTAIENSKVN  <14> VNGDDSIV  [101]
+   ...|.||||.|          ||| ||.. |+ +|       |+||||.|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 50.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AJR19147.1|Lake_Sinai_virus
+   A:199-210(18.0)      B:263-276(19.4)      C:293-300(10.3)
+   YEIDYSRFDLSI    <52> SGDPHTSVGNGLLN  <16> CEGDDGII  [102]
+   ||+|||||| |+         |||| || || |.|       . |||..|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 57.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336498.1|Beihai_tombus_like_virus_19
+   A:200-211(16.6)      B:264-277(15.2)      C:297-304(7.9)
+   AEIDFSRFDQSL    <52> SGDAHTSIMNGVDN  <19> QEGDDVLV  [105]
+    |+||||||||          |||+ ||. | . |         ||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 49.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337262.1|Wenling_tombus_like_virus_5
+   A:105-116(17.9)      B:169-182(18.6)      C:201-208(10.9)
+   IETDFSRFDMTV    <52> SGDAHTSIANGIIN  <18> HEGDDGVI  [104]
+   +|.|||||| ||         |||+ ||. | |+|         |||.||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 57.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG76342.1|Hubei_odonate_virus_12
+   A:198-209(15.7)      B:262-275(24.0)      C:295-302(9.9)
+   LEIDYSRFDMTL    <52> SGDAHTSFGNTLLN  <19> HEGDDGII  [105]
+   .|+|||||| |          |||+ ||+||||.|         |||..|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 59.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336516.1|Hubei_tombus_like_virus_39
+   A:107-118(12.5)      B:170-183(25.2)      C:203-210(10.8)
+   IDIDQSRFDRHI    <51> SGDANTSIGNTILN  <19> HDGDDGLI  [104]
+   + +| |||| |+         |||+|||.||||.|        .|||.||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 58.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ABS29339.1|Flock_house_virus
+   A:192-203(12.7)      B:257-270(16.5)      C:297-304(9.2)
+   IETDFSNLDGRV    <53> SGSPTTTPHNTQYN  <26> KCGDDGLS  [113]
+   +|.|||  |.+|         ||+|||.  || .|        ||||.| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG76402.1|Hubei_noda_like_virus_6
+   A:188-199(9.3)      B:251-264(14.6)      C:290-297(4.6)
+   LSSDISRLDGRM   <51> SGSPITTDTNTLGG  <25> YVGDDGAR  [110]
+   .. | |+ |++|        |||| ||  |||           |||.  
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 38.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AMO03241.1|Craigmillar_Park_virus
+   A:184-195(14.9)      B:247-260(20.3)      C:286-293(7.5)
+   LETDYSRLDGTI    <51> SGSPLTTDGNTLIT  <25> AYGDDGIT  [110]
+   .|.|||| |.|+         ||+| |.+||||++         |||.. 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 52.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG76186.1|Beihai_noda_like_virus_15
+   A:194-205(3.8)      B:257-270(19.1)      C:298-305(7.3)
+   RMKDLSRMDGTE   <51> SGSPTTTDGNTMKA  <27> LQGDDSLD  [112]
+      | ||.|.|         ||+|||.+||||           ||||| 
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 40.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336606.1|Beihai_tombus_like_virus_16
+   A:40-51(20.1)      B:107-120(22.3)      C:137-144(15.9)
+   YECDFTAFDSSQ  <55> SGDTDTYIGNTILN  <16> FSGDDSVV  [105]
+   || |||+|||||       ||| +||.||||.|       ||||||||
+   lenDyskFDksq       SGdanTslGNTltn       vsGDDsvv
+Score 68.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>NP_995577.1|Sclerophthora_macrospora_virus_A
+   A:187-198(6.2)      B:249-262(9.0)      C:293-300(6.7)
+   NISDYHRMDGTI   <50> SGCSATSLFQTLRA <30> HLGDDGLD  [114]
+     +|| |.|.|+        ||   |||+ ||          |||.| 
+   lenDyskFDksq        SGdanTslGNTltn      vsGDDsvv
+Score 31.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQY59901.1|Statovirus_B1
+   A:200-211(11.9)      B:254-267(20.2)      C:282-289(10.5)
+   AAADFSKFDSNH    <42> SGDMFTGLGNCLTA  <14> CDGDDTLI  [90]
+    + |||||||           |||| | ||||||        ..||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 52.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQY59907.1|Statovirus_E1
+   A:205-216(12.3)      B:259-272(17.7)      C:287-294(10.5)
+   LSCDFKNFDGHH    <42> SGDLFTGSGNCLTA  <14> CDGDDTLI  [90]
+   .+ ||. ||.|          |||  |  |||||        ..||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 50.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQY59899.1|Statovirus_A4
+   A:199-210(12.9)      B:253-266(16.0)      C:281-288(10.6)
+   CCCDFSNFDAHH    <42> SGDLFTGSGNCLII  <14> CDGDDTLV  [90]
+    . ||| ||.|          |||  |  ||||+        ..||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 49.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AQY59905.1|Statovirus_D1
+   A:202-213(10.1)      B:256-269(15.1)      C:285-292(9.8)
+   VPIDFKNFDATH    <42> SGDLFTGSGNCLAV  <15> CDGDDTLL  [91]
+   + +||. ||.|          |||  |  ||||.        ..||| |.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 44.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337303.1|Shahe_isopoda_virus_3
+   A:220-231(10.1)      B:281-294(11.5)      C:332-339(9.2)
+   IVDDVSAMDSSF    <49> SGVPDTSYKNTAPC  <37> AAGDDGLT  [120]
+   + +| |+.|||          ||.|+||  ||  |        +|||.| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 40.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337285.1|Wenzhou_bivalvia_virus_2
+   A:218-229(9.7)      B:278-291(11.4)      C:327-334(9.4)
+   FWCDFSMFDCTH   <48> SGRDDTALMNAMYC  <35> ICGDDTLG  [117]
+   |  ||| || |         ||  +|.| | |.|       .|||| | 
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 40.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337316.1|Hubei_yanvirus_like_virus_1
+   A:125-136(13.1)      B:192-205(12.2)      C:241-248(11.8)
+   FWSDYSSFDSTY    <55> SGRDDTALANALVN  <35> VVGDDSLV  [124]
+   | +||| ||||          ||  +|.| | |+|       | ||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 47.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009342261.1|Wenzhou_yanvirus_like_virus_1
+   A:215-226(7.9)      B:277-290(5.0)      C:331-338(3.6)
+   IEGDISSADSAI   <50> SGSRYTSCIVTIWV <40> TCSDDIYT  [124]
+   +.|| |+ || +        |||  || | || .      |  ||   
+   iagDySkFDssl        SGsplTsidNSivN      vyGDDnii
+Score 26.5, high-confidence-RdRP: reward-DDGSDD.good-segment-length.
+
+>AQM32759.1|Agaricus_bisporus_virus_16
+   A:207-218(8.8)      B:269-282(11.0)      C:302-309(11.1)
+   LEGDYSRNDREQ   <50> TGTTCTTFRNSVFN  <19> VLGDDLLA  [103]
+   ..||||+ |. .         |  +||  ||..|       |.|||.| 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 40.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337419.1|Beihai_zhaovirus_like_virus_1
+   A:188-199(8.7)      B:264-277(5.1)      C:300-307(7.8)
+   VAYDGKQHDSNQ   <64> SGHPTRTTLGNTLR <22> ASGDDSFV  [120]
+   +++| .+ ||.         ||| + |+ .. |         ||| ..
+   lmlDysdFNsqH        SGeRaTtfiNsvlN      hvGDDvll
+Score 31.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337629.1|Changjiang_zhaovirus_like_virus_1
+   A:202-213(12.4)      B:280-293(4.7)      C:315-322(4.8)
+   ISTDVSSFDSLQ    <66> GHGPKTTDGNTKRN <21> IVGDDFWM  [121]
+   ++.| | ||| |            | |.+|||  |      . |||  .
+   lenDyskFDksq         SGdanTslGNTltn      vsGDDsvv
+Score 21.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009337677.1|Beihai_tombus_like_virus_15
+   A:172-183(14.1)      B:232-245(20.3)      C:261-268(11.6)
+   IEIDFTRFDRNC    <48> SGDVNTSIGNCLIV  <15> VEGDDMIA  [97]
+   +|+||||||  .         |||+|||.||||+        | ||||..
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 56.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AOW41972.1|Picobirnavirus_sp_
+   A:188-199(9.2)      B:250-263(11.4)      C:283-290(10.0)
+   IETDFKACDEHF   <50> SGQCITNDFETIYD  <19> CNGDDIAF  [103]
+   +..||+..| +.        |||. |+ + ||+        |+|||  .
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 40.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>NP_524561.1|Pseudomonas_phage_phi8
+   A:171-182(7.2)      B:239-252(3.1)      C:293-300(2.6)
+   ELYDASAFDTGF   <56> SGVPSVSDFGKIRG <40> NRGDDTMP  [130]
+     +|.|+||+          ||.|. |++  |        + |||   
+   lenDyskFDksq        SGdanTslGNTltn      vsGDDsvv
+Score 22.8, high-confidence-RdRP: reward-DDGGDD.good-segment-length.
+
+>ABK35363.1|Pseudomonas_phage_phi6
+   A:193-204(9.5)      B:265-278(12.8)      C:322-329(4.9)
+   VATDVSDHDTFW   <60> SGQGATDLMGTLLM  <43> SKSDDAML  [137]
+   +++|.|| |+          ||. +| .|.|+|           || ++
+   lmlDysdFNsqH        SGeRaTtfiNsvlN       hvGDDvll
+Score 37.3, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.
+
+>YP_002600763.2|Pseudomonas_phage_phi2954
+   A:176-187(9.5)      B:251-264(8.9)      C:297-304(6.9)
+   WCGDVSNYDHSF   <63> SGHAFTSLMAKVWK <32> NNGDDETV  [129]
+    | |.|+||||         |||  ||.|  ||        +|||  .
+   lmlDysdFNsqH        SGeRaTtfiNsvlN      hvGDDvll
+Score 35.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>NP_690823.1|Pseudomonas_phage_phi12
+   A:176-187(7.4)      B:250-263(7.8)      C:296-303(8.6)
+   FFGDVSSYDHSF   <62> SGHAFTSLFAKVWK <32> NNGDDEIV  [128]
+   +  |.|.||||         |||  ||..  ||        +||| ..
+   lmlDysdFNsqH        SGeRaTtfiNsvlN      hvGDDvll
+Score 33.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>P35942.1|IDIR_agent
+   A:174-185(14.0)      B:258-271(18.7)      C:296-303(9.9)
+   LYTDVSQWDASQ    <72> SGEKTTKIGNSFAN  <24> VDGDDNVV  [130]
+   |++|.|+||+|          |||++|.. ||..|       +.|||...
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 52.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>NP_620544.1|Rice_dwarf_virus
+   A:186-197(6.6)      B:273-286(17.1)      C:311-318(10.4)
+   VLADCSSWDQTY   <75> SGRLDTFFMNSVQN  <24> VAGDDAIM  [133]
+   +  | |.||..         ||   | ||||| |       + ||| .|
+   lmlDysdFNsqH        SGeRaTtfiNsvlN       hvGDDvll
+Score 44.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG79130.1|Kadipiro_virus
+   A:183-194(15.8)      B:263-276(13.8)      C:302-309(9.0)
+   VALDFSQYDSSL    <68> SGELTTQLRNTDPN  <25> IVGDDKYI  [127]
+   ++||||+||||          ||| +| . ||  |        |||| |+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 48.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>ANK78265.1|Bluetongue_virus_16
+   A:180-191(15.9)       B:310-323(22.8)      C:349-356(13.2)
+   IAIDYSEYDTHL    <118> SGENSTLIANSMHN  <25> YVGDDTLF  [177]
+   +++|||.||+|           |||++|..+|||||       |||||+++
+   lmlDysdFNsqH          SGeRaTtfiNsvlN       hvGDDvll
+Score 46.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.segment-length-penalty1.AB-dist-penalty.
+
+>AED99918.1|Avian_orthoreovirus
+   A:186-197(10.1)      B:286-299(17.4)      C:335-342(12.5)
+   VNIDIKACDASI    <88> SGSTATSTEHTANN  <35> CQGDDGLL  [157]
+   +.+| ..+|+|.         ||..+||+.+|..|       +||||.++
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 40.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.segment-length-penalty2.AB-dist-penalty.
+
+>YP_009333402.1|Beihai_sea_slater_virus_3
+   A:204-215(12.6)      B:283-296(17.6)      C:322-329(7.1)
+   LPLDASGFDENV    <67> SGSRWTGLLDSIIN  <25> FQGDDMQL  [126]
+   |+|| | ||...         ||.||| . .|+ |        ||||  +
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 47.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009336825.1|Hubei_diptera_virus_22
+   A:189-200(16.6)      B:253-266(20.7)      C:291-298(9.4)
+   LPWDFASFDHQV    <52> SGQRTTSLIGNVWN  <24> IRGDDTYV  [110]
+   |+|||+.||||.         ||.|+||.|..|||         |||+|.
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 56.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_009337111.1|Wenzhou_crab_virus_5
+   A:193-204(10.8)      B:258-271(20.0)      C:298-305(7.4)
+   CPIDQSKFDHMV    <53> SGWRWTALLDTWVN  <26> FQGDDARL  [113]
+   .++| | ||| .         |||||| . .|. |        ||||  +
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 48.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>APG75984.1|Beihai_toti_like_virus_2
+   A:182-193(7.9)      B:244-257(17.3)      C:277-284(5.4)
+   GAIDAENFDHCA   <50> SGWRLTSLLGTLAT  <19> ALGDDLTL  [103]
+    ++| .+|||          ||||.||. .|+.          |||  +
+   lmlDysdFNsqH        SGeRaTtfiNsvlN       hvGDDvll
+Score 40.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>YP_003934934.1|Armigeres_subalbatus_virus_SaX06_AK20
+   A:192-203(15.0)      B:265-278(19.0)      C:303-310(9.4)
+   LPFDFKGFDHQP    <61> SGVRPTSLIGNVWN  <24> IKGDDTYI  [119]
+   |++||. ||||          || | ||.|..|||         |||+|+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 53.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>AEX87902.1|Phytophthora_infestans_RNA_virus_3
+   A:202-213(20.9)      B:275-288(21.2)      C:314-321(7.6)
+   VMWDFSDFNINH    <61> TGVRGTSFVNTILN  <25> AFGDDVFS  [120]
+   +||||||||..|          | |+|||.||+||         ||||. 
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 49.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CAJ34335.2|Phlebiopsis_gigantea_mycovirus_dsRNA_2
+   A:208-219(21.3)      B:288-301(22.2)      C:327-334(11.4)
+   LMWDFSDFNINH    <68> SGERATSFTNTILS  <25> QQGDDVFA  [127]
+   |||||||||..|         ||||+||| ||+|         |||||.+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 54.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AEZ54146.1|Fusarium_virguliforme_dsRNA_mycovirus_2
+   A:208-219(20.8)      B:287-300(17.3)      C:326-333(5.8)
+   YMWDYADFNINH    <67> SGERDTSRVNSDSN  <25> ESGDDAFE  [126]
+   .||||+|||..|         |||| || .||  |         ||| . 
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 44.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009115498.1|Botrytis_cinerea_RNA_virus_1
+   A:201-212(19.9)      B:281-294(22.3)      C:320-327(10.6)
+   FMWDFADFNINH    <68> SGERATMWVNTLRN  <25> KTGDDVFL  [127]
+   +||||+|||..|         ||||+|.|.||+ |        .||||.+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 52.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009179230.1|Papaya_meleira_virus
+   A:214-225(22.0)      B:293-306(24.1)      C:332-339(11.7)
+   LMFDYSDFNINH    <67> SGERGTSFINTFLS  <25> LQGDDVFA  [126]
+   ||+||||||..|         ||||+||||||.|         |||||.+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 57.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009212848.1|Penicillium_aurantiogriseum_totivirus_1
+   A:193-204(24.9)      B:255-268(29.2)      C:288-295(16.7)
+   MMLDYDDFNSQH    <50> SGHRGTTFINSVLN  <19> HVGDDVYM  [103]
+   +|||||||||||         ||||+|||||||||       ||||||||
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 70.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>NP_619653.1|Leishmania_RNA_virus_1_4
+   A:188-199(22.4)      B:250-263(24.3)      C:279-286(14.6)
+   FAVDYDDFNSQH    <50> SGHRATSFINSVLD  <15> HVGDDILM  [99]
+   ++.|||||||||         ||||+||||||||        |||||.+|
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 61.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009162330.1|Trichomonas_vaginalis_virus_1
+   A:177-188(22.4)      B:236-249(29.4)      C:265-272(12.1)
+   AMLDYTDFNSQH    <47> SGHRATTFINTVLN  <15> CAGDDVIL  [96]
+    |||| ||||||         ||||+|||||||||       + ||||.+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 63.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AMB17475.1|Delisea_pulchra_totivirus_IndA
+   A:185-196(22.6)      B:253-266(29.1)      C:284-291(15.5)
+   FCFDYDNFNSQH    <56> SGWRLTSFMNSVLN  <17> HNGDDVYA  [107]
+   +|+|||+|||||         ||||.|||||||||       |+|||||+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 67.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009182188.1|Red_clover_powdery_mildew_associated_totivirus_5
+   A:184-195(21.8)      B:269-282(24.8)      C:299-306(13.5)
+   FCFDFEDFNSQH    <73> SGCRLTTFLNTVLN  <16> HNGDDILA  [123]
+   +|+||.||||||         || |.||| |||||       |+|||.++
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 60.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>ALD89111.1|Rhizoctonia_solani_negative_stranded_virus_3
+   A:215-226(6.9)      B:278-291(15.0)      C:311-318(6.5)
+   IMIDITGHNQSM   <51> GIEGWMNPVWTLIT  <19> GYSDDVSF  [104]
+   | +| |  || |        |+||. |  |||+|       + ||| ..
+   islDasKWNnnq        glqGllqktSSllh       vqSDDqvi
+Score 28.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AII01805.1|Deer_tick_mononegavirales_like_virus
+   A:229-240(15.6)      B:291-304(14.8)      C:323-330(6.7)
+   VSVDASSWNNRF    <50> GIEGLNQDTWVLTY  <18> CKGDDLRI  [102]
+   .| |+| ||| +         |+||| | || | .       . |||  |
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 37.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AJG39067.1|Wuchang_Cockroach_Virus_3
+   A:232-243(16.5)      B:294-307(11.6)      C:326-333(8.1)
+   IVLDLSKWNNKF    <50> GIEGQNQDTWVVTY  <18> VKGDDCRI  [102]
+   | .|.||||| +         |+||  | || + .       | |||  |
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 36.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AJG39080.1|Shuangao_Fly_Virus_1
+   A:230-241(18.6)      B:292-305(14.9)      C:324-331(7.4)
+   ITLDASSWNNHF    <50> GIEGLNQDTWVITY  <18> CKGDDFRL  [102]
+   ||.|+| ||||+         |+||| | || | .       . |||. +
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 41.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009333422.1|Beihai_rhabdo_like_virus_5
+   A:225-236(15.9)      B:300-313(25.4)      C:332-339(14.9)
+   ISFDFKKWCLTF    <63> WLEGMRQKGWTVIT  <18> GQGDNQVI  [115]
+   || |+.|||. +         |||||||||||++|       +|||||||
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 56.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009268916.1|Aquatic_bird_bornavirus_2
+   A:222-233(17.4)      B:297-310(25.1)      C:329-336(13.8)
+   INLDYSSWCNGF    <63> MGEGMRQKLWTILT  <18> GQGDNQTI  [115]
+   ||.||| |||++         |+||||||+|||||       +|||||.|
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 56.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>YP_009305102.1|Wuhan_Louse_Fly_Virus_5
+   A:218-229(23.8)      B:295-308(22.6)      C:327-334(15.0)
+   NHIDYEKWNNHQ    <65> GLEGLRQKGWTTVG  <18> AQGDNQVI  [117]
+   ||+|||||||||         ||||||||||| ++       +|||||||
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 69.4, high-confidence-RdRP: high-PSSM-score.reward-DNxGDN.good-segment-length.
+
+>YP_009337860.1|Wenling_crustacean_virus_13
+   A:232-243(11.8)      B:294-307(17.6)      C:326-333(6.4)
+   VQLDASGWNNKF    <50> GIEGLNQDTWDLVY  <18> VKGDDLRV  [102]
+   . .|+| ||| +         |+||| | ||.|+.       | |||  .
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 35.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AIY25916.1|Lepeophtheirus_salmonis_rhabdovirus_No127
+   A:218-229(21.2)      B:295-308(24.8)      C:327-334(15.0)
+   SHVDYEKWNNHQ    <65> GLEGLRQKGWSILN  <18> AQGDNQVI  [117]
+    | |||||||||         |||||||||||||+       +|||||||
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 68.9, high-confidence-RdRP: high-PSSM-score.reward-DNxGDN.good-segment-length.
+
+>AEX65767.1|Rinderpest_morbillivirus
+   A:239-250(15.6)      B:317-330(20.2)      C:349-356(14.3)
+   ITADLKKYCLNW    <66> GIEGYCQKLWTIST  <18> VQGDNQTI  [118]
+   ||+|..|||.||         |+||.|||+||| |       ||||||.|
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 50.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AGS56984.1|Oya_virus
+   A:222-233(19.7)      B:308-321(23.8)      C:349-356(13.0)
+   INADMSKWSAQD    <74> WLQGNMNYTSSYLH  <27> VHSDDNQT  [135]
+   ||+||||||.||         ||||| |||||+||       |||||++|
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 56.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AJZ68872.1|Laibin_virus
+   A:239-250(19.3)      B:328-341(22.4)      C:367-374(8.6)
+   VSADATKWSPGD    <77> WLQGNLNKCSSLFG  <25> HHSDDALF  [136]
+   .|+|+|||||+|         ||||||||+|||++       .||||  .
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 50.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>APG79216.1|Wuhan_insect_virus_16
+   A:211-222(14.4)      B:306-319(26.9)      C:349-356(12.5)
+   SSSDKTRWNQNF    <83> MMQGILHYTSSLLH  <29> CSSDDSAT  [146]
+    | | | ||||+         ||||||||||||||       .|||||+|
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 48.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.AB-dist-penalty.
+
+>ANW72256.1|Terena_virus
+   A:220-231(10.3)      B:295-308(14.8)      C:343-350(9.6)
+   IVMDQSQFSEGD    <63> WVQGMKNIMSTYCH  <34> VNSDDSYI  [131]
+   | ||.| .|++|         | ||| | +||+ |       | |||| |
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 34.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>AQU42764.1|Whidbey_virus
+   A:204-215(14.6)       B:318-331(17.0)      C:349-356(10.7)
+   STQDATKWNECL    <102> MLMGMMNALSTTYG  <17> RSSDDSMT  [153]
+    | |+||||++           ||||| |.+|| |+        ||||| |
+   islDasKWNnnq          glqGllqktSSllh       vqSDDqvi
+Score 32.3, high-confidence-RdRP: high-PSSM-score.segment-length-penalty2.AB-dist-penalty.
+
+>AGA82737.1|Arbia_virus
+   A:222-233(19.4)      B:318-331(26.9)      C:364-371(11.5)
+   TSDDARKWNQGH    <84> MMQGILHYTSSLLH  <32> QGSDDSSM  [150]
+   +|.|+.||||+|         ||||||||||||||       | ||||.|
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 52.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.AB-dist-penalty.
+
+>AFN73049.1|Tjuloc_virus
+   A:204-215(14.5)       B:318-331(17.9)      C:349-356(10.7)
+   ATEDATKWNECL    <102> MLMGMLNAGSTTLA  <17> RSSDDSMT  [153]
+    | |+||||++           |||||||.||| |         ||||| |
+   islDasKWNnnq          glqGllqktSSllh       vqSDDqvi
+Score 33.1, high-confidence-RdRP: high-PSSM-score.segment-length-penalty2.AB-dist-penalty.
+
+>YP_009337891.1|Changping_earthworm_virus_2
+   A:205-216(12.4)      B:313-326(17.8)      C:349-356(11.3)
+   ASLDKTKWNQLL    <96> MLMGMFNHSSTTLH  <22> ASSDDSMV  [152]
+    |.| |||||           |||||+|  || ||       +||||| .
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 31.5, high-confidence-RdRP: high-PSSM-score.segment-length-penalty2.AB-dist-penalty.
+
+>AGQ47773.1|Influenza_A_virus_A_Fort_Monmouth_1_JY2_1947_H1N1_
+   A:220-231(20.0)      B:325-338(19.9)      C:360-367(11.6)
+   ITGDNTKWNENQ    <93> MMMGMFNMLSTVLG  <21> QSSDDFAL  [148]
+   ||.|.||||+||         |||||+|.+||+|+       |||||.++
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 46.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.AB-dist-penalty.
+
+>ABF68025.1|Infectious_salmon_anemia_virus
+   A:207-218(14.8)      B:306-319(7.9)      C:336-343(12.5)
+   LTGDNSKYNESM    <87> MLMGMANNAFTTAS <16> QSSDDFVT  [137]
+   .|.|.||||+ |         ||||| |.  |  +      |||||.||
+   islDasKWNnnq         glqGllqktSSllh      vqSDDqvi
+Score 30.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.AB-dist-penalty.

@@ -8,11 +8,11 @@ Consensus column for A2(D/N) = 4587
 --------V----E---V-- |D| IVGY |F| ---D--N-------------  >890107819
 --------V----D---A-- |D| LQSY |F| ---D--S-------------  >1123592258
 --------V----D---M-- |D| LEKY |F| ---D--T-------------  >501421962
---------I----E---G-- |D| IKGY |F| ---D--N-------------  ** A1 A2 disagree **  >489297600
+--------I----E---G-- |D| IKGY |F| ---D--N-------------  >489297600
 --------L----D---A-- |D| IQKY |F| ---D--S-------------  >919371179
---------A----W---L-- |D| LSNA |F| ---G--S-------------  ** A2 disagree **  >946694699
---------A----S---L-- |D| SAKA |F| ---D--S-------------  ** A2 disagree **  >1062933037
---------M----Q---I-- |D| ISKA |F| ---D--S-------------  ** A1 A2 disagree **  >923750907
+--------A----W---L-- |D| LSNA |F| ---G--S-------------  >946694699
+--------A----S---L-- |D| SAKA |F| ---D--S-------------  >1062933037
+--------M----Q---I-- |D| ISKA |F| ---D--S-------------  >923750907
 --------M----K---I-- |D| LRKA |Y| ---D--M-------------  >1025017799
 --------I----Y---L-- |D| FRKA |F| ---D--T-------------  >390353251
 --------Y----S---A-- |D| FAKS |T| ---D--Y-------------  ** A2 disagree **  >APG77107.1|Changjiang_narna_like_virus_5
@@ -97,7 +97,7 @@ Consensus column for A2(D/N) = 4587
 --------M----S---G-- |D| YQAA |T| ---D--N-------------  ** A2 disagree **  >YP_009336520.1|Wenzhou_narna_like_virus_3
 --------V----S---G-- |D| YEAA |T| ---D--Y-------------  ** A2 disagree **  >YP_009337264.1|Wenling_narna_like_virus_1
 --------L----S---G-- |D| YTAA |T| ---D--Y-------------  ** A2 disagree **  >YP_009333144.1|Beihai_narna_like_virus_3
---------V----S---G-- |D| YKGA |T| ---D--S-------------  ** A2 disagree **  >YP_009336843.1|Hubei_narna_like_virus_7
+--------V----S---G-- |D| YKGA |T| ---D--S-------------  >YP_009336843.1|Hubei_narna_like_virus_7
 --------C----S---V-- |D| YEAA |T| ---D--L-------------  ** A2 disagree **  >YP_009337307.1|Wenzhou_narna_like_virus_5
 --------V----S---D-- |D| GDAA |T| ---D--S-------------  ** A2 disagree **  >APG77011.1|Beihai_narna_like_virus_5
 --------V----S---V-- |D| YRSA |T| ---D--N-------------  ** A2 disagree **  >YP_009345044.1|Phomopsis_longicolla_RNA_virus_1
@@ -494,13 +494,13 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------L----A---T-- |D| ASAF |D| ---W--T-------------  >YP_009342461.1|Wuhan_heteroptera_virus_2
 --------L----A---T-- |D| CSAF |D| ---W--T-------------  >YP_009330007.1|Hubei_sobemo_like_virus_5
 --------Y----A---I-- |D| KKLW |D| ---W--T-------------  >YP_009330005.1|Hubei_sobemo_like_virus_7
---------L----E---Y-- |D| GKAF |E| ---Y--V-------------  ** A1 A2 disagree **  >NP_821130.1|Sclerophthora_macrospora_virus_B
+--------L----E---Y-- |D| GKAF |E| ---Y--V-------------  >NP_821130.1|Sclerophthora_macrospora_virus_B
 --------F----S---S-- |D| KETW |D| ---L--S-------------  >YP_009337124.1|Changjiang_sobemo_like_virus_2
 --------V----E---C-- |D| KSNW |D| ---Y--N-------------  >AHA86920.1|Carascovirus_SF1
 --------W----E---S-- |D| KTNW |D| ---Y--L-------------  >YP_009336811.1|Beihai_sobemo_like_virus_25
 --------T----E---I-- |D| FTGF |D| ---L--R-------------  >YP_009336500.1|Hubei_tetragnatha_maxillosa_virus_7
---------R----T---S-- |D| FSKN |D| ---I--F-------------  ** A1 A2 disagree **  >YP_009345058.1|Wuhan_nido_like_virus_1
---------R----S---E-- |D| FSKQ |D| ---I--F-------------  ** A1 A2 disagree **  >YP_009342322.1|Wuhan_insect_virus_19
+--------R----T---S-- |D| FSKN |D| ---I--F-------------  >YP_009345058.1|Wuhan_nido_like_virus_1
+--------R----S---E-- |D| FSKQ |D| ---I--F-------------  >YP_009342322.1|Wuhan_insect_virus_19
 --------I----S---Q-- |D| YPKF |D| ---T--C-------------  >ACS44770.1|Yellow_head_virus
 --------V----S---L-- |D| HSKF |D| ---R--H-------------  >YP_009336549.1|Wenling_nido_like_virus_1
 --------V----S---L-- |D| HSKF |D| ---R--F-------------  >YP_009333332.1|Beihai_Nido_like_virus_2
@@ -594,7 +594,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------H----M---G-- |D| MSDF |D| ---S--S-------------  >YP_009222009.1|Alternaria_brassicicola_fusarivirus_1
 --------Y----A---G-- |D| CTEF |D| ---S--T-------------  >YP_009143301.1|Sclerotinia_sclerotiorum_fusarivirus_1
 --------F----A---G-- |D| CSDF |D| ---S--T-------------  >ADO60939.1|Grapevine_associated_mycovirus_2
---------A----I---A-- |D| AHEY |D| ---S--R-------------  ** A1 A2 disagree **  >YP_009330037.1|Fusarium_langsethiae_hypovirus_1
+--------A----I---A-- |D| AHEY |D| ---S--R-------------  >YP_009330037.1|Fusarium_langsethiae_hypovirus_1
 --------A----G---L-- |D| AHEY |D| ---S--T-------------  >AQM49946.1|Agaricus_bisporus_virus_2
 --------M----M---A-- |D| ATAF |D| ---S--T-------------  >YP_009011065.1|Fusarium_graminearum_hypovirus_1
 --------I----I---A-- |D| ATAY |D| ---S--N-------------  >NP_041091.1|Cryphonectria_hypovirus_1
@@ -943,7 +943,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------F----S---L-- |D| WSSY |D| ---Q--R-------------  >YP_007891054.1|Dill_cryptic_virus_2
 --------F----S---L-- |D| WSSY |D| ---Q--R-------------  >YP_007889825.1|Hop_trefoil_cryptic_virus_2
 --------F----T---I-- |D| WSGF |D| ---Q--R-------------  >BAM36402.1|Rosellinia_necatrix_partitivirus_4
--------------------- |-| ---- |-| --------------------  ** A1 A2 disagree **  >BAT24481.1|Rosellinia_necatrix_partitivirus_6
+-------------------- |-| ---- |-| --------------------  >BAT24481.1|Rosellinia_necatrix_partitivirus_6
 --------A----T---L-- |D| YSRF |D| ---Q--T-------------  >APG78329.1|Hubei_partiti_like_virus_24
 --------I----S---L-- |D| WSQF |D| ---Q--R-------------  >YP_009272947.1|Fusarium_poae_partitivirus_2
 --------I----S---L-- |D| WSQF |D| ---Q--R-------------  >AHU88025.1|Ustilaginoidea_virens_partitivirus_2
@@ -992,7 +992,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------F----D---A-- |D| GSRF |D| ---S--S-------------  >AKC01037.1|Ryegrass_mosaic_virus
 --------C----D---A-- |D| GSQF |D| ---S--S-------------  >AAO13836.1|Lycoris_mild_mottle_virus
 --------C----H---A-- |D| GSQF |D| ---S--S-------------  >CAA48521.1|Zucchini_yellow_mosaic_virus
--------------------- |-| --TV |R| ---S--S-------------  ** A1 A2 disagree **  >ADP00834.1|Turnip_mosaic_virus
+-------------------- |-| --TV |R| ---S--S-------------  >ADP00834.1|Turnip_mosaic_virus
 --------C----H---A-- |D| GSQF |D| ---S--S-------------  >AGV08290.1|Bean_common_mosaic_virus
 --------C----H---A-- |D| GSXX |D| ---S--S-------------  >AFK23478.1|Zucchini_yellow_mosaic_virus
 --------C----H---A-- |D| GSQF |D| ---S--S-------------  >YP_009255234.1|Impatiens_flower_break_potyvirus
@@ -1236,7 +1236,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------V----D---F-- |D| VSNW |D| ---G--F-------------  >YP_001285729.1|Solenopsis_invicta_virus_2
 --------V----D---F-- |D| VSNW |D| ---G--H-------------  >YP_009337002.1|Shuangao_insect_virus_8
 --------Y----D---F-- |D| VKAW |E| ---A--S-------------  >YP_009330058.1|Hubei_picorna_like_virus_82
---------F----D---G-- |D| IGGQ |E| ---N--I-------------  ** A1 A2 disagree **  >YP_009337170.1|Wenzhou_picorna_like_virus_45
+--------F----D---G-- |D| IGGQ |E| ---N--I-------------  >YP_009337170.1|Wenzhou_picorna_like_virus_45
 --------I----A---G-- |D| LKKM |D| ---A--S-------------  >AFR11853.1|Cadicistrovirus
 --------F----A---G-- |D| FKKF |E| ---S--Y-------------  >APG76839.1|Beihai_picorna_like_virus_111
 --------I----A---G-- |D| FKNF |D| ---G--H-------------  >AOC55056.1|Griffin_dicistrovirus
@@ -1511,7 +1511,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------V----A---W-- |D| YHKF |D| ---S--S-------------  >YP_009337739.1|Hubei_odonate_virus_7
 --------I----Q---L-- |D| FSKF |S| ---D--T-------------  >YP_004935363.1|Spodoptera_exigua_iflavirus_1
 --------I----Q---L-- |D| FSKF |S| ---D--S-------------  >YP_009165593.1|Opsiphanes_invirae_iflavirus_1
---------L----Q---M-- |D| YKNY |S| ---D--A-------------  ** A1 A2 disagree **  >ACH57393.1|Infectious_flacherie_virus
+--------L----Q---M-- |D| YKNY |S| ---D--A-------------  >ACH57393.1|Infectious_flacherie_virus
 --------V----T---M-- |D| YSNF |G| ---P--G-------------  >YP_009337684.1|Hubei_odonate_virus_5
 --------V----T---L-- |D| YSNF |G| ---P--G-------------  >YP_009337117.1|Hubei_picorna_like_virus_38
 --------V----T---M-- |D| YSNF |G| ---P--G-------------  >YP_009315872.1|Bradson_virus
@@ -1520,7 +1520,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------V----T---I-- |D| YSNF |G| ---P--G-------------  >APD13905.1|Xysticus_cristatus_iflavirus
 --------I----T---I-- |D| YSNF |G| ---P--G-------------  >YP_009337088.1|Hubei_mosquito_virus_1
 --------V----T---I-- |D| YSNF |G| ---P--G-------------  >YP_009336539.1|Hubei_picorna_like_virus_40
---------G----T---I-- |D| YANF |G| ---A--G-------------  ** A1 A2 disagree **  >YP_009337750.1|Hubei_picorna_like_virus_41
+--------G----T---I-- |D| YANF |G| ---A--G-------------  >YP_009337750.1|Hubei_picorna_like_virus_41
 --------G----S---I-- |D| YSNF |G| ---P--G-------------  >YP_009337665.1|Sanxia_water_strider_virus_8
 --------I----T---M-- |D| YSNF |G| ---P--G-------------  >YP_009336612.1|Hubei_picorna_like_virus_39
 --------V----T---M-- |D| YSNF |G| ---P--A-------------  >YP_009336629.1|Hubei_arthropod_virus_1
@@ -1889,7 +1889,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------F----A---I-- |D| YKRF |D| ---K--T-------------  >YP_009268643.1|Nylanderia_fulva_virus_1
 --------Y----S---I-- |D| FARY |D| ---K--S-------------  >YP_009336830.1|Hubei_arthropod_virus_3
 --------F----E---I-- |D| FKSY |D| ---K--T-------------  >YP_009333575.1|Beihai_sea_slater_virus_1
---------S----D---W-- |D| LRL- |-| --------------------  ** A1 A2 disagree **  >YP_009337195.1|Hubei_picorna_like_virus_6
+--------S----D---W-- |D| LRL- |-| --------------------  >YP_009337195.1|Hubei_picorna_like_virus_6
 --------Y----D---G-- |D| LKAM |D| ---K--S-------------  >YP_009345913.1|Beihai_picorna_like_virus_57
 --------L----C---C-- |D| VSGW |D| ---T--S-------------  >YP_009336711.1|Biomphalaria_virus_3
 --------I----D---G-- |D| VSGW |D| ---T--C-------------  >YP_009336718.1|Wenling_picorna_like_virus_8
@@ -2240,7 +2240,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------L----E---G-- |D| GKAW |D| ---R--T-------------  >YP_009337141.1|Beihai_weivirus_like_virus_15
 --------Y----E---N-- |D| GSAW |D| ---V--T-------------  >YP_009336992.1|Beihai_weivirus_like_virus_16
 --------V----E---N-- |D| LTSF |E| ---F--G-------------  >YP_009336943.1|Beihai_weivirus_like_virus_17
---------V----E---N-- |D| LTSF |E| ---F--G-------------  ** A1 A2 disagree **  >YP_009337063.1|Beihai_weivirus_like_virus_18
+--------V----E---N-- |D| LTSF |E| ---F--G-------------  >YP_009337063.1|Beihai_weivirus_like_virus_18
 --------C----E---N-- |D| LTAF |E| ---F--G-------------  >YP_009337226.1|Beihai_weivirus_like_virus_20
 --------C----E---N-- |D| LTAF |E| ---F--G-------------  >YP_009337072.1|Beihai_weivirus_like_virus_21
 --------V----E---N-- |D| LTAF |E| ---F--G-------------  >APG78103.1|Beihai_weivirus_like_virus_19
@@ -2412,7 +2412,7 @@ KL------K----S---T-- |D| VSYF |D| ---W--M-------------  >YP_009336800.1|Beihai_s
 --------A----C---K-- |A| AGIV |D| ---P--T-------------  ** A1 A2 disagree **  >BAK61607.1|Hepatitis_C_virus_subtype_2b
 --------F----S---Y-- |D| TRCF |D| ---S--T-------------  >AIW39810.1|Hepatitis_C_virus
 --------F----S---Y-- |D| TRCF |D| ---S--T-------------  >ANF99567.1|Hepatitis_C_virus
---------F----S---Y-- |G| TRCF |G| ---S--T-------------  ** A1 A2 disagree **  >AEV46286.1|Hepatitis_C_virus_genotype_3
+--------F----S---Y-- |G| TRCF |G| ---S--T-------------  >AEV46286.1|Hepatitis_C_virus_genotype_3
 --------F----S---Y-- |D| TRCF |D| ---S--T-------------  >AEJ86542.1|Hepatitis_C_virus_subtype_2a
 --------F----S---Y-- |D| TRCF |D| ---S--T-------------  >YP_009272536.1|Hepatitis_C_virus
 --------F----S---Y-- |D| TRCF |D| ---S--T-------------  >ACH97717.1|Hepatitis_C_virus
@@ -2622,7 +2622,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------T----E---S-- |D| YEAF |D| ---S--S-------------  >AHJ80314.1|Cherry_twisted_leaf_associated_virus
 --------T----E---S-- |D| YEAF |D| ---A--S-------------  >NP_624313.1|Sugarcane_striate_mosaic_associated_virus
 --------T----E---S-- |D| YEAF |D| ---S--S-------------  >YP_002776347.1|African_oil_palm_ringspot_virus
---------A----Q---N-- |L| IMKH |S| ---M--L-------------  ** A1 A2 disagree **  >CBX24840.1|Apple_stem_pitting_virus
+--------A----Q---N-- |L| IMKH |S| ---M--L-------------  >CBX24840.1|Apple_stem_pitting_virus
 --------T----E---S-- |D| YEAF |D| ---A--S-------------  >YP_006589919.1|Sweet_potato_C6_virus
 --------T----E---S-- |D| YEAF |D| ---A--S-------------  >AFV34742.1|Grapevine_rupestris_stem_pitting_associated_virus
 --------T----E---S-- |D| YEAF |D| ---A--S-------------  >YP_006905861.1|Rubus_canadensis_virus_1
@@ -3012,7 +3012,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------K----E---I-- |D| FSKF |D| ---K--S-------------  >AEP04407.1|Prunus_necrotic_ringspot_virus
 --------K----E---I-- |D| FSKF |D| ---K--S-------------  >YP_054423.1|Humulus_japonicus_latent_virus
 --------L----E---A-- |D| LSKF |D| ---K--S-------------  >NP_041197.1|Brome_mosaic_virus
---------L----E---A-- |D| LSKF |D| ---K--S-------------  ** A1 A2 disagree **  >NP_658999.1|Broad_bean_mottle_virus
+--------L----E---A-- |D| LSKF |D| ---K--S-------------  >NP_658999.1|Broad_bean_mottle_virus
 --------L----E---A-- |D| LSKF |D| ---K--S-------------  >YP_233102.2|Cassia_yellow_blotch_virus
 --------L----E---A-- |D| LSKF |D| ---K--S-------------  >YP_003208108.1|Melandrium_yellow_fleck_virus
 --------L----E---A-- |D| LSKF |D| ---K--S-------------  >AEI54609.1|Cowpea_chlorotic_mottle_virus
@@ -3415,7 +3415,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------V----M---G-- |D| FSRM |D| ---A--T-------------  >YP_009337425.1|Wenzhou_bivalvia_virus_3
 --------N----F---N-- |D| FSKM |D| ---G--H-------------  >APG76128.1|Beihai_noda_like_virus_4
 --------A----E---T-- |D| FSKM |D| ---E--T-------------  >APG76507.1|Hubei_noda_like_virus_19
---------R----A---V-- |D| YTAA |D| ---E--G-------------  ** A1 A2 disagree **  >APG76211.1|Beihai_noda_like_virus_21
+--------R----A---V-- |D| YTAA |D| ---E--G-------------  >APG76211.1|Beihai_noda_like_virus_21
 --------H----D---T-- |D| YSKM |D| ---E--T-------------  >APG76209.1|Beihai_noda_like_virus_19
 --------H----D---T-- |D| YTKM |D| ---E--T-------------  >APG76200.1|Beihai_noda_like_virus_20
 --------Y----E---C-- |D| FTAF |D| ---S--S-------------  >YP_009336606.1|Beihai_tombus_like_virus_16
@@ -3551,7 +3551,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------I----N---V-- |D| IKAC |D| ---A--S-------------  >AIY69147.1|Atlantic_halibut_reovirus
 --------I----N---V-- |D| IKAC |D| ---A--S-------------  >YP_009259508.1|Etheostoma_fonticola_aquareovirus
 --------V----N---V-- |D| IKAC |D| ---A--S-------------  >ANE37523.1|Grass_carp_reovirus
---------N----P---M-- |D| LKSC |E| ---A--Q-------------  ** A1 A2 disagree **  >BAT50987.1|Rosellinia_necatrix_mycovirus_1_W1032_S5
+--------N----P---M-- |D| LKSC |E| ---A--Q-------------  >BAT50987.1|Rosellinia_necatrix_mycovirus_1_W1032_S5
 --------L----P---W-- |D| FASF |D| ---H--Q-------------  >YP_009336825.1|Hubei_diptera_virus_22
 --------L----P---F-- |D| YAAF |D| ---H--Q-------------  >YP_009342432.1|Wuhan_insect_virus_31
 --------L----P---F-- |D| YAAF |D| ---H--Q-------------  >YP_009256209.1|Golden_shiner_totivirus
@@ -3796,7 +3796,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------L----F---L-- |D| YSGH |N| ---T--S-------------  >YP_089661.1|Citrus_psorosis_virus
 --------I----F---L-- |D| YSGH |N| ---T--S-------------  >BAV13384.1|Blueberry_mosaic_associated_virus
 --------L----F---V-- |S| FDMS |E| ---F--S-------------  ** A1 A2 disagree **  >YP_009337854.1|Shahe_yuevirus_like_virus_1
---------I----F---I-- |S| FDMS |E| ---F--S-------------  ** A1 A2 disagree **  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
+--------I----F---I-- |S| FDMS |E| ---F--S-------------  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
 --------V----N---F-- |D| ASGW |C| ---Y--T-------------  >YP_009333178.1|Beihai_barnacle_virus_9
 --------L----V---A-- |D| ISGW |N| ---N--G-------------  >YP_009344984.1|Xinzhou_nematode_virus_5
 --------V----N---F-- |D| VSGW |C| ---S--N-------------  >YP_009337428.1|Sanxia_atyid_shrimp_virus_4
@@ -4500,7 +4500,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------G----S---L-- |D| HSKW |G| ---P--L-------------  >AKN10711.1|Haartman_Institute_snake_virus
 --------L----S---M-- |D| HSKW |G| ---P--Y-------------  >AKH49085.1|unidentified_Reptarenavirus
 --------L----S---M-- |D| HSKW |G| ---P--Y-------------  >YP_006590093.1|CAS_virus
---------L----S---X-- |X| XXXX |X| ---X--X-------------  ** A1 A2 disagree **  >AKH48980.1|unidentified_Reptarenavirus
+--------L----S---X-- |X| XXXX |X| ---X--X-------------  >AKH48980.1|unidentified_Reptarenavirus
 --------L----S---M-- |D| HSKW |G| ---P--F-------------  >APX61223.1|Tavallinen_suomalainen_mies_virus
 --------L----S---M-- |D| HSKW |G| ---P--F-------------  >AKH49031.1|unidentified_Reptarenavirus
 --------L----S---M-- |D| HSKW |G| ---P--F-------------  >AKH49097.1|unidentified_Reptarenavirus
@@ -4565,7 +4565,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------M----S---K-- |D| GESW |G| ---P--K-------------  >APG79315.1|Shahe_isopoda_virus_4
 --------M----S---K-- |D| GESW |G| ---P--K-------------  >APG79311.1|Shahe_bunya_like_virus_2
 --------D----N---V-- |D| HKSW |G| ---D--Y-------------  >APG79224.1|Beihai_bunya_like_virus_4
------------------R-- |D| HTKW |G| ---T--F-------------  ** A1 A2 disagree **  >APG79353.1|Wenzhou_channeled_applesnail_virus_4
+-----------------R-- |D| HTKW |G| ---T--F-------------  >APG79353.1|Wenzhou_channeled_applesnail_virus_4
 --------R----N---E-- |D| HSKW |G| ---S--K-------------  >APG79355.1|Wenzhou_bunya_like_virus_1
 --------A----T---W-- |D| ESKW |S| ---V--L-------------  >APG79230.1|Beihai_bunya_like_virus_5
 --------Q----S---L-- |D| CSEF |G| ---P--G-------------  >APG79231.1|Beihai_sipunculid_worm_virus_7
@@ -4633,7 +4633,7 @@ LIGCHPHFV----A---N-- |D| YTAF |D| ---Q--S-------------  >AKZ17743.1|Grapevine_Sy
 --------S----S---V-- |V| ETHA |R| ---S--V-------------  ** A1 A2 disagree **  >YP_009246481.1|Tilapia_lake_virus
 --------A----S---L-- |D| KTKW |N| ---Q--L-------------  >YP_009337891.1|Changping_earthworm_virus_2
 
-Total disagreements 29 A1 (0.6%), 329 A2 (7.1%)
+Total disagreements 8 A1 (0.2%), 305 A2 (6.6%)
 
 =================================================
 Motif B
@@ -4641,13 +4641,13 @@ Motif B
 Consensus column for B1(G) = 6215
 
 -------S-G--T--P---Q |G| -G--IVSPILA-N----I--  >890107819
--------S-G--S--P---Q |G| -A--VVSPLLA-N----L--  ** B1 disagree **  >1123592258
+-------S-G--S--P---Q |G| -A--VVSPLLA-N----L--  >1123592258
 -------V-G--V--P---Q |G| -G--PLSPILS-N----I--  >501421962
--------K-G--T--P---Q |G| -G--IISPLLA-N----V--  ** B1 disagree **  >489297600
+-------K-G--T--P---Q |G| -G--IISPLLA-N----V--  >489297600
 -------L-G--S--P---Q |G| -A--VISPLLA-N----I--  >919371179
 -------R-G--V--K---Q |G| -C--PLSPIVF-N----L--  >946694699
 -------R-G--T--R---Q |G| -C--LLSPILF-A----L--  >1062933037
--------R-G--L--R---Q |G| -C--SLSPYLF-V----I--  ** B1 disagree **  >923750907
+-------R-G--L--R---Q |G| -C--SLSPYLF-V----I--  >923750907
 -------R-G--F--R---Q |G| -D--PASPLLF-I----L--  >1025017799
 -------S-G--V--P---Q |G| -S--ILGPLLF-L----I--  >390353251
 -------C-G--A--P---M |G| -L--GPGWTVL-C----I--  >APG77107.1|Changjiang_narna_like_virus_5
@@ -6121,9 +6121,9 @@ Consensus column for B1(G) = 6215
 -------C-G--V--P---S |G| -C--NCTTIIN-T----N--  >YP_009342320.1|Biomphalaria_virus_2
 -------R-G--M--P---S |G| -H--LLTSVFN-S----G--  >YP_009333541.1|Beihai_picorna_like_virus_105
 -------R-G--M--P---S |G| -H--LLTSVFN-S----G--  >AFR11854.1|Niflavirus
--------H-G--L--P---S |G| -VPGGFTTICN-I----L--  ** B1 disagree **  >YP_009333344.1|Beihai_paphia_shell_virus_4
--------H-G--L--P---S |G| -VPGGFTTIFN-I----M--  ** B1 disagree **  >YP_009336810.1|Shahe_picorna_like_virus_13
--------H-G--L--P---S |G| -VPGGFTTIFN-I----M--  ** B1 disagree **  >YP_009143521.1|Ampivirus_A1
+-------H-G--L--P---S |G| -VPGGFTTICN-I----L--  >YP_009333344.1|Beihai_paphia_shell_virus_4
+-------H-G--L--P---S |G| -VPGGFTTIFN-I----M--  >YP_009336810.1|Shahe_picorna_like_virus_13
+-------H-G--L--P---S |G| -VPGGFTTIFN-I----M--  >YP_009143521.1|Ampivirus_A1
 -------H-G--N--P---S |G| -S--ALTTFFN-T----Y--  >YP_009336821.1|Wenzhou_picorna_like_virus_49
 -------H-G--N--P---S |G| -H--TLTTVIN-C----L--  >YP_009333479.1|Beihai_picorna_like_virus_112
 -------H-G--N--P---S |G| -H--TLTTVIN-C----I--  >YP_009333450.1|Beihai_picorna_like_virus_113
@@ -6856,7 +6856,7 @@ Consensus column for B1(G) = 6215
 -------S-G--H--P---T |G| -L--YLGAEGN-T----L--  >ANR02697.1|Rhizoctonia_solani_mycovirus_1
 -------S-G--V--P---S |G| -L--YFGAEGN-T----I--  >BAT50982.1|Rosellinia_necatrix_mycovirus_2_W1032_S6
 -------T-G--V--P---S |G| -L--YLGAEGN-T----L--  >CCD33025.1|Aspergillus_foetidus_slow_virus_2
--------M-R--N--Q---S |G| -A--FTTTLTS-T----Y--  ** B1 disagree **  >YP_009336687.1|Wenzhou_bivalvia_virus_1
+-------M-R--N--Q---S |G| -A--FTTTLTS-T----Y--  >YP_009336687.1|Wenzhou_bivalvia_virus_1
 -------L-R--N--Q---S |G| -C--YLTSMIS-T----Y--  >YP_009337143.1|Wenzhou_picorna_like_virus_54
 -------A-I--R--R---S |G| -C--RGTSCLN-F----L--  >YP_009337101.1|Beihai_weivirus_like_virus_13
 -------A-I--R--R---S |G| -C--RGTSVLN-F----L--  >YP_009337183.1|Beihai_weivirus_like_virus_12
@@ -6882,7 +6882,7 @@ Consensus column for B1(G) = 6215
 -------F-I--R--C---S |G| -D--FWTSLGN-G----L--  >YP_009333186.1|Hubei_tombus_like_virus_37
 -------G-K--L--P---S |G| -N--IKTTTMN-S----G--  >YP_009179218.1|Sanxia_water_strider_virus_6
 -------G-N--Q--K---S |G| -L--WDTSINN-K----L--  >BAU79520.1|Diatom_colony_associated_ssRNA_virus_1
--------G-Q--R--M---S |G| -H--VFT-WMN-S----F--  ** B1 disagree **  >YP_009179221.1|Bole_tick_virus_4
+-------G-Q--R--M---S |G| -H--VFT-WMN-S----F--  >YP_009179221.1|Bole_tick_virus_4
 -------G-Q--R--Q---S |G| -D--YLTSWGN-G----L--  >YP_009179226.1|Beihai_barnacle_viurs_1
 -------G-Q--R--G---S |G| -Q--PDASAGN-S----M--  >NP_044731.1|Bovine_viral_diarrhea_virus_2
 -------G-Q--R--G---S |G| -Q--PDTSAGN-S----I--  >AQY77579.1|Atypical_porcine_pestivirus
@@ -6903,7 +6903,7 @@ Consensus column for B1(G) = 6215
 -------A-Q--R--G---S |G| -V--WNTSRGN-G----K--  >YP_009254746.1|Xinzhou_spider_virus_3
 -------G-Q--V--S---S |G| -E--ITTSRGN-G----W--  >YP_009179219.1|Shayang_spider_virus_4
 -------G-Q--R--S---S |G| -D--QLTSVYN-T----K--  >YP_009179217.1|Tacheng_tick_virus_8
--------A-Q--R--P---S |G| -Y--WNTAL-N-T----L--  ** B1 disagree **  >YP_009254745.1|Wuhan_centipede_virus
+-------A-Q--R--P---S |G| -Y--WNTAL-N-T----L--  >YP_009254745.1|Wuhan_centipede_virus
 -------G-Q--V--S---S |G| -D--VLTSFGN-T----L--  >YP_009179222.1|Xinzhou_spider_virus_2
 -------G-Q--R--G---S |G| -D--LMTSFGN-T----L--  >AKM16625.2|Eriocheir_sinensis_Cholera_like_Virus
 -------G-Q--R--A---S |G| -D--QFTSFGN-T----L--  >YP_009028573.1|Soybean_cyst_nematode_virus_5
@@ -6994,7 +6994,7 @@ Consensus column for B1(G) = 6215
 -------D-Q--R--G---S |G| -Q--VGTYGLN-T----F--  >P33478.1|Dengue_virus_1_Singapore_S275_1990
 -------D-Q--R--G---S |G| -Q--VGTYGLN-T----F--  >AQV12375.1|Dengue_virus
 -------D-Q--R--G---S |G| -Q--VGTYGLN-T----F--  >AAD32960.1|Dengue_virus_2
--------X-X--X--X---X |-| -------XXXX-X----X--  ** B1 disagree **  >AHW48492.1|West_Nile_virus
+-------X-X--X--X---X |-| -------XXXX-X----X--  >AHW48492.1|West_Nile_virus
 -------D-Q--R--G---S |G| -Q--VVTYALN-T----F--  >AHL43502.1|Zika_virus
 -------D-Q--R--G---S |G| -Q--VGTYGLN-T----F--  >ABV55251.1|Dengue_virus_2
 -------D-Q--R--G---S |G| -Q--VVTYALN-T----F--  >AQX32988.1|Zika_virus
@@ -7647,7 +7647,7 @@ Consensus column for B1(G) = 6215
 -------Y-Q--R--R---T |G| -D--ACTYLGN-T----I--  >AEP04407.1|Prunus_necrotic_ringspot_virus
 -------F-Q--R--R---T |G| -D--ACTYLGN-T----L--  >YP_054423.1|Humulus_japonicus_latent_virus
 -------F-Q--R--R---T |G| -D--AFTYFGN-T----L--  >NP_041197.1|Brome_mosaic_virus
--------L-L--S--K---T |N| RG--CFHLLWE-H----F--  ** B1 disagree **  >NP_658999.1|Broad_bean_mottle_virus
+-------L-L--S--K---T |N| RG--CFHLLWE-H----F--  >NP_658999.1|Broad_bean_mottle_virus
 -------F-Q--R--R---T |G| -D--AFTYFGN-T----L--  >YP_233102.2|Cassia_yellow_blotch_virus
 -------F-Q--R--R---T |G| -D--AFTYFGN-T----I--  >YP_003208108.1|Melandrium_yellow_fleck_virus
 -------F-Q--R--R---T |G| -D--AFTYFGN-T----L--  >AEI54609.1|Cowpea_chlorotic_mottle_virus
@@ -7708,7 +7708,7 @@ Consensus column for B1(G) = 6215
 -------G-Q--R--R---S |G| -G--SNTWIGN-T----L--  >AGU69238.1|Blueberry_virus_A
 -------S-S--R--R---T |G| -S--PNTWLSN-T----L--  >YP_004935919.1|Grapevine_leafroll_associated_virus_7
 -------A-Q--R--R---T |G| -S--PNTFLSN-C----L--  >AFJ05056.2|Cordyline_virus_3
--------A-Q--R--R---T |G| -----------------I--  ** B1 disagree **  >AFJ05062.2|Cordyline_virus_4
+-------A-Q--R--R---T |G| -----------------I--  >AFJ05062.2|Cordyline_virus_4
 -------A-Q--R--R---T |G| -S--PNTFLSN-S----I--  >ADU03655.1|Cordyline_virus_1
 -------A-Q--R--K---T |G| -S--PNTFLSN-S----I--  >AFJ05046.1|Cordyline_virus_2
 -------C-Q--R--R---T |G| -S--PNTWLSN-S----L--  >ACG69815.1|Little_cherry_virus_1
@@ -8066,14 +8066,14 @@ Consensus column for B1(G) = 6215
 -------I-M--N--A---S |G| -R--DDTALAN-A----L--  >YP_009337316.1|Hubei_yanvirus_like_virus_1
 ---------Q--L--P---T |G| -T--TCTTFRN-S----V--  >AQM32759.1|Agaricus_bisporus_virus_16
 -------G-T--T--F---S |G| HP--TRTTLGN-T----L--  >YP_009337419.1|Beihai_zhaovirus_like_virus_1
--------G-T--V--R---S |G| DA--TKTTFGN-T----L--  ** B1 disagree **  >YP_009337663.1|Hubei_zhaovirus_like_virus_2
--------G-T--V--F---S |G| HA--TRTTFGN-S----L--  ** B1 disagree **  >YP_009337645.1|Hubei_zhaovirus_like_virus_1
+-------G-T--V--R---S |G| DA--TKTTFGN-T----L--  >YP_009337663.1|Hubei_zhaovirus_like_virus_2
+-------G-T--V--F---S |G| HA--TRTTFGN-S----L--  >YP_009337645.1|Hubei_zhaovirus_like_virus_1
 -------G-T--T--P---S |G| HP--TRTTVGN-T----L--  >YP_009337427.1|Beihai_zhaovirus_like_virus_3
 -------G-T--T--F---S |G| HS--TKTTLGN-T----L--  ** B1 disagree **  >YP_009337445.1|Beihai_zhaovirus_like_virus_4
--------G-T--T--F---S |G| LS--TRTTLGN-T----W--  ** B1 disagree **  >YP_009337406.1|Beihai_zhaovirus_like_virus_5
+-------G-T--T--F---S |G| LS--TRTTLGN-T----W--  >YP_009337406.1|Beihai_zhaovirus_like_virus_5
 -------G-Q--R--A---S |G| -D--PFTTVGN-T----F--  >YP_009337414.1|Beihai_zhaovirus_like_virus_2
 -------G-T--T--P---S |G| HG--PKTTDGN-T----K--  ** B1 disagree **  >YP_009337629.1|Changjiang_zhaovirus_like_virus_1
--------G-T--V--L---S |G| HG--IRTTLGN-T----L--  ** B1 disagree **  >YP_009337670.1|Wenling_zhaovirus_like_virus_1
+-------G-T--V--L---S |G| HG--IRTTLGN-T----L--  >YP_009337670.1|Wenling_zhaovirus_like_virus_1
 -------G-T--R--M---S |G| -D--VNTSIGN-C----L--  >YP_009337677.1|Beihai_tombus_like_virus_15
 -------H-N--L--L---S |G| -Q--CITNDFE-T----I--  >AOW41972.1|Picobirnavirus_sp_
 -------S-G--V--P---S |V| -S--DFGKIRG-A----AQ-  ** B1 disagree **  >NP_524561.1|Pseudomonas_phage_phi8
@@ -8126,7 +8126,7 @@ Consensus column for B1(G) = 6215
 -------T-S--E--A---S |G| -E--LTTLMMN-S----I--  >APG79087.1|Hubei_reo_like_virus_14
 -------T-S--E--G---S |G| -E--KTTLCAN-S----I--  >APG79144.1|Hubei_odonate_virus_15
 -------G-T--H--L---S |G| -E--SSTLVMN-S----L--  >AIU36219.1|Mulberry_orbivirus
--------R-YS-T--Y---R |A| -K--IQHWSVI-F----M--  ** B1 disagree **  >BAD89093.1|Ibaraki_virus
+-------R-YS-T--Y---R |A| -K--IQHWSVI-F----M--  >BAD89093.1|Ibaraki_virus
 -------N-T--H--L---S |G| -E--NSTLVAN-S----M--  >AGZ62525.1|Heramatsu_virus
 -------N-T--H--L---S |G| -E--NSTLVAN-S----M--  >ALW83178.1|Palyam_virus
 -------N-T--H--L---S |G| -E--NSTLVAN-S----L--  >ADU57375.1|Equine_encephalosis_virus
@@ -8421,20 +8421,20 @@ Consensus column for B1(G) = 6215
 -------A-G--Q--Q---S |G| -R--RSTLESN-T----F--  >YP_001976142.1|Alternaria_alternata_virus_1
 -------N-G--Q--Q---S |G| -R--KTTLEAN-T----I--  >YP_009272952.1|Fusarium_poae_alternavirus_1
 -------A-G--Q--Q---S |G| -R--RTTLEVN-T----I--  >ABX79997.1|Aspergillus_mycovirus_341
--------G-Q--R--G---G |I| -E--GWMNPVW-T----L--  ** B1 disagree **  >ALD89129.2|Rhizoctonia_solani_negative_stranded_virus_1
+-------G-Q--R--G---G |I| -E--GWMNPVW-T----L--  >ALD89129.2|Rhizoctonia_solani_negative_stranded_virus_1
 -------G-Q--H--G---G |I| -E--GWMNPIW-T----L--  ** B1 disagree **  >ALD89130.1|Rhizoctonia_solani_negative_stranded_virus_2
 -------G-Q--H--G---G |I| -E--GWMNPVW-T----L--  ** B1 disagree **  >ALD89111.1|Rhizoctonia_solani_negative_stranded_virus_3
--------G-Q--F--G---G |I| -E--GWMNPFW-T----L--  ** B1 disagree **  >YP_009272911.1|Fusarium_poae_negative_stranded_virus_1
--------G-Q--L--G---A |I| -E--GWLGSLW-G----I--  ** B1 disagree **  >Q8BCV9.1|Mirafiori_lettuce_virus_LS301_O
--------G-Q--L--G---A |I| -E--GWLGGLW-G----I--  ** B1 disagree **  >YP_053236.1|Lettuce_ring_necrosis_virus
--------G-Q--L--G---A |I| -E--GWLGGLW-G----I--  ** B1 disagree **  >AAK69629.2|Ranunculus_white_mottle_virus
--------R-Q--K--G---A |I| -E--GWFGPLW-G----I--  ** B1 disagree **  >YP_089661.1|Citrus_psorosis_virus
--------Y-Q--N--G---A |I| -E--GWLGPLW-G----I--  ** B1 disagree **  >BAV13384.1|Blueberry_mosaic_associated_virus
+-------G-Q--F--G---G |I| -E--GWMNPFW-T----L--  >YP_009272911.1|Fusarium_poae_negative_stranded_virus_1
+-------G-Q--L--G---A |I| -E--GWLGSLW-G----I--  >Q8BCV9.1|Mirafiori_lettuce_virus_LS301_O
+-------G-Q--L--G---A |I| -E--GWLGGLW-G----I--  >YP_053236.1|Lettuce_ring_necrosis_virus
+-------G-Q--L--G---A |I| -E--GWLGGLW-G----I--  >AAK69629.2|Ranunculus_white_mottle_virus
+-------R-Q--K--G---A |I| -E--GWFGPLW-G----I--  >YP_089661.1|Citrus_psorosis_virus
+-------Y-Q--N--G---A |I| -E--GWLGPLW-G----I--  >BAV13384.1|Blueberry_mosaic_associated_virus
 -------G-V--K--G---G |F| -E--GFFNFVW-SS---I--  ** B1 disagree **  >YP_009337854.1|Shahe_yuevirus_like_virus_1
--------G-V--K--G---G |F| -E--GFLNFVW-SS---I--  ** B1 disagree **  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
+-------G-V--K--G---G |F| -E--GFLNFVW-SS---I--  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
 -------G-Q--L--G---G |I| -Q--GLHQFTW-D----A--  ** B1 disagree **  >YP_009333178.1|Beihai_barnacle_virus_9
 -------G-Q--L--G---G |I| -E--GLNQDTW-V----I--  ** B1 disagree **  >YP_009344984.1|Xinzhou_nematode_virus_5
--------G-Q--L--G---G |V| -E--GLNQDTW-M----M--  ** B1 disagree **  >YP_009337428.1|Sanxia_atyid_shrimp_virus_4
+-------G-Q--L--G---G |V| -E--GLNQDTW-M----M--  >YP_009337428.1|Sanxia_atyid_shrimp_virus_4
 -------G-Q--Q--G---G |I| -D--GLNQYAW-V----W--  ** B1 disagree **  >YP_009333151.1|Wenling_chuvirus_like_virus_2
 -------G-Q--Q--G---G |I| -E--GLDQDTW-V----W--  ** B1 disagree **  >AJG39060.1|Wenzhou_Crab_Virus_2
 -------G-Q--A--G---G |I| -E--GLNQYTW-V----Y--  ** B1 disagree **  >AJG39070.1|Wuhan_Louse_Fly_Virus_6
@@ -8462,9 +8462,9 @@ Consensus column for B1(G) = 6215
 -------G-Q--Y--G---G |I| -E--GLSQKPW-T----W--  ** B1 disagree **  >APG78769.1|Hubei_chuvirus_like_virus_4
 -------G-Q--E--G---G |I| -E--GLNQAEW-T----L--  ** B1 disagree **  >YP_009302836.1|Wenzhou_Crab_Virus_3
 -------G-Q--K--G---G |I| -E--GLNQATW-T----F--  ** B1 disagree **  >YP_009300663.1|Shayang_Fly_Virus_1
--------G-Q--L--G---G |I| -E--GLNQATW-S----V--  ** B1 disagree **  >APT68159.1|Scaldis_River_bee_virus
+-------G-Q--L--G---G |I| -E--GLNQATW-S----V--  >APT68159.1|Scaldis_River_bee_virus
 -------G-Q--L--G---G |I| -E--GLDQATW-S----L--  ** B1 disagree **  >YP_009336866.1|Hubei_coleoptera_virus_3
--------G-Q--E--G---G |I| -E--GLNQATW-S----W--  ** B1 disagree **  >AJG39083.1|Shuangao_Insect_Virus_5
+-------G-Q--E--G---G |I| -E--GLNQATW-S----W--  >AJG39083.1|Shuangao_Insect_Virus_5
 -------G-Q--L--G---G |I| -E--GLNQATW-T----L--  ** B1 disagree **  >YP_009333157.1|Beihai_hermit_crab_virus_3
 -------D-Y--P--G---G |N| -Q--GICQKMW-T----L--  ** B1 disagree **  >YP_009333185.1|Beihai_barnacle_virus_8
 -------G-H--L--G---G |N| -Q--GIFQKLW-T----I--  ** B1 disagree **  >APG78703.1|Hubei_rhabdo_like_virus_8
@@ -8718,15 +8718,15 @@ Consensus column for B1(G) = 6215
 -------Y-H--M--G---G |I| -E--GWCQKLW-T----T--  ** B1 disagree **  >YP_173335.1|Pneumonia_virus_of_mice_J3666
 -------Y-H--M--G---G |I| -E--GWCQKMW-T----M--  ** B1 disagree **  >CDN30042.1|Avian_metapneumovirus_type_D
 -------Y-H--M--G---G |I| -E--GWCQKLW-T----M--  ** B1 disagree **  >AII17600.1|Human_metapneumovirus
--------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKG96060.1|Zaire_ebolavirus
+-------G-H--M--G---G |I| -E--GLQQKLW-T----S--  >AKG96060.1|Zaire_ebolavirus
 -------Y-H--L--G---G |I| -E--GLQQKLW-T----C--  ** B1 disagree **  >ACT79246.1|Marburg_marburgvirus
 -------G-H--L--G---G |V| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKO69552.1|Bat_filovirus
--------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AJZ74613.1|Zaire_ebolavirus
+-------G-H--M--G---G |I| -E--GLQQKLW-T----S--  >AJZ74613.1|Zaire_ebolavirus
 -------G-H--L--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >YP_004928143.1|Lloviu_cuevavirus
--------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AJZ74605.1|Zaire_ebolavirus
+-------G-H--M--G---G |I| -E--GLQQKLW-T----S--  >AJZ74605.1|Zaire_ebolavirus
 -------G-H--L--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >ACT22806.1|Reston_ebolavirus_Reston
 -------G-H--L--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AAV48581.1|Reston_ebolavirus
--------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKC36028.1|Zaire_ebolavirus
+-------G-H--M--G---G |I| -E--GLQQKLW-T----S--  >AKC36028.1|Zaire_ebolavirus
 -------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKC37134.1|Zaire_ebolavirus
 -------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKI83296.1|Zaire_ebolavirus
 -------G-H--M--G---G |I| -E--GLQQKLW-T----S--  ** B1 disagree **  >AKG65642.1|Zaire_ebolavirus
@@ -8801,17 +8801,17 @@ Consensus column for B1(G) = 6215
 -------Y-P--M--G---G |I| -E--GYCQKLW-T----I--  ** B1 disagree **  >NP_945030.1|Dolphin_morbillivirus
 -------Y-P--M--G---G |I| -E--GYCQKLW-T----I--  ** B1 disagree **  >AGG09147.1|Small_ruminant_morbillivirus
 -------Y-P--M--G---G |V| -E--GYCQKLW-T----I--  ** B1 disagree **  >ABB71671.1|Measles_morbillivirus
--------A-E--D--G---S |M| -Q--GFFGTSD-T----I--  ** B1 disagree **  >APG78066.1|Hubei_qinvirus_like_virus_2
+-------A-E--D--G---S |M| -Q--GFFGTSD-T----I--  >APG78066.1|Hubei_qinvirus_like_virus_2
 -------P-R--D--G---S |F| -Q--GFFGSTD-S----L--  >YP_009337864.1|Wenzhou_qinvirus_like_virus_2
--------A-P--E--S---N |F| -Q--GFPATLD-T----L--  ** B1 disagree **  >YP_009337849.1|Sanxia_Qinvirus_like_virus_1
--------C-D--S--G---D |L| -Q--GWYGTMN-S----V--  ** B1 disagree **  >YP_009337852.1|Shahe_qinvirus_like_virus_1
+-------A-P--E--S---N |F| -Q--GFPATLD-T----L--  >YP_009337849.1|Sanxia_Qinvirus_like_virus_1
+-------C-D--S--G---D |L| -Q--GWYGTMN-S----V--  >YP_009337852.1|Shahe_qinvirus_like_virus_1
 -------L-Q--T--G---L |F| -Q--GWTGTCD-T----T--  >YP_009337847.1|Hubei_qinvirus_like_virus_1
 -------V-E--K--G---L |F| -Q--GWTGTLD-T----L--  >YP_009342465.1|Wuhan_insect_virus_15
 -------A-P--S--G---M |F| -Q--GFTGTLD-T----T--  >YP_009330273.1|Beihai_sesarmid_crab_virus_4
 -------T-T--T--G---N |F| -M--GWPGTAD-T----V--  >YP_009345119.1|Xinzhou_nematode_virus_3
--------L-P--N--G---M |V| -Q--GWTATLD-T----L--  ** B1 disagree **  >YP_009337866.1|Wenzhou_qinvirus_like_virus_1
--------I-D--H--G---W |P| -Q--GMLNTTN-S----V--  ** B1 disagree **  >APG79334.1|Hubei_bunya_like_virus_11
--------T-F--L--G---W |P| -Q--GMLNSID-S----V--  ** B1 disagree **  >APG79225.1|Beihai_hermit_crab_virus_2
+-------L-P--N--G---M |V| -Q--GWTATLD-T----L--  >YP_009337866.1|Wenzhou_qinvirus_like_virus_1
+-------I-D--H--G---W |P| -Q--GMLNTTN-S----V--  >APG79334.1|Hubei_bunya_like_virus_11
+-------T-F--L--G---W |P| -Q--GMLNSID-S----V--  >APG79225.1|Beihai_hermit_crab_virus_2
 -------M-P--M--G---M |C| -Q--GIFHAMS-S----I--  ** B1 disagree **  >ALD89133.1|Rhizoctonia_solani_negative_stranded_virus_4
 -------N-P--E--G---M |F| -Q--GILGNTS-S----I--  ** B1 disagree **  >APG79310.1|Shahe_bunya_like_virus_1
 -------M-P--G--G---W |V| -Q--GMFNNLS-T----K--  ** B1 disagree **  >AJG39247.1|Shayang_Spider_Virus_2
@@ -8979,9 +8979,9 @@ Consensus column for B1(G) = 6215
 -------K-E--S--D---M |I| -Q--GILHTTS-S----L--  ** B1 disagree **  >APG79245.1|Beihai_bunya_like_virus_3
 -------M-L--Y--H---M |N| -Q--GIPHLTS-S----I--  ** B1 disagree **  >YP_009333365.1|Wuhan_pillworm_virus_1
 -------M-F--T--H---M |I| -Q--GIPHRGS-S----V--  ** B1 disagree **  >YP_009345122.1|Beihai_shrimp_virus_3
--------A-Y--F--H---M |G| -Q--GIFHAGS-S----I--  ** B1 disagree **  >APG79313.1|Shahe_bunya_like_virus_3
+-------A-Y--F--H---M |G| -Q--GIFHAGS-S----I--  >APG79313.1|Shahe_bunya_like_virus_3
 -------S-Y--N--H---M |G| -Q--GIHHATS-S----L--  ** B1 disagree **  >AJG39272.1|Xinzhou_Spider_Virus
--------S-Y--S--H---M |G| -Q--GIHHRKS-S----E--  ** B1 disagree **  >YP_009293594.1|Sanxia_Water_Strider_Virus_1
+-------S-Y--S--H---M |G| -Q--GIHHRKS-S----E--  >YP_009293594.1|Sanxia_Water_Strider_Virus_1
 -------S-Y--N--H---M |G| -Q--GIHHKKS-S----L--  ** B1 disagree **  >YP_009300680.1|Shayang_Spider_Virus_1
 -------C-Y--N--H---M |G| -Q--GIHHATS-S----I--  ** B1 disagree **  >ARB16032.1|Grotenhout_virus
 -------C-Y--N--H---M |G| -Q--GIHHATS-S----V--  ** B1 disagree **  >AII01810.1|South_Bay_virus
@@ -9011,7 +9011,7 @@ Consensus column for B1(G) = 6215
 -------S-Y--N--H---M |G| -Q--GIHHATS-S----L--  ** B1 disagree **  >ABY82502.1|Kupe_virus
 -------S-Y--N--H---M |G| -Q--GIHHATS-S----L--  ** B1 disagree **  >AIZ00432.1|Nairobi_sheep_disease_virus
 -------S-Y--N--H---M |G| -Q--GIHHATS-S----I--  ** B1 disagree **  >AMR73395.1|Taggert_virus
--------S-Y--N--H---M |G| -Q--GILHATS-S----L--  ** B1 disagree **  >AJG39266.1|Wuhan_Millipede_Virus_2
+-------S-Y--N--H---M |G| -Q--GILHATS-S----L--  >AJG39266.1|Wuhan_Millipede_Virus_2
 -------S-Y--L--H---M |M| -Q--GIPHRIS-T----M--  ** B1 disagree **  >APG79351.1|Wenling_crustacean_virus_8
 -------V-F--S--S---M |G| -Q--GVFHRFS-S----V--  ** B1 disagree **  >APG79235.1|Beihai_barnacle_virus_5
 -------G-E--N--H---M |G| -Q--GVFHYAS-S----F--  ** B1 disagree **  >APG79360.1|Beihai_blue_swimmer_crab_virus_2
@@ -9135,7 +9135,7 @@ Consensus column for B1(G) = 6215
 -------Y-P--Y--D---M |G| -Q--GILHGWS-D----I--  ** B1 disagree **  >AKN10711.1|Haartman_Institute_snake_virus
 -------S-W--F--D---M |G| -Q--GILHHTS-D----L--  ** B1 disagree **  >AKH49085.1|unidentified_Reptarenavirus
 -------S-Y--F--D---M |G| -Q--GILHYTS-D----L--  ** B1 disagree **  >YP_006590093.1|CAS_virus
--------S-W--F--D---M |G| -Q--GILHYTS-D----L--  ** B1 disagree **  >AKH48980.1|unidentified_Reptarenavirus
+-------S-W--F--D---M |G| -Q--GILHYTS-D----L--  >AKH48980.1|unidentified_Reptarenavirus
 -------S-W--F--D---M |G| -Q--GILHHTS-D----L--  ** B1 disagree **  >APX61223.1|Tavallinen_suomalainen_mies_virus
 -------S-W--F--D---M |G| -Q--GILHHTS-D----L--  ** B1 disagree **  >AKH49031.1|unidentified_Reptarenavirus
 -------S-W--F--D---M |G| -Q--GILHYTS-D----L--  ** B1 disagree **  >AKH49097.1|unidentified_Reptarenavirus
@@ -9199,11 +9199,11 @@ Consensus column for B1(G) = 6215
 -------S-V--L--D---M |G| -Q--GILHNLS-D----L--  ** B1 disagree **  >YP_001649216.1|Amapar_mammarenavirus
 -------L-P--I--H---M |G| -Q--GLLQSTS-T----G--  ** B1 disagree **  >APG79315.1|Shahe_isopoda_virus_4
 -------L-P--I--H---M |G| -Q--GLLQSTS-T----G--  ** B1 disagree **  >APG79311.1|Shahe_bunya_like_virus_2
--------P-N--T--G---M |I| -Q--GYPHALS-G----Q--  ** B1 disagree **  >APG79224.1|Beihai_bunya_like_virus_4
--------Q-A--T--G---T |G| -Q--GIWHRCS-T----V--  ** B1 disagree **  >APG79353.1|Wenzhou_channeled_applesnail_virus_4
--------I-P--A--G---M |G| -Q--GILHANS-S----V--  ** B1 disagree **  >APG79355.1|Wenzhou_bunya_like_virus_1
+-------P-N--T--G---M |I| -Q--GYPHALS-G----Q--  >APG79224.1|Beihai_bunya_like_virus_4
+-------Q-A--T--G---T |G| -Q--GIWHRCS-T----V--  >APG79353.1|Wenzhou_channeled_applesnail_virus_4
+-------I-P--A--G---M |G| -Q--GILHANS-S----V--  >APG79355.1|Wenzhou_bunya_like_virus_1
 -------M-N--C--N---W |M| -Q--GQMNFCS-S----L--  ** B1 disagree **  >APG79230.1|Beihai_bunya_like_virus_5
--------K-L--S--D---F |G| -Q--GLSGFCA-SAESTV--  ** B1 disagree **  >APG79231.1|Beihai_sipunculid_worm_virus_7
+-------K-L--S--D---F |G| -Q--GLSGFCA-SAESTV--  >APG79231.1|Beihai_sipunculid_worm_virus_7
 -------S-S--P--G---F |L| -M--GMLNAAS-T----T--  ** B1 disagree **  >AJG39095.1|Wuhan_Mosquito_Virus_7
 -------A-S--P--G---F |L| -M--GMLNAAS-T----I--  ** B1 disagree **  >APG77890.1|Hubei_orthomyxo_like_virus_2
 -------A-S--P--G---M |L| -M--GMMNAGS-T----T--  ** B1 disagree **  >AJG39096.1|Wuhan_Mothfly_Virus
@@ -9226,8 +9226,8 @@ Consensus column for B1(G) = 6215
 -------S-P--Y--G---M |L| -M--GMLNAGS-T----T--  ** B1 disagree **  >AJG39085.1|Jiujie_Fly_Virus
 -------L-P--G--G---M |L| -M--GMFNMLS-T----V--  ** B1 disagree **  >BAV18542.1|Influenza_C_virus_C_Yamagata_3_2005_
 -------L-G--G--G---M |L| -M--GMFNMLS-T----V--  ** B1 disagree **  >AIO11622.1|Influenza_D_virus_D_bovine_Kansas_14_22_2012_
--------L-X--P--G---R |M| -M--GMFXXLS-T----V--  ** B1 disagree **  >ACY46471.1|Influenza_A_virus_A_Singapore_ON368_2009_H1N1_
--------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AFK09819.1|Influenza_B_virus_B_Malaysia_1814277_2007_
+-------L-X--P--G---R |M| -M--GMFXXLS-T----V--  >ACY46471.1|Influenza_A_virus_A_Singapore_ON368_2009_H1N1_
+-------L-S--P--G---M |M| -M--GMFNMLS-T----V--  >AFK09819.1|Influenza_B_virus_B_Malaysia_1814277_2007_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >4WRT_B|Influenza_B_virus_B_Memphis_13_2003_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >4WSB_B|Influenza_A_virus_A_little_yellow_shouldered_bat_Guatemala_060_2010_H17N10_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AEI29961.1|Influenza_A_virus_A_environment_Korea_CSM3_2002_H3N6_
@@ -9243,11 +9243,11 @@ Consensus column for B1(G) = 6215
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >ALD19243.1|Influenza_A_virus_A_chicken_Qingdao_012_2014_H9N2_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AKJ82635.1|Influenza_A_virus_A_swine_Italy_55925_2011_H3N2_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >CAC19698.1|Influenza_A_virus_A_chicken_Pakistan_2_1999_H9N2_
--------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AEA03904.1|Influenza_A_virus_A_Uganda_MUWRP_021_2008_H3N2_
+-------L-S--P--G---M |M| -M--GMFNMLS-T----V--  >AEA03904.1|Influenza_A_virus_A_Uganda_MUWRP_021_2008_H3N2_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AGQ47773.1|Influenza_A_virus_A_Fort_Monmouth_1_JY2_1947_H1N1_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >ADV69061.1|Influenza_A_virus_A_Denmark_105_2010_H3N2_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >ABK00130.1|Influenza_A_virus_A_swine_Anhui_ca_2004_H5N1_
--------L-X--X--X---X |-| ------XXXLS-T----V--  ** B1 disagree **  >AEK49762.1|Influenza_A_virus_A_gadwall_California_8504_2008_H6N1_
+-------L-X--X--X---X |-| ------XXXLS-T----V--  >AEK49762.1|Influenza_A_virus_A_gadwall_California_8504_2008_H6N1_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >ADE75156.1|Influenza_A_virus_A_mallard_Sweden_41_2002_H10N6_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AEM98331.1|Influenza_A_virus_A_wild_duck_Mongolia_1_241_2008_H7N9_
 -------L-S--P--G---M |M| -M--GMFNMLS-T----V--  ** B1 disagree **  >AOG30371.1|Influenza_A_virus_A_swine_Nebraska_A01476438_2014_H1N2_
@@ -9264,11 +9264,11 @@ Consensus column for B1(G) = 6215
 -------V-R--R--G---M |L| -M--GMANNAF-T----T--  ** B1 disagree **  >ABF68025.1|Infectious_salmon_anemia_virus
 -------A-P--R--G---M |L| -M--GMANFCF-T----T--  ** B1 disagree **  >AQM37684.1|Steelhead_trout_orthomyxovirus_1
 -------I-P--L--G---M |G| -M--GLHGTGS-S----L--  ** B1 disagree **  >APG77864.1|Beihai_orthomyxo_like_virus_2
--------------------M |G| -M--GMKGTFN-T----M--  ** B1 disagree **  >APG77905.1|Hubei_orthomyxo_like_virus_5
+-------------------M |G| -M--GMKGTFN-T----M--  >APG77905.1|Hubei_orthomyxo_like_virus_5
 -------C-P--G--G---M |L| -M--GMFNATA-T----L--  ** B1 disagree **  >YP_009246481.1|Tilapia_lake_virus
 -------C-D--L--I---M |L| -M--GMFNHSS-T----T--  ** B1 disagree **  >YP_009337891.1|Changping_earthworm_virus_2
 
-Total disagreements 861 B1 (18.6%)
+Total disagreements 810 B1 (17.5%)
 
 =================================================
 Motif C
@@ -9280,7 +9280,7 @@ Consensus column for C3(D) = 7250
 ---------V---R----Y- |A|  |D| --- |D| -F-L--------IG------  >890107819
 ---------V---R----Y- |A|  |D| --- |D| -A-V--------V-------  >1123592258
 ---------V---R----Y- |A|  |D| --- |D| -L-L--------I-------  >501421962
----------V---R----Y- |A|  |D| --- |D| -W-I--------I-------  ** C1 C2 C3 disagree **  >489297600
+---------V---R----Y- |A|  |D| --- |D| -W-I--------I-------  >489297600
 ---------V---R----Y- |A|  |D| --- |D| -F-V--------L-------  >919371179
 ---------L---A----Y- |A|  |D| --- |D| -L-V--------L-------  >946694699
 ---------S---L----Y- |A|  |D| --- |D| -L-L--------T-------  >1062933037
@@ -9848,11 +9848,11 @@ Consensus column for C3(D) = 7250
 ---------L---I----Y- |G|  |D| --- |D| -V-V--------L-------  >AEU12347.3|Wobbly_possum_disease_virus
 ---------H---N----F- |G|  |D| --- |D| -D-V--------I-------  >YP_009333297.1|Beihai_hypo_like_virus_1
 ---------A---N----V- |G|  |D| --- |D| -N-M--------L-------  >YP_009333562.1|Beihai_sipunculid_worm_virus_6
----------T---A----F- |S|  |D| --- |D| -N-F--------W-------  ** C1 C2 C3 disagree **  >YP_138519.1|Cryphonectria_hypovirus_4
+---------T---A----F- |S|  |D| --- |D| -N-F--------W-------  >YP_138519.1|Cryphonectria_hypovirus_4
 ---------S---S----F- |S|  |D| --- |D| -N-F--------W-------  >YP_004782527.1|Sclerotinia_sclerotiorum_hypovirus_1
 ---------S---S----F- |S|  |D| --- |D| -N-F--------W-------  >YP_005476604.1|Valsa_ceratosperma_hypovirus_1
----------S---S----F- |S|  |D| --- |D| -N-F--------W-------  ** C1 C2 C3 disagree **  >AAF13603.1|Cryphonectria_hypovirus_3
----------S---S----F- |S|  |D| --- |D| -N-F--------W-------  ** C1 C2 C3 disagree **  >YP_009051683.1|Phomopsis_longicolla_hypovirus
+---------S---S----F- |S|  |D| --- |D| -N-F--------W-------  >AAF13603.1|Cryphonectria_hypovirus_3
+---------S---S----F- |S|  |D| --- |D| -N-F--------W-------  >YP_009051683.1|Phomopsis_longicolla_hypovirus
 ---------S---C----Y- |G|  |D| --- |N| -H-I--------L-------  >AQM49936.1|Agaricus_bisporus_virus_10
 ---------S---C----Y- |G|  |D| --- |D| -H-I--------L-------  >AQM49938.1|Agaricus_bisporus_virus_11
 ---------S---C----F- |G|  |D| --- |D| -H-V--------L-------  >YP_009047147.1|Rosellinia_necatrix_fusarivirus_1
@@ -9875,7 +9875,7 @@ Consensus column for C3(D) = 7250
 ---------F---N----T- |S|  |D| --- |D| -L-I--------W-------  >ALD89099.1|Macrophomina_phaseolina_hypovirus_1
 ---------D---N----S- |G|  |D| --- |D| -N-M--------G-------  >AIA61616.1|Sclerotinia_sclerotiorum_hypovirus_2
 ---------D---N----S- |G|  |D| --- |D| -N-M--------G-------  >YP_008828161.1|Sclerotinia_sclerotiorum_hypovirus_2
----------Q---G----I- |G|  |D| --- |D| -F-Y--------W-------  ** C1 C2 C3 disagree **  >BAJ53294.1|Human_picobirnavirus
+---------Q---G----I- |G|  |D| --- |D| -F-Y--------W-------  >BAJ53294.1|Human_picobirnavirus
 ---------Q---G----I- |G|  |D| --- |D| -F-Y--------W-------  >AMD33502.1|Porcine_picobirnavirus
 ---------M---G----I- |G|  |D| --- |D| -Y-V--------W-------  >AIY31295.1|Dromedary_picobirnavirus
 ---------Y---A----I- |G|  |D| --- |D| -M-S--------W-------  >ALL29322.1|Human_picobirnavirus
@@ -9984,7 +9984,7 @@ Consensus column for C3(D) = 7250
 ---------E---S----L- |G|  |D| --- |D| -N-I--------V-------  >ALO61393.1|Curvularia_virus_2
 ---------K---S----L- |G|  |D| --- |D| -N-L--------I-------  >YP_009273017.1|Sclerotium_hydrophilum_virus_1
 ---------V---G----L- |G|  |D| --- |D| -N-L--------I-------  >AMK47912.2|Lactarius_rufus_RNA_virus_1
----------E---G----L- |G|  |D| --- |D| -Q-H--------T-------  ** C1 C2 C3 disagree **  >AEZ35183.2|Heterobasidion_RNA_virus_6
+---------E---G----L- |G|  |D| --- |D| -Q-H--------T-------  >AEZ35183.2|Heterobasidion_RNA_virus_6
 ---------W---T----F- |G|  |D| --- |D| -S-L--------I-------  >YP_009094186.1|Ustilaginoidea_virens_RNA_virus_M
 ---------W---T----F- |G|  |D| --- |D| -S-V--------I-------  >YP_009177217.1|Colletotrichum_higginsianum_non_segmented_dsRNA_virus_1
 ---------W---T----F- |G|  |D| --- |D| -S-V--------L-------  >YP_009052469.1|Alternaria_longipes_dsRNA_virus_1
@@ -10145,7 +10145,7 @@ Consensus column for C3(D) = 7250
 ---------K---V----Q- |G|  |D| --- |D| -S-L--------M-------  >ABJ99996.1|Vicia_faba_partitivirus_1
 ---------K---V----Q- |G|  |D| --- |D| -S-I--------I-------  >ANQ45203.1|Rose_partitivirus
 ---------K---V----Q- |G|  |D| --- |D| -S-I--------I-------  >ALT00589.1|Raphanus_sativus_partitivirus_1
----------S---S----R- |G|  |R| --- |F| -T-Y--------R-------  ** C1 C2 C3 disagree **  >BAH08700.1|Flammulina_velutipes_isometric_virus
+---------S---S----R- |G|  |R| --- |F| -T-Y--------R-------  >BAH08700.1|Flammulina_velutipes_isometric_virus
 ---------L---V----Q- |G|  |D| --- |D| -S-L--------T-------  >AFX73022.1|Grapevine_partitivirus
 ---------K---V----Q- |G|  |D| --- |D| -S-L--------I-------  >YP_003082248.1|Sclerotinia_sclerotiorum_partitivirus_S
 ---------F---V----Q- |G|  |D| --- |D| -S-L--------T-------  >ALM62247.1|Soybean_leaf_associated_partitivirus_2
@@ -10258,8 +10258,8 @@ Consensus column for C3(D) = 7250
 ---------V---C----N- |G|  |D| --- |D| -L-L--------I-------  >NP_046741.1|Wheat_streak_mosaic_virus
 ---------V---A----N- |G|  |D| --- |D| -L-L--------I-------  >YP_006905847.1|Rose_yellow_mosaic_virus
 ---------Y---A----N- |G|  |D| --- |D| -L-I--------F-------  >YP_851006.1|Blackberry_virus_Y
----------F---A----R- |G|  |N| --- |I| -C-F--------L-------  ** C1 C2 C3 disagree **  >AFA26423.1|Tuberose_mild_mosaic_virus
----------F---V----T- |E|  |T| --- |I| -G-S--------L-------  ** C1 C2 C3 disagree **  >AAL71892.1|Tuberose_mild_mosaic_virus
+---------F---A----R- |G|  |N| --- |I| -C-F--------L-------  >AFA26423.1|Tuberose_mild_mosaic_virus
+---------F---V----T- |E|  |T| --- |I| -G-S--------L-------  >AAL71892.1|Tuberose_mild_mosaic_virus
 ---------F---V----N- |G|  |D| --- |D| -L-L--------I-------  >CAI65400.1|Potato_virus_Y_strain_C
 ---------F---A----N- |G|  |D| --- |D| -L-V--------V-------  >AKC01037.1|Ryegrass_mosaic_virus
 ---------F---I----N- |G|  |D| --- |D| -L-L--------I-------  >AAO13836.1|Lycoris_mild_mottle_virus
@@ -10729,10 +10729,10 @@ Consensus column for C3(D) = 7250
 ---------V---V----Y- |G|  |D| --- |D| -N-L--------I-------  >NP_919040.1|Tobacco_ringspot_virus
 ---------A---V----Y- |G|  |D| --- |D| -N-L--------I-------  >AGZ62578.1|Potato_black_ringspot_virus
 ---------I---V----Y- |G|  |D| --- |D| -N-V--------L-------  >NP_944487.1|Raspberry_ringspot_virus
----------A---L----Y- |G|  |D| --- |D| -M-L--------K-------  ** C1 C2 C3 disagree **  >YP_009345910.1|Bat_badicivirus_1
+---------A---L----Y- |G|  |D| --- |D| -M-L--------K-------  >YP_009345910.1|Bat_badicivirus_1
 ---------A---L----Y- |G|  |D| --- |D| -I-V--------K-------  >AIP90483.1|Soybean_associated_bicistronic_virus
 ---------C---V----Y- |G|  |D| --- |D| -I-I--------M-------  >YP_009337724.1|Hubei_picorna_like_virus_51
----------F---L----Y- |G|  |D| --- |D| -M-I--------C-------  ** C1 C2 C3 disagree **  >APG78989.1|Hubei_picorna_like_virus_81
+---------F---L----Y- |G|  |D| --- |D| -M-I--------C-------  >APG78989.1|Hubei_picorna_like_virus_81
 ---------K---A----Y- |G|  |D| --- |D| -I-I--------F-------  >YP_009337381.1|Hubei_picorna_like_virus_80
 ---------K---T----Y- |G|  |D| --- |D| -I-I--------F-------  >YP_009337415.1|Hubei_picorna_like_virus_79
 ---------K---A----Y- |G|  |D| --- |D| -I-I--------F-------  >YP_009337696.1|Hubei_picorna_like_virus_78
@@ -10947,7 +10947,7 @@ Consensus column for C3(D) = 7250
 ---------I---T----Y- |G|  |D| --- |D| -A-K--------S-------  >YP_009330066.1|Beihai_picorna_like_virus_15
 ---------A---T----Y- |G|  |D| --- |D| -F-K--------S-------  >YP_009329854.1|Beihai_picorna_like_virus_5
 ---------I---T----Y- |G|  |D| --- |D| -A-K--------S-------  >YP_009333554.1|Beihai_picorna_like_virus_14
----------M---T----Y- |G|  |D| --- |D| -A-K--------G-------  ** C1 C2 C3 disagree **  >YP_009333581.1|Beihai_picorna_like_virus_11
+---------M---T----Y- |G|  |D| --- |D| -A-K--------G-------  >YP_009333581.1|Beihai_picorna_like_virus_11
 ---------I---T----Y- |G|  |D| --- |D| -A-A--------G-------  >YP_009336661.1|Wenzhou_picorna_like_virus_52
 ---------A---T----Y- |G|  |D| --- |D| -A-K--------G-------  >YP_009333414.1|Beihai_picorna_like_virus_6
 ---------A---T----Y- |G|  |D| --- |D| -A-K--------G-------  >YP_009333434.1|Beihai_picorna_like_virus_7
@@ -10977,7 +10977,7 @@ Consensus column for C3(D) = 7250
 ---------V---T----Y- |G|  |D| --- |D| -G-Q--------S-------  >YP_009336722.1|Wenzhou_picorna_like_virus_18
 ---------A---T----Y- |G|  |D| --- |D| -G-H--------A-------  >YP_009333600.1|Beihai_picorna_like_virus_51
 ---------L---A----Y- |G|  |D| --- |D| -S-L--------M-------  >YP_009333403.1|Beihai_picorna_like_virus_2
----------L---T----Y- |G|  |D| --- |D| -C-A--------D-------  ** C1 C2 C3 disagree **  >APG77477.1|Sanxia_picorna_like_virus_7
+---------L---T----Y- |G|  |D| --- |D| -C-A--------D-------  >APG77477.1|Sanxia_picorna_like_virus_7
 ---------L---T----Y- |G|  |D| --- |D| -N-I--------M-------  >YP_009337718.1|Wenzhou_picorna_like_virus_14
 ---------A---T----Y- |G|  |D| --- |D| -N-I--------M-------  >YP_009333545.1|Beihai_picorna_like_virus_48
 ---------A---T----Y- |G|  |D| --- |D| -N-I--------M-------  >YP_009337755.1|Sanxia_picorna_like_virus_9
@@ -11161,7 +11161,7 @@ Consensus column for C3(D) = 7250
 ---------R---F----Y- |G|  |D| --- |D| -G-V--------I-------  >YP_009268643.1|Nylanderia_fulva_virus_1
 ---------C---I----Y- |S|  |D| --- |D| -L-L--------Y-------  >YP_009336830.1|Hubei_arthropod_virus_3
 ---------A---V----M- |S|  |D| --- |D| -V-T--------L-------  >YP_009333575.1|Beihai_sea_slater_virus_1
----------I---Y----G- |G|  |A| --- |D| -A-H--------E-------  ** C1 C2 C3 disagree **  >YP_009337195.1|Hubei_picorna_like_virus_6
+---------I---Y----G- |G|  |A| --- |D| -A-H--------E-------  >YP_009337195.1|Hubei_picorna_like_virus_6
 ---------I---H----Y- |G|  |D| --- |D| -N-I--------K-------  >YP_009345913.1|Beihai_picorna_like_virus_57
 ---------I--------Y- |G|  |D| --- |D| -G-A--------V-PAVDLV  >YP_009336711.1|Biomphalaria_virus_3
 ---------G---F----I- |G|  |R| --- |E| -M-P--------MQRVLDIT  ** C1 C2 C3 disagree **  >YP_009336718.1|Wenling_picorna_like_virus_8
@@ -11547,7 +11547,7 @@ Consensus column for C3(D) = 7250
 ---------V---A----D- |G|  |D| --- |D| -N-N--------H-------  >AMO03218.1|Hermitage_virus
 ---------T---A----D- |G|  |D| --- |D| -N-N--------H-------  >AMO03219.1|Takaungu_virus
 ---------I---S----D- |G|  |D| --- |D| -N-L--------H-------  >BAM78287.1|Gentian_Kobu_sho_associated_virus
----------I---A----D- |G|  |D| --- |D| -N-G--------H-------  ** C1 C2 C3 disagree **  >YP_009259672.1|Diaphorina_citri_flavi_like_virus
+---------I---A----D- |G|  |D| --- |D| -N-G--------H-------  >YP_009259672.1|Diaphorina_citri_flavi_like_virus
 ---------A---G----D- |G|  |D| --- |D| -V-I--------L-------  >YP_009179224.1|Gamboa_mosquito_virus
 ---------F---S----D- |G|  |D| --- |D| -T-V--------I-------  >YP_009179225.1|Shayang_fly_virus_4
 ---------I---S----D- |G|  |D| --- |D| -T-V--------I-------  >YP_009179223.1|Shuangao_lacewing_virus_2
@@ -11611,7 +11611,7 @@ Consensus column for C3(D) = 7250
 ---------A---V----S- |G|  |D| --- |D| -C-V--------V-------  >AFU76908.1|Yellow_fever_virus
 ---------A---C----S- |G|  |D| --- |D| -V-V--------V-------  >YP_005352889.1|Donggang_virus
 ---------L---V----S- |G|  |D| --- |D| -C-V--------V-------  >YP_009345037.1|Saumarez_Reef_virus
----------X---X----X- |X|  |X| --- |X| -X-X--------X-------  ** C1 C2 C3 disagree **  >ANA85187.1|Zika_virus
+---------X---X----X- |X|  |X| --- |X| -X-X--------X-------  >ANA85187.1|Zika_virus
 ---------A---I----S- |G|  |D| --- |D| -C-V--------V-------  >ACO82049.1|Chimeric_Tick_borne_encephalitis_virus_Dengue_virus_4
 ---------A---I----S- |G|  |D| --- |D| -C-V--------V-------  >ABI54477.1|Kedougou_virus
 ---------A---C----S- |G|  |D| --- |D| -V-V--------V-------  >AIG95628.1|Flavivirus_Oc599_AL_ITA_2012
@@ -11636,7 +11636,7 @@ Consensus column for C3(D) = 7250
 ---------A---I----S- |G|  |D| --- |D| -C-V--------V-------  >ABV55251.1|Dengue_virus_2
 ---------A---V----S- |G|  |D| --- |D| -C-V--------V-------  >AQX32988.1|Zika_virus
 ---------A---V----S- |G|  |D| --- |D| -C-V--------V-------  >ALL27019.1|Zika_virus
----------X---X----X- |X|  |X| --- |X| -X-X--------X-------  ** C1 C2 C3 disagree **  >APD78607.1|St_Louis_encephalitis_virus
+---------X---X----X- |X|  |X| --- |X| -X-X--------X-------  >APD78607.1|St_Louis_encephalitis_virus
 ---------A---V----S- |G|  |D| --- |D| -C-V--------V-------  >AOZ57820.1|Spondweni_virus
 ---------A---I----S- |G|  |D| --- |D| -C-V--------V-------  >AIU94742.1|Naranjal_virus
 ---------A---V----S- |G|  |D| --- |D| -V-V--------V-------  >CRI72595.1|Cacipacore_virus
@@ -11684,7 +11684,7 @@ Consensus column for C3(D) = 7250
 ---------L---V----C- |G|  |D| --- |D| -L-V--------V-------  >BAK61607.1|Hepatitis_C_virus_subtype_2b
 ---------L---V----C- |G|  |D| --- |D| -L-V--------V-------  >AIW39810.1|Hepatitis_C_virus
 ---------L---V----C- |G|  |D| --- |D| -L-V--------I-------  >ANF99567.1|Hepatitis_C_virus
----------L---F----G- |E|  |D| GSW |S| -Y-Y--------L-------  ** C1 C2 C3 disagree **  >AEV46286.1|Hepatitis_C_virus_genotype_3
+---------L---F----G- |E|  |D| GSW |S| -Y-Y--------L-------  >AEV46286.1|Hepatitis_C_virus_genotype_3
 ---------L---V----C- |G|  |D| --- |D| -L-V--------V-------  >AEJ86542.1|Hepatitis_C_virus_subtype_2a
 ---------L---V----C- |G|  |D| --- |D| -L-V--------V-------  >YP_009272536.1|Hepatitis_C_virus
 ---------L---V----C- |G|  |D| --- |X| -X-X--------X-------  >ACH97717.1|Hepatitis_C_virus
@@ -11821,7 +11821,7 @@ Consensus column for C3(D) = 7250
 ---------V---V----E- |G|  |D| --- |D| -G-L--------F-------  >YP_009337674.1|Changjiang_tombus_like_virus_22
 ---------P---------- |-|  |-| --- |-| --------------------  ** C1 C2 C3 disagree **  >APG77564.1|Beihai_hepe_like_virus_11
 ---------L---------- |-|  |-| --- |-| --------------------  ** C1 C2 C3 disagree **  >YP_009333224.1|Beihai_barnacle_virus_3
----------V---------- |-|  |-| --- |-| --------------------  ** C1 C2 C3 disagree **  >YP_009337147.1|Changjiang_hepe_like_virus_1
+---------V---------- |-|  |-| --- |-| --------------------  >YP_009337147.1|Changjiang_hepe_like_virus_1
 ---------L---F----G- |G|  |D| --- |D| -M-A--------T-------  >AQM49940.1|Agaricus_bisporus_virus_12
 ---------C---Y----S- |G|  |D| --- |D| -T-L--------L-------  >AQM49927.1|Agaricus_bisporus_virus_5
 ---------M---I----T- |G|  |D| --- |D| -S-L--------A-------  >AQM32769.1|Agaricus_bisporus_spherical_virus
@@ -11889,7 +11889,7 @@ Consensus column for C3(D) = 7250
 ---------C---F----A- |G|  |D| --- |D| -M-C--------A-------  >YP_224130.1|Apricot_pseudo_chlorotic_leaf_spot_virus
 ---------C---F----A- |G|  |D| --- |D| -M-C--------A-------  >CAA68080.1|Apple_chlorotic_leaf_spot_virus
 ---------C---F----A- |G|  |D| --- |D| -M-C--------A-------  >AAY18409.1|Blueberry_scorch_virus
----------R---F----R- |G|  |G| --- |S| -M-C--------A-------  ** C1 C2 C3 disagree **  >ABV56203.1|Apple_stem_pitting_virus
+---------R---F----R- |G|  |G| --- |S| -M-C--------A-------  >ABV56203.1|Apple_stem_pitting_virus
 ---------L---F----A- |G|  |D| --- |D| -M-C--------M-------  >NP_112029.1|Banana_mild_mosaic_virus
 ---------C---F----A- |G|  |D| --- |D| -M-C--------A-------  >AHJ80314.1|Cherry_twisted_leaf_associated_virus
 ---------C---F----A- |G|  |D| --- |D| -M-Y--------A-------  >NP_624313.1|Sugarcane_striate_mosaic_associated_virus
@@ -12040,7 +12040,7 @@ Consensus column for C3(D) = 7250
 ---------V---G----Q- |G|  |D| --- |D| -C-F--------M-------  >AEJ33768.1|Chara_australis_virus
 ---------F---W----Q- |G|  |D| --- |D| -G-R--------R-------  >AQM49942.1|Agaricus_bisporus_virus_13
 ---------F---F----Q- |G|  |D| --- |D| -L-S--------R-------  >BAS04359.1|Lentinula_edodes_ssRNA_mycovirus
----------L---H----K- |G|  |D| --- |D| -I-G--------I-------  ** C1 C2 C3 disagree **  >YP_009337389.1|Shuangao_alphatetra_like_virus_1
+---------L---H----K- |G|  |D| --- |D| -I-G--------I-------  >YP_009337389.1|Shuangao_alphatetra_like_virus_1
 ---------L---V----K- |G|  |D| --- |D| -S-A--------A-------  >YP_009336840.1|Hubei_hepe_like_virus_1
 ---------Y---I----K- |G|  |D| --- |D| -S-L--------A-------  >YP_009333174.1|Bastrovirus_like_virus_VietNam_Bat_17819_21
 ---------A---F----K- |G|  |D| --- |D| -S-L--------L-------  >YP_025094.1|Dendrolimus_punctatus_tetravirus
@@ -12284,7 +12284,7 @@ V--------I---A----S- |G|  |D| --- |D| -S-L--------I-------  >CCC54906.1|Apple_mo
 V--------I---A----S- |G|  |D| --- |D| -S-L--------I-------  >AEP04407.1|Prunus_necrotic_ringspot_virus
 V--------V---A----S- |G|  |D| --- |D| -C-L--------I-------  >YP_054423.1|Humulus_japonicus_latent_virus
 ---------I---F----S- |G|  |D| --- |D| -S-L--------I-------  >NP_041197.1|Brome_mosaic_virus
----------M---F----S- |G|  |D| --- |D| -S-L--------V-------  ** C1 C2 C3 disagree **  >NP_658999.1|Broad_bean_mottle_virus
+---------M---F----S- |G|  |D| --- |D| -S-L--------V-------  >NP_658999.1|Broad_bean_mottle_virus
 ---------F---F----S- |G|  |D| --- |D| -S-L--------L-------  >YP_233102.2|Cassia_yellow_blotch_virus
 ---------I---F----S- |G|  |D| --- |D| -S-L--------L-------  >YP_003208108.1|Melandrium_yellow_fleck_virus
 ---------I---F----S- |G|  |D| --- |D| -S-L--------L-------  >AEI54609.1|Cowpea_chlorotic_mottle_virus
@@ -12638,10 +12638,10 @@ SQGA-----L---L----T- |G|  |D| --- |D| -A-V--------L-------  >NP_620109.1|Pariaco
 ---Q-----F---YCLK-Y- |G|  |D| --- |D| -G-V--------D-------  >YP_009336491.1|Shuangao_insect_virus_10
 ---G-----L---Y----V- |G|  |D| --- |D| -G-A--------R-------  >APG76402.1|Hubei_noda_like_virus_6
 ---G-----L---Y----C- |G|  |D| --- |D| -G-V--------DD------  >YP_009336545.1|Beihai_sphaeromadae_virus_2
----QQWV--L---G----A- |S|  |D| --- |D| -R-I--------R-------  ** C1 C2 C3 disagree **  >YP_009337232.1|Sanxia_water_strider_virus_17
----NDWV--L---G----A- |S|  |D| --- |D| -R-L--------R-------  ** C1 C2 C3 disagree **  >APG76091.1|Hubei_noda_like_virus_11
----NKWV--L---G----A- |S|  |D| --- |D| -R-L--------R-------  ** C1 C2 C3 disagree **  >ADF97523.1|Alphanodavirus_HB_2007_CHN
----QQWV--L---G----A- |S|  |D| --- |D| -R-I--------R-------  ** C1 C2 C3 disagree **  >APG76311.1|Hubei_noda_like_virus_12
+---QQWV--L---G----A- |S|  |D| --- |D| -R-I--------R-------  >YP_009337232.1|Sanxia_water_strider_virus_17
+---NDWV--L---G----A- |S|  |D| --- |D| -R-L--------R-------  >APG76091.1|Hubei_noda_like_virus_11
+---NKWV--L---G----A- |S|  |D| --- |D| -R-L--------R-------  >ADF97523.1|Alphanodavirus_HB_2007_CHN
+---QQWV--L---G----A- |S|  |D| --- |D| -R-I--------R-------  >APG76311.1|Hubei_noda_like_virus_12
 ---G-----L---Y----A- |G|  |D| --- |D| -G-V--------T-------  >YP_009333611.1|Beihai_shrimp_virus_6
 ---S-----L---V----C- |G|  |D| --- |D| -V----------L-------  >APG76320.1|Hubei_noda_like_virus_14
 ---A-----L---V----Y- |G|  |D| --- |D| -T-V--------V-------  >ADI48250.1|Bat_guano_associated_nodavirus_GF_4n
@@ -12715,7 +12715,7 @@ G--------R---F----S- |G|  |D| --- |D| -S-V--------V-------  >YP_009336606.1|Beih
 ---------L---C----N- |G|  |D| --- |D| -I-A--------F-------  >AOW41972.1|Picobirnavirus_sp_
 ---------Q---N----R- |G|  |D| --- |D| -T-M--------P-------  >NP_524561.1|Pseudomonas_phage_phi8
 ---------I---S----K- |S|  |D| --- |D| -A-M--------LG------  >ABK35363.1|Pseudomonas_phage_phi6
----------M---S----K- |S|  |D| --- |D| -A-L--------LG------  ** C1 C2 C3 disagree **  >NP_690817.1|Pseudomonas_phage_phi13
+---------M---S----K- |S|  |D| --- |D| -A-L--------LG------  >NP_690817.1|Pseudomonas_phage_phi13
 ---------M---S----K- |S|  |D| --- |D| -A-L--------IG------  >|Pseudomonas_phage_phiYY
 ---------L---N----N- |G|  |D| --- |D| -E-T--------V-------  >YP_002600763.2|Pseudomonas_phage_phi2954
 ---------I---N----N- |G|  |D| --- |D| -E-I--------V-------  >NP_690823.1|Pseudomonas_phage_phi12
@@ -12755,7 +12755,7 @@ G--------R---F----S- |G|  |D| --- |D| -S-V--------V-------  >YP_009336606.1|Beih
 ---------H---H----M- |G|  |D| --- |D| -Q-L--------D-------  >APG79088.1|Hubei_blood_fluke_virus_3
 ---------N---V----I- |G|  |D| --- |D| -S-L--------S-------  >APG79215.1|Wenling_reo_like_virus_2
 ---------H---HIVRVF- |G|  |D| --- |D| -S-T--------F-------  >AEQ75466.1|Scylla_serrata_reovirus_SZ_2007
----------K---G----V- |G|  |D| --- |D| -S-E--------W-------  ** C1 C2 C3 disagree **  >APG79103.1|Hubei_lepidoptera_virus_5
+---------K---G----V- |G|  |D| --- |D| -S-E--------W-------  >APG79103.1|Hubei_lepidoptera_virus_5
 ---------K---G----V- |G|  |D| --- |D| -S-E--------W-------  >APG79108.1|Hubei_lepidoptera_virus_4
 ---------K---G----V- |G|  |D| --- |D| -A-E--------W-------  >AQU42768.1|Morris_orbivirus
 ---------K---A----V- |G|  |D| --- |D| -S-E--------W-------  >APG79155.1|Hubei_tetragnatha_maxillosa_virus_9
@@ -13058,7 +13058,7 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------L---N----R- |A|  |D| --- |D| -V-M--------E-------  >YP_001976142.1|Alternaria_alternata_virus_1
 ---------L---N----R- |A|  |D| --- |D| -V-A--------E-------  >YP_009272952.1|Fusarium_poae_alternavirus_1
 ---------L---N----R- |A|  |D| --- |D| -V-A--------E-------  >ABX79997.1|Aspergillus_mycovirus_341
----------G--------Y- |S|  |D| --- |D| -V-S--------F-------  ** C1 C2 C3 disagree **  >ALD89129.2|Rhizoctonia_solani_negative_stranded_virus_1
+---------G--------Y- |S|  |D| --- |D| -V-S--------F-------  >ALD89129.2|Rhizoctonia_solani_negative_stranded_virus_1
 ---------G--------Y- |S|  |D| --- |D| -V-S--------F-------  >ALD89130.1|Rhizoctonia_solani_negative_stranded_virus_2
 ---------G--------Y- |S|  |D| --- |D| -V-S--------F-------  >ALD89111.1|Rhizoctonia_solani_negative_stranded_virus_3
 ---------V--------Y- |S|  |D| --- |D| -V-N--------A-------  >YP_009272911.1|Fusarium_poae_negative_stranded_virus_1
@@ -13068,10 +13068,10 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------GT--T----Y- |S|  |D| --- |D| -S-C--------G-------  >YP_089661.1|Citrus_psorosis_virus
 ---------GT--T----Y- |S|  |D| --- |D| -S-C--------G-------  >BAV13384.1|Blueberry_mosaic_associated_virus
 ---------L---T----F- |S|  |D| --- |D| -G-L--------LL------  >YP_009337854.1|Shahe_yuevirus_like_virus_1
----------L---T----F- |S|  |D| --- |D| -G-L--------LA------  ** C1 C2 C3 disagree **  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
+---------L---T----F- |S|  |D| --- |D| -G-L--------LA------  >YP_009330274.1|Beihai_sesarmid_crab_virus_3
 ---------L---C----K- |G|  |D| --- |D| -F-R--------A-------  >YP_009333178.1|Beihai_barnacle_virus_9
 ---------M---D----M- |G|  |D| --- |N| -F-V--------V-------  >YP_009344984.1|Xinzhou_nematode_virus_5
----------M---A----Y- |G|  |D| --- |D| -Y-K--------A-------  ** C1 C2 C3 disagree **  >YP_009337428.1|Sanxia_atyid_shrimp_virus_4
+---------M---A----Y- |G|  |D| --- |D| -Y-K--------A-------  >YP_009337428.1|Sanxia_atyid_shrimp_virus_4
 ---------L---C----K- |G|  |D| --- |D| -M-R--------L-------  >YP_009333151.1|Wenling_chuvirus_like_virus_2
 ---------F---C----K- |G|  |D| --- |D| -F-R--------I-------  >AJG39060.1|Wenzhou_Crab_Virus_2
 ---------L---C----K- |G|  |D| --- |D| -L-R--------V-------  >AJG39070.1|Wuhan_Louse_Fly_Virus_6
@@ -13099,9 +13099,9 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------M---V----N- |G|  |D| --- |D| -L-R--------I-------  >APG78769.1|Hubei_chuvirus_like_virus_4
 ---------F---I----K- |G|  |D| --- |D| -C-R--------I-------  >YP_009302836.1|Wenzhou_Crab_Virus_3
 ---------T---V----K- |G|  |D| --- |D| -V-R--------C-------  >YP_009300663.1|Shayang_Fly_Virus_1
----------T---V----K- |G|  |D| --- |D| -V-R--------A-------  ** C1 C2 C3 disagree **  >APT68159.1|Scaldis_River_bee_virus
+---------T---V----K- |G|  |D| --- |D| -V-R--------A-------  >APT68159.1|Scaldis_River_bee_virus
 ---------T---V----K- |G|  |D| --- |D| -V-R--------A-------  >YP_009336866.1|Hubei_coleoptera_virus_3
----------T---V----K- |G|  |D| --- |D| -V-R--------A-------  ** C1 C2 C3 disagree **  >AJG39083.1|Shuangao_Insect_Virus_5
+---------T---V----K- |G|  |D| --- |D| -V-R--------A-------  >AJG39083.1|Shuangao_Insect_Virus_5
 ---------S---V----K- |G|  |D| --- |D| -C-R--------A-------  >YP_009333157.1|Beihai_hermit_crab_virus_3
 ---------M---G----S- |G|  |D| --- |N| -Q-V--------L-------  >YP_009333185.1|Beihai_barnacle_virus_8
 ---------L---G----A- |G|  |D| --- |N| -Q-I--------L-------  >APG78703.1|Hubei_rhabdo_like_virus_8
@@ -13438,17 +13438,17 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------L---V----Q- |G|  |D| --- |N| -Q-T--------I-------  >NP_945030.1|Dolphin_morbillivirus
 ---------L---V----Q- |G|  |D| --- |N| -Q-T--------I-------  >AGG09147.1|Small_ruminant_morbillivirus
 ---------L---V----Q- |G|  |D| --- |N| -Q-T--------I-------  >ABB71671.1|Measles_morbillivirus
----------V---A----L- |I|  |D| --- |D| -I-M--------Y-------  ** C1 C2 C3 disagree **  >APG78066.1|Hubei_qinvirus_like_virus_2
----------A---A----M- |I|  |D| --- |D| -I-V--------M-------  ** C1 C2 C3 disagree **  >YP_009337864.1|Wenzhou_qinvirus_like_virus_2
----------M---Q----L- |I|  |D| --- |D| -E-V--------M-------  ** C1 C2 C3 disagree **  >YP_009337849.1|Sanxia_Qinvirus_like_virus_1
----------V---V----L- |I|  |D| --- |D| -A-V--------L-------  ** C1 C2 C3 disagree **  >YP_009337852.1|Shahe_qinvirus_like_virus_1
----------A---G----L- |I|  |D| --- |D| -A-M--------Q-------  ** C1 C2 C3 disagree **  >YP_009337847.1|Hubei_qinvirus_like_virus_1
+---------V---A----L- |I|  |D| --- |D| -I-M--------Y-------  >APG78066.1|Hubei_qinvirus_like_virus_2
+---------A---A----M- |I|  |D| --- |D| -I-V--------M-------  >YP_009337864.1|Wenzhou_qinvirus_like_virus_2
+---------M---Q----L- |I|  |D| --- |D| -E-V--------M-------  >YP_009337849.1|Sanxia_Qinvirus_like_virus_1
+---------V---V----L- |I|  |D| --- |D| -A-V--------L-------  >YP_009337852.1|Shahe_qinvirus_like_virus_1
+---------A---G----L- |I|  |D| --- |D| -A-M--------Q-------  >YP_009337847.1|Hubei_qinvirus_like_virus_1
 ---------A---G----L- |I|  |D| --- |D| -A-V--------Q-------  >YP_009342465.1|Wuhan_insect_virus_15
 ---------A---C----L- |I|  |D| --- |D| -G-V--------L-------  >YP_009330273.1|Beihai_sesarmid_crab_virus_4
 ---------M---T----M- |I|  |D| --- |D| -A-V--------I-------  >YP_009345119.1|Xinzhou_nematode_virus_3
 ---------M---A----M- |I|  |D| --- |D| -A-V--------I-------  >YP_009337866.1|Wenzhou_qinvirus_like_virus_1
 -------------------- |A|  |D| --- |D| -Q-W--------M-------  >APG79334.1|Hubei_bunya_like_virus_11
----------Y---T----N- |A|  |D| --- |D| -N-C----------------  ** C1 C2 C3 disagree **  >APG79225.1|Beihai_hermit_crab_virus_2
+---------Y---T----N- |A|  |D| --- |D| -N-C----------------  >APG79225.1|Beihai_hermit_crab_virus_2
 ---------F---S----T- |S|  |D| --- |D| -G-L--------R-------  >ALD89133.1|Rhizoctonia_solani_negative_stranded_virus_4
 ---------F---V----T- |S|  |D| --- |D| -Y-H--------R-------  >APG79310.1|Shahe_bunya_like_virus_1
 ---------D---V----H- |S|  |D| --- |D| -S-W--------L-------  >AJG39247.1|Shayang_Spider_Virus_2
@@ -13884,7 +13884,7 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >AGQ47773.1|Influenza_A_virus_A_Fort_Monmouth_1_JY2_1947_H1N1_
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >ADV69061.1|Influenza_A_virus_A_Denmark_105_2010_H3N2_
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >ABK00130.1|Influenza_A_virus_A_swine_Anhui_ca_2004_H5N1_
----------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  ** C1 C2 C3 disagree **  >AEK49762.1|Influenza_A_virus_A_gadwall_California_8504_2008_H6N1_
+---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >AEK49762.1|Influenza_A_virus_A_gadwall_California_8504_2008_H6N1_
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >ADE75156.1|Influenza_A_virus_A_mallard_Sweden_41_2002_H10N6_
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >AEM98331.1|Influenza_A_virus_A_wild_duck_Mongolia_1_241_2008_H7N9_
 ---------L---Q----S- |S|  |D| --- |D| -F-A--------L-------  >AOG30371.1|Influenza_A_virus_A_swine_Nebraska_A01476438_2014_H1N2_
@@ -13905,5 +13905,5 @@ TDMTIQRNYV---C----Q- |G|  |D| --- |D| -G-I--------L-------  >ANE37523.1|Grass_ca
 ---------L---S----F- |S|  |D| --- |D| -F-I--------T-------  >YP_009246481.1|Tilapia_lake_virus
 ---------C---A----S- |S|  |D| --- |D| -S-M--------VRAKKIL-  >YP_009337891.1|Changping_earthworm_virus_2
 
-Total disagreements 68 C1 (1.5%), 68 C2 (1.5%), 68 C3 (1.5%)
-@QC2 RNAvirome.S2.afa:  1233/4627 seqs (26.65%), 1423/27708 letters disagree (5.14%)
+Total disagreements 28 C1 (0.6%), 28 C2 (0.6%), 28 C3 (0.6%)
+@QC2 d:/data/wolf2018/RNAvirome.S2.afa:  1138/4627 seqs (24.59%), 1207/27000 letters disagree (4.47%)
